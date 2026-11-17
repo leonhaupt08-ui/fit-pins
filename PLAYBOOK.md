@@ -1,14 +1,17 @@
 # Daily Pin Playbook – Fit Essentials (Pinterest: Lildesports)
 
-The daily scheduled session follows this file. Goal: publish **5 new pins per day** that follow the
+The daily scheduled session follows this file. Goal: publish **5 new pins per day**, spread over three runs
+(about 9:00, 15:00 and 19:00 Europe/Berlin) that follow the
 pattern of the account's best performers, without the owner having to do anything.
 
 ## Daily run
 
 1. Work in this repository (`leonhaupt08-ui/fit-pins`, branch `main`).
-2. Open `queue.json`. Take the **5 oldest entries with `"status": "queued"`** whose image
-   `pins/<slug>.jpg` exists in the repo **and was pushed in an earlier run** (GitHub Pages needs a
-   minute or two to publish new files – never post an image pushed in the same run).
+2. Open `queue.json`. Count the pins with `posted_at` = today (Europe/Berlin date). This run posts
+   **up to 2 pins**, but never more than **5 pins per day** in total (so the evening run usually posts 1).
+   Take the oldest entries with `"status": "queued"` whose image `pins/<slug>.jpg` exists in the repo
+   **and was pushed in an earlier run** (GitHub Pages needs a minute or two to publish new files –
+   never post an image pushed in the same run).
 3. Post each one with the Zapier tool `pinterest_create_pin` (selected_api `PinterestCLIAPI`,
    action `create_pin`):
    - `board_id`: entry `board_id`
