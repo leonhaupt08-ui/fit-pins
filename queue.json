@@ -31,7 +31,7 @@
   },
   {
     "slug": "03-ribbed-long-sleeve-men",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B0B2DC5Y2Y?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/24/6d/f0/246df066239587b9598797006c5a5470.jpg",
     "board_id": "1110207814332820701",
@@ -40,11 +40,13 @@
     "subline": "Clean casual style for men",
     "position": "center 30%",
     "title": "Men's Ribbed Long Sleeve Shirt Outfit | Clean Casual Style",
-    "description": "Grey ribbed long sleeve henley for men – slim fit, clean and timeless. Wear it with black pants and a watch for an elevated casual outfit, date night or everyday look.\n\nWerbung | Affiliate-Link\n\n#MensStyle #RibbedShirt #HenleyShirt #CasualOutfit #MensFashion"
+    "description": "Grey ribbed long sleeve henley for men – slim fit, clean and timeless. Wear it with black pants and a watch for an elevated casual outfit, date night or everyday look.\n\nWerbung | Affiliate-Link\n\n#MensStyle #RibbedShirt #HenleyShirt #CasualOutfit #MensFashion",
+    "posted_at": "2026-11-17",
+    "pin_id": "1110207745680601477"
   },
   {
     "slug": "04-all-black-gym-outfit-men",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B0BCGR2CP1?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/54/2e/89/542e8939b0eb172586d35d567915b3ea.jpg",
     "board_id": "1110207814332820701",
@@ -53,11 +55,13 @@
     "subline": "5-piece workout set for men",
     "position": "left center",
     "title": "All Black Gym Outfit Men | 5 Piece Workout Set",
-    "description": "All black gym outfit for men: 5 piece workout set with zip hoodie, compression t-shirt, long sleeve top, shorts and compression leggings. One set for lifting, running and training.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #AllBlackOutfit #GymWear #WorkoutClothes #MensActivewear"
+    "description": "All black gym outfit for men: 5 piece workout set with zip hoodie, compression t-shirt, long sleeve top, shorts and compression leggings. One set for lifting, running and training.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #AllBlackOutfit #GymWear #WorkoutClothes #MensActivewear",
+    "posted_at": "2026-11-17",
+    "pin_id": "1110207745680601481"
   },
   {
     "slug": "05-high-waist-gym-shorts",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B0GKNDGC6G?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/e7/2b/89/e72b89875be4ad161d1b0ea95c36a52d.jpg",
     "board_id": "1110207814332820674",
@@ -66,6 +70,8 @@
     "subline": "Women's workout outfit idea",
     "position": "center 40%",
     "title": "High Waist Gym Shorts | Black Workout Shorts Outfit",
-    "description": "Black high waist gym shorts for women – biker shorts style that is easy to combine with a sports bra or crop top. Workout outfit idea for the gym, running and summer training.\n\nWerbung | Affiliate-Link\n\n#GymShorts #WorkoutOutfit #BikerShorts #GymOutfitWomen #Activewear"
+    "description": "Black high waist gym shorts for women – biker shorts style that is easy to combine with a sports bra or crop top. Workout outfit idea for the gym, running and summer training.\n\nWerbung | Affiliate-Link\n\n#GymShorts #WorkoutOutfit #BikerShorts #GymOutfitWomen #Activewear",
+    "posted_at": "2026-11-17",
+    "pin_id": "1110207745680601485"
   }
 ]
