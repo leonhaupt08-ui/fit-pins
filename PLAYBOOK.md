@@ -20,8 +20,10 @@ pattern of the account's best performers, without the owner having to do anythin
    - `title`, `description`: from the entry
 4. On success set `"status": "posted"`, `"posted_at": "<YYYY-MM-DD>"`, `"pin_id": "<id>"`.
    On failure set `"status": "failed"` and `"error": "<short reason>"` and do not retry more than once.
-5. If fewer than **10** entries are `queued`, create **10 new entries** (see below), render them with
-   `node tools/render.js`, look at every rendered image (crop, readability) and fix bad ones.
+5. **New products only.** Do not create entries from products that already appear in the account's
+   old pins (the owner wants new products). New entries are created only from products the owner sends
+   in the chat (Amazon partner link + photo/screenshot); those are added to `queue.json` right away.
+   If the queue is empty, post nothing and tell the owner in German that new product links are needed.
 6. Commit and push (`git -c push.negotiate=true push origin main`). Commit message: `Daily pins <date>`.
 7. Finish with a short summary in German: which pins were posted (with links
    `https://www.pinterest.com/pin/<pin_id>/`), how many are still queued.
@@ -32,7 +34,10 @@ Zapier trial/connection has ended and the owner should tell Claude, and end the 
 
 ## Creating new entries
 
-Source products from the account's own existing pins (they already carry the affiliate tag `lilmedia-21`):
+Only for **new** products the owner sends (link + image). The steps below that read old pins are kept
+only as reference for the entry format – do not use old products for new entries.
+
+Reference (old method):
 
 1. Read the account's pins via Zapier `pinterest_make_api_get_request`
    (`https://api.pinterest.com/v5/pins`, `page_size` 100, follow `bookmark`). Large results are saved to
