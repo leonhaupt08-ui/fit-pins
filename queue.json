@@ -121,7 +121,7 @@
   },
   {
     "slug": "09-compression-shirts-men",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B0GHZ3CXNB?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/b7/88/98/b78898df0efd656c8b92823f6556059f.jpg",
     "board_id": "1110207814332820701",
@@ -130,11 +130,13 @@
     "subline": "Gym basics in black, white & grey",
     "position": "center 25%",
     "title": "Men's Compression Shirts 3 Pack | Gym T-Shirts Black White Grey",
-    "description": "Men's compression gym shirts in black, white and grey. Fitted short sleeve training tops for lifting, running and everyday gym outfits.\n\nWerbung | Affiliate-Link\n\n#CompressionShirt #GymOutfitMen #GymWear #MensActivewear #WorkoutClothes"
+    "description": "Men's compression gym shirts in black, white and grey. Fitted short sleeve training tops for lifting, running and everyday gym outfits.\n\nWerbung | Affiliate-Link\n\n#CompressionShirt #GymOutfitMen #GymWear #MensActivewear #WorkoutClothes",
+    "posted_at": "2026-11-18",
+    "pin_id": "1110207745680640564"
   },
   {
     "slug": "10-grey-running-shorts-women",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B0FFS826J6?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/d7/95/aa/d795aa03f957c91a08522d4f38b70e89.jpg",
     "board_id": "1110207814332820674",
@@ -143,7 +145,9 @@
     "subline": "Comfy summer workout outfit",
     "position": "center 45%",
     "title": "Grey Running Shorts Women | Comfy Sport & Summer Outfit",
-    "description": "Soft grey running shorts for women with drawstring waist and white trim. Style them with a white crop top for a comfy workout, running or summer outfit.\n\nWerbung | Affiliate-Link\n\n#RunningShorts #WorkoutOutfit #GymShorts #SummerOutfit #Activewear"
+    "description": "Soft grey running shorts for women with drawstring waist and white trim. Style them with a white crop top for a comfy workout, running or summer outfit.\n\nWerbung | Affiliate-Link\n\n#RunningShorts #WorkoutOutfit #GymShorts #SummerOutfit #Activewear",
+    "posted_at": "2026-11-18",
+    "pin_id": "1110207745680640566"
   },
   {
     "slug": "11-black-training-tshirt-men",
