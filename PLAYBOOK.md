@@ -84,5 +84,5 @@ Reference (old method):
 | Women's Gym Tops & Sports Bras | 1110207814332850044 |
 | Men's Gym & Running Shoes | 1110207814332971379 |
 | Women's Gym & Running Shoes | 1110207814332963572 |
-| Gym Equipment & Workout Essentials | 1110207814332816389 |
-| Muscle Recovery & Sleep Essentials | 1110207814332963633 |
+| Gym Equipment, Recovery & Home Gym (equipment AND recovery products) | 1110207814332816389 |
+| ~~Muscle Recovery & Sleep Essentials~~ (do not use, empty, may be deleted) | 1110207814332963633 |

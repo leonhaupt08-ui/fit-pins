@@ -26,8 +26,8 @@ Alles, was zu deinem Pinterest-Business gehört, auf einen Blick.
 | Men's Gym Outfits & Athleisure | Alles an Kleidung für Männer |
 | Men's Gym & Running Shoes | Schuhe für Männer |
 | Women's Gym & Running Shoes | Schuhe für Frauen |
-| Gym Equipment & Workout Essentials | Taschen, Shaker, Hanteln, Bänder, Zubehör |
-| Muscle Recovery & Sleep Essentials | Faszienrolle, Massageball, Magnesium, Bittersalz |
+| Gym Equipment, Recovery & Home Gym | Taschen, Shaker, Hanteln, Bänder, Zubehör **und** Recovery (Faszienrolle, Massageball, Magnesium) |
+| Muscle Recovery & Sleep Essentials | leer – in der App löschen (Board → … → Bearbeiten → Löschen) |
 
 Regel: **Kleidung nach Frau/Mann, Zubehör nach Zweck.**
 
@@ -55,8 +55,8 @@ Pinterest erlaubt das nicht über Apps, nur von Hand:
       `Gym outfits, activewear & fitness essentials for women and men 🖤 New finds daily. Affiliate links. IG: @fit.finds.de`
 - [ ] **Name** ändern: `Fit Essentials | Gym Outfits & Fitness Finds`
 - [ ] **Board-Reihenfolge** (Profil → Gespeichert → Sortieren → Eigene Reihenfolge), Reihenfolge wie in der Tabelle oben
-- [ ] **Recovery-Pins verschieben**: Board „Gym Equipment“ → Organisieren → Epsom Salt, Massage Ball, Magnesium Body Lotion, Melatonin, Foam Roller markieren → Verschieben → „Muscle Recovery & Sleep Essentials“
-- [ ] **Sauna Vest** aus „Women's Gym Outfits“ nach „Gym Equipment“ verschieben
+- [ ] **Leeres Board löschen**: „Muscle Recovery & Sleep Essentials“ → … → Board bearbeiten → Löschen
+- [ ] Optional: **Sauna Vest** aus „Women's Gym Outfits“ nach „Gym Equipment, Recovery & Home Gym“ verschieben
 - [ ] Optional: **Website bestätigen** (Einstellungen → Konten beanspruchen → Website → HTML-Tag) und den Tag an Claude schicken
 
 ## 6. Wenn etwas nicht geht
