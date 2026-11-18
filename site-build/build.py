@@ -1,6 +1,6 @@
-# Generates the static Fit Essentials website from data/products.json.
+# Generates the static Fit Essentials website (English) from data/products.json.
 # Run from the repo root: python3 site-build/build.py
-import html, json, os, re
+import html, json, os, re, shutil
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 BASE = '/fit-pins'
@@ -9,24 +9,32 @@ products = json.load(open(os.path.join(ROOT, 'data', 'products.json')))
 # Titles with hype or health promises are cut back to the product name.
 HYPE = re.compile(r'\s*[–|-]\s*[^–|-]*!\s*$')
 BANNED = re.compile(r'lose|burn|fat|abnehm|heil|cure', re.I)
+TITLES = json.load(open(os.path.join(ROOT, 'data', 'titles_en.json')))
 for p in products:
-    t = HYPE.sub('', p['title']).strip()
+    t = TITLES.get(p['asin']) or HYPE.sub('', p['title']).strip()
     if BANNED.search(t):
         t = re.split(r'\s[–|-]\s', t)[0]
     p['title'] = t
 
 CATS = [
-    ('damen-outfits', 'Damen Gym Outfits'),
+    ('damen-outfits', "Women's Gym Outfits"),
     ('leggings', 'Leggings'),
-    ('damen-tops', 'Damen Tops & Sport-BHs'),
-    ('damen-shorts', 'Damen Shorts'),
-    ('herren-outfits', 'Herren Gym Outfits'),
-    ('schuhe', 'Schuhe'),
+    ('damen-tops', "Women's Tops & Sports Bras"),
+    ('damen-shorts', "Women's Shorts"),
+    ('herren-outfits', "Men's Gym Outfits"),
+    ('schuhe', 'Shoes'),
     ('equipment', 'Gym Equipment'),
     ('recovery', 'Recovery'),
 ]
+CATNAME = dict(CATS)
+for p in products:
+    p['catname'] = CATNAME.get(p['cat'], 'Other')
 CATS = [(k, n) for k, n in CATS if any(p['cat'] == k for p in products)]
 by_asin = {p['asin']: p for p in products}
+
+# Old German URLs are removed so only the English site is served.
+for old in ('produkte', 'impressum', 'blog'):
+    shutil.rmtree(os.path.join(ROOT, old), ignore_errors=True)
 
 def esc(s):
     return html.escape(s, quote=True)
@@ -36,16 +44,16 @@ def page(path, title, desc, body, current=''):
         cur = ' aria-current="page"' if key == current else ''
         return f'<a href="{BASE}{href}"{cur}>{label}</a>'
     doc = f'''<!doctype html>
-<html lang="de"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{esc(title)}</title><meta name="description" content="{esc(desc)}">
 <link rel="stylesheet" href="{BASE}/assets/style.css"></head>
 <body>
 <header class="site"><div class="wrap"><a class="logo" href="{BASE}/"><b>FE</b>FIT ESSENTIALS</a>
-<nav class="main">{nav('/produkte/', 'Produkte', 'produkte')}{nav('/blog/', 'Blog', 'blog')}</nav></div></header>
+<nav class="main">{nav('/products/', 'Products', 'products')}{nav('/blog/', 'Blog', 'blog')}</nav></div></header>
 <main>{body}</main>
 <footer class="site"><div class="wrap">
-<p><strong>Werbung / Affiliate-Links:</strong> Links zu Amazon sind Affiliate-Links (mit * gekennzeichnet). Als Amazon-Partner verdiene ich an qualifizierten Verkäufen. Für dich ändert sich der Preis nicht.</p>
-<nav><a href="https://www.instagram.com/fit.finds.de">Instagram</a><a href="https://www.pinterest.com/Lildesports/">Pinterest</a><a href="{BASE}/impressum/">Impressum</a><a href="{BASE}/privacy/">Datenschutz</a></nav>
+<p><strong>Advertising / affiliate links:</strong> Links to Amazon are affiliate links (marked with *). As an Amazon Associate I earn from qualifying purchases. The price stays the same for you.</p>
+<nav><a href="https://www.instagram.com/fit.finds.de">Instagram</a><a href="https://www.pinterest.com/Lildesports/">Pinterest</a><a href="{BASE}/legal-notice/">Legal Notice (Impressum)</a><a href="{BASE}/privacy/">Privacy Policy</a></nav>
 <p>© 2026 Fit Essentials</p></div></footer>
 </body></html>
 '''
@@ -56,15 +64,14 @@ def page(path, title, desc, body, current=''):
 def card(p):
     return f'''<div class="card" data-cat="{p['cat']}"><div class="ph"><img src="{esc(p['img'])}" alt="{esc(p['title'])}" loading="lazy"></div>
 <div class="body"><div class="c">{esc(p['catname'])}</div><h3>{esc(p['title'])}</h3>
-<a class="btn" href="{esc(p['url'])}" rel="nofollow sponsored noopener" target="_blank">Bei Amazon ansehen*</a></div></div>'''
+<a class="btn" href="{esc(p['url'])}" rel="nofollow sponsored noopener" target="_blank">View on Amazon*</a></div></div>'''
 
-def pbox(asin, note=''):
+def pbox(asin):
     p = by_asin.get(asin)
     if not p:
         return ''
-    n = f'<p style="margin:2px 0 0;font-size:15px">{esc(note)}</p>' if note else ''
-    return f'''<div class="pbox"><img src="{esc(p['img'])}" alt="{esc(p['title'])}" loading="lazy"><div><h3>{esc(p['title'])}</h3>{n}
-<a class="btn" href="{esc(p['url'])}" rel="nofollow sponsored noopener" target="_blank">Bei Amazon ansehen*</a></div></div>'''
+    return f'''<div class="pbox"><img src="{esc(p['img'])}" alt="{esc(p['title'])}" loading="lazy"><div><h3>{esc(p['title'])}</h3>
+<a class="btn" href="{esc(p['url'])}" rel="nofollow sponsored noopener" target="_blank">View on Amazon*</a></div></div>'''
 
 def pick(cat, n, skip=()):
     return [p['asin'] for p in products if p['cat'] == cat and p['asin'] not in skip][:n]
@@ -75,58 +82,58 @@ POSTS = []
 def post(slug, title, desc, body_html):
     POSTS.append((slug, title, desc))
     page(f'/blog/{slug}/', f'{title} | Fit Essentials', desc,
-         f'<article><div class="eyebrow">Ratgeber</div><h1>{esc(title)}</h1>'
-         f'<p class="note">Dieser Artikel enthält Affiliate-Links (Werbung). Die Produkte sind eine Auswahl, keine Testberichte.</p>'
-         f'{body_html}<p style="margin-top:40px"><a class="btn ghost" href="{BASE}/produkte/">Alle Produkte ansehen</a></p></article>',
+         f'<article><div class="eyebrow">Guide</div><h1>{esc(title)}</h1>'
+         f'<p class="note">This article contains affiliate links (advertising). The products are a curated selection, not test reports.</p>'
+         f'{body_html}<p style="margin-top:40px"><a class="btn ghost" href="{BASE}/products/">See all products</a></p></article>',
          current='blog')
 
-leg = pick('leggings', 4)
-post('beste-gym-leggings', 'Gym Leggings: Darauf solltest du beim Kauf achten',
-     'High Waist, blickdicht, mit Taschen: So findest du Gym Leggings, die beim Training sitzen – plus eine Auswahl beliebter Modelle.',
-     f'''<p>Leggings sind das Teil im Gym-Outfit, das am meisten aushalten muss: Kniebeugen, Ausfallschritte, Cardio. Bevor du kaufst, lohnt sich ein Blick auf vier Punkte.</p>
-<h2>1. Blickdicht beim Squat</h2><p>Halte die Leggings beim Anprobieren gedehnt ins Licht oder mach eine tiefe Kniebeuge vor dem Spiegel. Dickere, matte Stoffe sind meist blickdichter als dünne, glänzende.</p>
-<h2>2. High Waist</h2><p>Ein hoher Bund bleibt bei Bewegung besser an Ort und Stelle und lässt sich leicht mit Crop Tops und Sport-BHs kombinieren.</p>
-<h2>3. Nähte und Passform</h2><p>Seamless-Leggings haben kaum Nähte und scheuern weniger. Scrunch-Modelle formen optisch, sind aber Geschmackssache.</p>
-<h2>4. Taschen</h2><p>Seitliche Taschen für das Handy sind beim Laufen und im Gym praktischer, als man denkt.</p>
-<h2>Beliebte Modelle</h2>{''.join(pbox(a) for a in leg)}''')
+leg = ['B0D9WJTBHR'] + pick('leggings', 3, skip=('B0D9WJTBHR',))
+post('how-to-choose-gym-leggings', 'Gym Leggings: What to Look for Before You Buy',
+     'High waist, squat proof, with pockets: how to find gym leggings that stay in place during training – plus a selection of popular styles.',
+     f'''<p>Leggings are the part of your gym outfit that has to handle the most: squats, lunges, cardio. Before you buy, check these four things.</p>
+<h2>1. Squat proof</h2><p>Stretch the fabric in front of a light or do a deep squat in front of a mirror. Thicker, matte fabrics are usually more opaque than thin, shiny ones.</p>
+<h2>2. High waist</h2><p>A high waistband stays in place better when you move and is easy to pair with crop tops and sports bras.</p>
+<h2>3. Seams and fit</h2><p>Seamless leggings have hardly any seams and chafe less. Scrunch styles shape the look but are a matter of taste.</p>
+<h2>4. Pockets</h2><p>Side pockets for your phone are more useful for running and the gym than you might think.</p>
+<h2>Popular styles</h2>{''.join(pbox(a) for a in leg)}''')
 
-wo = pick('damen-outfits', 4)
-post('gym-outfit-ideen-damen', 'Gym Outfit Ideen für Frauen: 4 Looks, die immer funktionieren',
-     'Matching Sets, All Black oder sportlich-casual: Vier einfache Gym-Outfit-Ideen für Frauen zum Nachstylen.',
-     f'''<p>Ein gutes Gym-Outfit muss nicht kompliziert sein. Diese vier Looks funktionieren im Training und auf dem Weg dorthin.</p>
-<h2>1. Das Matching Set</h2><p>Top und Leggings in derselben Farbe wirken sofort aufgeräumt. Dunkelgrau, Schwarz und Braun sind leicht zu kombinieren.</p>
-<h2>2. All Black</h2><p>Schwarze Leggings, schwarzes Top, weiße Socken und weiße Sneaker – der Klassiker, der nie falsch ist.</p>
-<h2>3. Shorts statt Leggings</h2><p>Für Cardio und warme Tage: High-Waist-Shorts mit Sport-BH oder Crop Top.</p>
-<h2>4. Gym to Street</h2><p>Eine Zip-Jacke oder ein Oversized-Hoodie über dem Set – fertig für den Weg nach Hause.</p>
-<h2>Sets und Outfits zum Nachshoppen</h2>{''.join(pbox(a) for a in wo)}{''.join(pbox(a) for a in pick('damen-shorts', 1))}''')
+wo = ['B0FJ4NKKYM', 'B0FJRKHXQP'] + pick('damen-outfits', 2, skip=('B0FJ4NKKYM', 'B0FJRKHXQP'))
+post('gym-outfit-ideas-for-women', 'Gym Outfit Ideas for Women: 4 Looks That Always Work',
+     'Matching sets, all black or sporty casual: four easy gym outfit ideas for women to recreate.',
+     f'''<p>A good gym outfit doesn't have to be complicated. These four looks work for training and on the way there.</p>
+<h2>1. The matching set</h2><p>Top and leggings in the same color instantly look put together. Dark grey, black and brown are easy to combine.</p>
+<h2>2. All black</h2><p>Black leggings, black top, white socks and white sneakers – the classic that never goes wrong.</p>
+<h2>3. Shorts instead of leggings</h2><p>For cardio and warm days: high waisted shorts with a sports bra or crop top.</p>
+<h2>4. Gym to street</h2><p>Throw a zip jacket or an oversized hoodie over your set and you're ready for the way home.</p>
+<h2>Sets and outfits to shop</h2>{''.join(pbox(a) for a in wo)}{pbox('B0GKNDGC6G')}''')
 
-mo = pick('herren-outfits', 5)
-post('gym-outfit-herren', 'Gym Outfit für Männer: Clean, simpel, ohne viel Nachdenken',
-     'So stellst du dir als Mann ein schlichtes Gym-Outfit zusammen: Basics, Farben und Kombinationen – mit Produktauswahl.',
-     f'''<p>Die meisten guten Gym-Outfits für Männer bestehen aus wenigen Basics in Schwarz, Grau und Weiß. Damit passt alles zu allem.</p>
-<h2>Die Basics</h2><ul><li>2–3 enge oder normale Trainingsshirts</li><li>Shorts oder Jogginghose</li><li>Ein Hoodie oder eine Zip-Jacke für den Weg</li><li>Schlichte Sneaker und Sportsocken</li></ul>
-<h2>Farben</h2><p>Bleib bei Schwarz, Grau und Weiß. Ein komplett schwarzes Outfit wirkt immer clean, graue Sweatpants mit weißem Shirt sind der Streetwear-Klassiker.</p>
-<h2>Passform</h2><p>Kompressionsshirts liegen eng an, normale Trainingsshirts sitzen lockerer. Für den Alltag nach dem Training eignen sich Baggy-Sweatpants.</p>
-<h2>Produkte zum Nachshoppen</h2>{''.join(pbox(a) for a in mo)}''')
+mo = ['B0HB8Y3GLY', 'B0BCGR2CP1', 'B0B2DC5Y2Y', 'B0GHZ3CXNB', 'B0H3KL31X9']
+post('gym-outfit-for-men', "Gym Outfits for Men: Clean, Simple, No Overthinking",
+     'How to put together a simple gym outfit as a man: basics, colors and combinations – with product picks.',
+     f'''<p>Most good gym outfits for men are built from a few basics in black, grey and white. That way everything goes with everything.</p>
+<h2>The basics</h2><ul><li>2–3 fitted or regular training shirts</li><li>Shorts or joggers</li><li>A hoodie or zip jacket for the way there</li><li>Simple sneakers and sports socks</li></ul>
+<h2>Colors</h2><p>Stick to black, grey and white. An all black outfit always looks clean, and grey sweatpants with a white tee are the streetwear classic.</p>
+<h2>Fit</h2><p>Compression shirts fit tight, regular training shirts sit looser. Baggy sweatpants are great for everyday wear after training.</p>
+<h2>Products to shop</h2>{''.join(pbox(a) for a in mo)}''')
 
 eq = pick('equipment', 5)
-post('gym-tasche-checkliste', 'Gym-Tasche packen: Die Checkliste für jedes Training',
-     'Was gehört in die Gym-Tasche? Eine einfache Checkliste von Trinkflasche bis Handtuch – plus praktische Produkte.',
-     f'''<p>Nichts ist nerviger, als im Gym zu merken, dass etwas fehlt. Mit dieser Liste bist du in zwei Minuten startklar.</p>
-<h2>Immer dabei</h2><ul><li>Trinkflasche oder Shaker</li><li>Handtuch</li><li>Kopfhörer</li><li>Wechselshirt und Socken</li><li>Schloss für den Spind</li></ul>
-<h2>Je nach Training</h2><ul><li>Zughilfen oder Handschuhe fürs schwere Ziehen</li><li>Fitnessbänder fürs Aufwärmen</li><li>Gewichtheberschuhe für Kniebeugen</li></ul>
-<h2>Nach dem Training</h2><ul><li>Duschgel und Deo</li><li>Beutel für nasse Sachen</li></ul>
-<h2>Praktische Produkte</h2>{''.join(pbox(a) for a in eq)}''')
+post('gym-bag-checklist', 'What to Pack in Your Gym Bag: The Complete Checklist',
+     'What belongs in your gym bag? A simple checklist from water bottle to towel – plus useful products.',
+     f'''<p>Nothing is more annoying than realizing at the gym that something is missing. With this list you're ready in two minutes.</p>
+<h2>Always</h2><ul><li>Water bottle or shaker</li><li>Towel</li><li>Headphones</li><li>Spare shirt and socks</li><li>Lock for the locker</li></ul>
+<h2>Depending on your workout</h2><ul><li>Lifting straps or gloves for heavy pulls</li><li>Resistance bands for warming up</li><li>Weightlifting shoes for squats</li></ul>
+<h2>After training</h2><ul><li>Shower gel and deodorant</li><li>Bag for wet clothes</li></ul>
+<h2>Useful products</h2>{''.join(pbox(a) for a in eq)}''')
 
 # ---------- blog index ----------
-page('/blog/', 'Blog | Fit Essentials', 'Ratgeber zu Gym Outfits, Leggings und Trainings-Essentials.',
-     '<section><div class="wrap"><div class="eyebrow">Blog</div><h1>Ratgeber</h1><p class="lead">Outfit-Ideen und Kaufhilfen für dein Training.</p></div></section>'
+page('/blog/', 'Blog | Fit Essentials', 'Guides to gym outfits, leggings and training essentials.',
+     '<section><div class="wrap"><div class="eyebrow">Blog</div><h1>Guides</h1><p class="lead">Outfit ideas and buying guides for your training.</p></div></section>'
      '<section style="padding-top:0"><div class="wrap"><div class="posts">'
      + ''.join(f'<a class="post-card" href="{BASE}/blog/{s}/"><h3>{esc(t)}</h3><p>{esc(d)}</p></a>' for s, t, d in POSTS)
      + '</div></div></section>', current='blog')
 
 # ---------- products ----------
-filters = '<button type="button" data-f="all" aria-pressed="true">Alle</button>' + ''.join(
+filters = '<button type="button" data-f="all" aria-pressed="true">All</button>' + ''.join(
     f'<button type="button" data-f="{k}" aria-pressed="false">{esc(n)}</button>' for k, n in CATS)
 script = '''<script>
 (function(){var bs=document.querySelectorAll('.filters button'),cs=document.querySelectorAll('.grid .card');
@@ -135,32 +142,33 @@ cs.forEach(function(c){c.classList.toggle('hidden',f!=='all'&&c.dataset.cat!==f)
 bs.forEach(function(b){b.addEventListener('click',function(){apply(b.dataset.f);history.replaceState(null,'',b.dataset.f==='all'?location.pathname:'#'+b.dataset.f)})});
 var h=location.hash.slice(1);if(h&&document.querySelector('[data-f="'+h+'"]'))apply(h);})();
 </script>'''
-page('/produkte/', 'Alle Produkte | Fit Essentials',
-     'Gym Outfits für Damen und Herren, Leggings, Schuhe und Gym Equipment – alle Fit-Essentials-Favoriten an einem Ort.',
-     f'<section><div class="wrap"><div class="eyebrow">Shop the Look</div><h1>Alle Produkte</h1><p class="lead">{len(products)} Favoriten aus Gym-Mode und Equipment. Filtere nach Kategorie.</p></div></section>'
+page('/products/', 'All Products | Fit Essentials',
+     "Gym outfits for women and men, leggings, shoes and gym equipment – all Fit Essentials favorites in one place.",
+     f'<section><div class="wrap"><div class="eyebrow">Shop the look</div><h1>All Products</h1><p class="lead">{len(products)} favorites from gym fashion and equipment. Filter by category.</p></div></section>'
      f'<section style="padding-top:0"><div class="wrap"><div class="filters">{filters}</div><div class="grid">'
-     + ''.join(card(p) for p in products) + f'</div></div></section>{script}', current='produkte')
+     + ''.join(card(p) for p in products) + f'</div></div></section>{script}', current='products')
 
 # ---------- home ----------
 TOP = ['B0HB8Y3GLY', 'B0D9WJTBHR', 'B0FJ4NKKYM', 'B0BCGR2CP1', 'B0GKNDGC6G', 'B0B2DC5Y2Y', 'B0FJRKHXQP', 'B0GHZ3CXNB']
 featured = [by_asin[a] for a in TOP if a in by_asin][:8]
-cats_html = ''.join(f'<a class="cat" href="{BASE}/produkte/#{k}">{esc(n)}<span>{sum(p["cat"] == k for p in products)}</span></a>' for k, n in CATS)
+cats_html = ''.join(f'<a class="cat" href="{BASE}/products/#{k}">{esc(n)}<span>{sum(p["cat"] == k for p in products)}</span></a>' for k, n in CATS)
 page('/', 'Fit Essentials | Gym Outfits & Fitness Finds',
-     'Gym Outfits für Damen und Herren, Leggings, Activewear und Gym Equipment – Outfit-Ideen und Ratgeber von Fit Essentials.',
+     'Gym outfits for women and men, leggings, activewear and gym equipment – outfit ideas and guides from Fit Essentials.',
      f'''<section class="hero"><div class="wrap"><div class="eyebrow">Fit Essentials</div>
-<h1>Gym Outfits &amp;<br>Fitness Finds</h1><p class="lead">Activewear, Outfit-Ideen und Gym-Essentials für Damen und Herren – ausgewählt, damit du nicht stundenlang suchen musst.</p>
-<div class="btns"><a class="btn" href="{BASE}/produkte/">Produkte entdecken</a><a class="btn ghost" href="{BASE}/blog/">Zum Ratgeber</a></div></div></section>
-<section><div class="wrap"><div class="section-head"><h2>Kategorien</h2></div><div class="cats">{cats_html}</div></div></section>
-<section style="padding-top:0"><div class="wrap"><div class="section-head"><h2>Beliebte Outfits</h2><a href="{BASE}/produkte/">Alle ansehen →</a></div>
+<h1>Gym Outfits &amp;<br>Fitness Finds</h1><p class="lead">Activewear, outfit ideas and gym essentials for women and men – handpicked so you don't have to search for hours.</p>
+<div class="btns"><a class="btn" href="{BASE}/products/">Shop products</a><a class="btn ghost" href="{BASE}/blog/">Read the guides</a></div></div></section>
+<section><div class="wrap"><div class="section-head"><h2>Categories</h2></div><div class="cats">{cats_html}</div></div></section>
+<section style="padding-top:0"><div class="wrap"><div class="section-head"><h2>Popular Outfits</h2><a href="{BASE}/products/">See all →</a></div>
 <div class="grid">{''.join(card(p) for p in featured)}</div></div></section>
-<section style="padding-top:0"><div class="wrap"><div class="section-head"><h2>Aus dem Blog</h2><a href="{BASE}/blog/">Alle Artikel →</a></div>
+<section style="padding-top:0"><div class="wrap"><div class="section-head"><h2>From the Blog</h2><a href="{BASE}/blog/">All articles →</a></div>
 <div class="posts">{''.join(f'<a class="post-card" href="{BASE}/blog/{s}/"><h3>{esc(t)}</h3><p>{esc(d)}</p></a>' for s, t, d in POSTS[:3])}</div></div></section>''')
 
-# ---------- impressum (owner must fill in) ----------
-page('/impressum/', 'Impressum | Fit Essentials', 'Impressum',
-     '''<article><h1>Impressum</h1><p>Angaben gemäß § 5 DDG</p>
-<p>[VORNAME NACHNAME]<br>[STRASSE HAUSNUMMER]<br>[PLZ ORT]<br>Deutschland</p>
-<p>E-Mail: [E-MAIL-ADRESSE]</p>
-<p>Verantwortlich für den Inhalt: [VORNAME NACHNAME], Anschrift wie oben.</p></article>''')
+# ---------- legal notice (German Impressum, required by § 5 DDG) ----------
+page('/legal-notice/', 'Legal Notice (Impressum) | Fit Essentials', 'Legal notice',
+     '''<article><h1>Legal Notice (Impressum)</h1><p>Information according to § 5 DDG (German Digital Services Act)</p>
+<p>Leon Haupt<br>Hohlweiler 44<br>91443 Scheinfeld<br>Germany</p>
+<p>Email: <a href="mailto:leon.haupt08@gmail.com">leon.haupt08@gmail.com</a></p>
+<p>Responsible for the content: Leon Haupt, address as above.</p>
+<h2>Affiliate links</h2><p>This website contains affiliate links. As an Amazon Associate I earn from qualifying purchases.</p></article>''')
 
 print('built', len(products), 'products,', len(POSTS), 'posts')
