@@ -20,7 +20,8 @@ pattern of the account's best performers, without the owner having to do anythin
    - `title`, `description`: from the entry
 4. On success set `"status": "posted"`, `"posted_at": "<YYYY-MM-DD>"`, `"pin_id": "<id>"`.
    On failure set `"status": "failed"` and `"error": "<short reason>"` and do not retry more than once.
-5. **New products only.** Do not create entries from products that already appear in the account's
+5. The queue already contains redesigned pins for the owner's existing products (added on the owner's request,
+   entries 016+). Post them in order. **New entries only from new products.** Do not create entries from products that already appear in the account's
    old pins (the owner wants new products). New entries are created only from products the owner sends
    in the chat (Amazon partner link + photo/screenshot); those are added to `queue.json` right away.
    If the queue is empty, post nothing and tell the owner in German that new product links are needed.
