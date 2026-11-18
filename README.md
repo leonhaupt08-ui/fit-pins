@@ -63,4 +63,4 @@ Pinterest erlaubt das nicht über Apps, nur von Hand:
 
 - Pins kommen nicht mehr → Zapier-Testphase vorbei oder Verbindung abgelaufen → Claude fragen
 - Website-Änderung → Claude fragen (Quelltext liegt in `site-build/`)
-- Neue Produkte auf der Website → Claude fragen, dann werden sie aus deinen Pins übernommen
+- Neue Produkte auf der Website → Claude fragen (Kategorien und Titel stehen in `data/catalog.json`)

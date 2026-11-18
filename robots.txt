@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://leonhaupt08-ui.github.io/fit-pins/sitemap.xml
