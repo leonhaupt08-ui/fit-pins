@@ -256,7 +256,7 @@
   },
   {
     "slug": "018-epsom-salt-magnesium-sulfate",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B0065T41T6?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/c8/fe/3c/c8fe3ccf85c6a7afdd5fab208b3822bd.jpg",
     "board_id": "1110207814332816389",
@@ -265,11 +265,13 @@
     "subline": "Rest day essential",
     "title": "Epsom Salt (Magnesium Sulfate) | Recovery Tools",
     "description": "Epsom Salt (Magnesium Sulfate) – a simple tool for your rest day and post-workout routine.\n\nWerbung | Affiliate-Link\n\n#RestDay #Recovery #SelfCare #GymEssentials #MobilityWork",
-    "layout": "product"
+    "layout": "product",
+    "posted_at": "2026-11-19",
+    "pin_id": "1110207745680743675"
   },
   {
     "slug": "019-black-seamless-squat-proof-leggings",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B0BRMYP238?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/2a/93/0e/2a930e83b37e7285f2fa7afd0bc1b82d.jpg",
     "board_id": "1110207814332818580",
@@ -278,7 +280,9 @@
     "subline": "Leggings outfit idea",
     "title": "Black Seamless Squat-Proof Leggings | Women's Workout Leggings",
     "description": "Black Seamless Squat-Proof Leggings – easy to style with a sports bra, crop top or oversized tee for the gym, yoga and everyday athleisure.\n\nWerbung | Affiliate-Link\n\n#LeggingsOutfit #GymLeggings #WorkoutOutfit #Athleisure #GymOutfitWomen",
-    "layout": "product"
+    "layout": "product",
+    "posted_at": "2026-11-19",
+    "pin_id": "1110207745680743680"
   },
   {
     "slug": "020-men-s-compression-shorts-3-pack",
