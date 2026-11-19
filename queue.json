@@ -226,7 +226,7 @@
   },
   {
     "slug": "016-front-zip-high-support-sports-bra",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B0BRSW9SG9?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/04/0f/9f/040f9f04599d542583e2a349ee50ba42.jpg",
     "board_id": "1110207814332850044",
@@ -235,20 +235,24 @@
     "subline": "Gym top for women",
     "title": "Front-Zip High Support Sports Bra | Women's Gym Top Outfit",
     "description": "Front-Zip High Support Sports Bra for women – pair it with high waisted leggings or shorts for a clean workout outfit that also works outside the gym.\n\nWerbung | Affiliate-Link\n\n#GymTop #SportsBra #WorkoutOutfit #GymOutfitWomen #Activewear",
-    "position": "center 30%"
+    "position": "center 30%",
+    "posted_at": "2026-11-19",
+    "pin_id": "1110207745680732341"
   },
   {
     "slug": "017-men-s-running-jacket",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B0BGPNQ842?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/c1/af/97/c1af9743657663d88c6132844dac1613.jpg",
     "board_id": "1110207814332820701",
     "tag": "OUTFIT IDEA",
     "headline": "RUNNING<br>JACKET",
     "subline": "Layer up for training",
-    "title": "Men's Running Jacket | Men's Training Layer",
-    "description": "Men's Running Jacket for men – a sporty layer for cold gym days, running or a clean casual outfit with joggers and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensStyle #Athleisure #MensActivewear #TrainingWear",
-    "layout": "product"
+    "title": "Men's Running Jacket | Training Layer",
+    "description": "Men's Running Jacket – a sporty layer for cold gym days, running or a clean casual outfit with joggers and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensStyle #Athleisure #MensActivewear #TrainingWear",
+    "layout": "product",
+    "posted_at": "2026-11-19",
+    "pin_id": "1110207745680732346"
   },
   {
     "slug": "018-epsom-salt-magnesium-sulfate",
@@ -285,8 +289,8 @@
     "tag": "OUTFIT IDEA",
     "headline": "COMPRESSION<br>SHORTS",
     "subline": "Gym & streetwear for men",
-    "title": "Men's Compression Shorts 3-Pack | Men's Gym Outfit",
-    "description": "Men's Compression Shorts 3-Pack for men – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #GymShorts #MensFashion",
+    "title": "Men's Compression Shorts 3-Pack | Gym Outfit",
+    "description": "Men's Compression Shorts 3-Pack – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #GymShorts #MensFashion",
     "layout": "product"
   },
   {
@@ -311,8 +315,8 @@
     "tag": "OUTFIT IDEA",
     "headline": "THERMAL LONG<br>SLEEVE TOPS",
     "subline": "Gym top for women",
-    "title": "Women's Thermal Long Sleeve Tops | Women's Gym Top Outfit",
-    "description": "Women's Thermal Long Sleeve Tops for women – pair it with high waisted leggings or shorts for a clean workout outfit that also works outside the gym.\n\nWerbung | Affiliate-Link\n\n#GymTop #SportsBra #WorkoutOutfit #GymOutfitWomen #Activewear",
+    "title": "Women's Thermal Long Sleeve Tops | Gym Top Outfit",
+    "description": "Women's Thermal Long Sleeve Tops – pair it with high waisted leggings or shorts for a clean workout outfit that also works outside the gym.\n\nWerbung | Affiliate-Link\n\n#GymTop #SportsBra #WorkoutOutfit #GymOutfitWomen #Activewear",
     "layout": "product"
   },
   {
@@ -324,8 +328,8 @@
     "tag": "OUTFIT IDEA",
     "headline": "SWIM & GYM<br>SHORTS",
     "subline": "Gym & streetwear for men",
-    "title": "Men's Swim & Gym Shorts | Men's Gym Outfit",
-    "description": "Men's Swim & Gym Shorts for men – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #GymShorts #MensFashion",
+    "title": "Men's Swim & Gym Shorts | Gym Outfit",
+    "description": "Men's Swim & Gym Shorts – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #GymShorts #MensFashion",
     "layout": "product"
   },
   {
@@ -389,8 +393,8 @@
     "tag": "OUTFIT IDEA",
     "headline": "FITTED<br>ZIP-UP GYM<br>JACKET",
     "subline": "Gym top for women",
-    "title": "Women's Fitted Zip-Up Gym Jacket | Women's Gym Top Outfit",
-    "description": "Women's Fitted Zip-Up Gym Jacket for women – pair it with high waisted leggings or shorts for a clean workout outfit that also works outside the gym.\n\nWerbung | Affiliate-Link\n\n#GymTop #SportsBra #WorkoutOutfit #GymOutfitWomen #Activewear",
+    "title": "Women's Fitted Zip-Up Gym Jacket | Gym Top Outfit",
+    "description": "Women's Fitted Zip-Up Gym Jacket – pair it with high waisted leggings or shorts for a clean workout outfit that also works outside the gym.\n\nWerbung | Affiliate-Link\n\n#GymTop #SportsBra #WorkoutOutfit #GymOutfitWomen #Activewear",
     "layout": "product"
   },
   {
@@ -402,8 +406,8 @@
     "tag": "OUTFIT IDEA",
     "headline": "GYM SHORTS",
     "subline": "Gym & streetwear for men",
-    "title": "Men's Gym Shorts 5-Pack | Men's Gym Outfit",
-    "description": "Men's Gym Shorts 5-Pack for men – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #GymShorts #MensFashion",
+    "title": "Men's Gym Shorts 5-Pack | Gym Outfit",
+    "description": "Men's Gym Shorts 5-Pack – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #GymShorts #MensFashion",
     "layout": "product"
   },
   {
@@ -428,8 +432,8 @@
     "tag": "OUTFIT IDEA",
     "headline": "GREY LOUNGE<br>SET",
     "subline": "Matching set · gym to street",
-    "title": "Women's Grey Lounge Set | Women's Matching Gym Set",
-    "description": "Women's Grey Lounge Set for women – a matching workout set that looks put together in the gym and on the way there. Style it with white sneakers and a zip jacket.\n\nWerbung | Affiliate-Link\n\n#MatchingSet #GymOutfitWomen #WorkoutSet #Activewear #GymOutfit",
+    "title": "Women's Grey Lounge Set | Matching Gym Set",
+    "description": "Women's Grey Lounge Set – a matching workout set that looks put together in the gym and on the way there. Style it with white sneakers and a zip jacket.\n\nWerbung | Affiliate-Link\n\n#MatchingSet #GymOutfitWomen #WorkoutSet #Activewear #GymOutfit",
     "layout": "product"
   },
   {
@@ -441,8 +445,8 @@
     "tag": "OUTFIT IDEA",
     "headline": "5\" GYM<br>SHORTS",
     "subline": "Gym & streetwear for men",
-    "title": "BALENNZ 5\" Men's Gym Shorts | Men's Gym Outfit",
-    "description": "BALENNZ 5\" Men's Gym Shorts for men – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #GymShorts #MensFashion",
+    "title": "BALENNZ 5\" Men's Gym Shorts | Gym Outfit",
+    "description": "BALENNZ 5\" Men's Gym Shorts – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #GymShorts #MensFashion",
     "layout": "product"
   },
   {
@@ -480,8 +484,8 @@
     "tag": "OUTFIT IDEA",
     "headline": "OVERSIZED<br>VINTAGE GYM<br>TEES",
     "subline": "Clean gym basic for men",
-    "title": "Men's Oversized Vintage Gym Tees | Men's Gym Outfit",
-    "description": "Men's Oversized Vintage Gym Tees for men – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
+    "title": "Men's Oversized Vintage Gym Tees | Gym Outfit",
+    "description": "Men's Oversized Vintage Gym Tees – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
     "layout": "product"
   },
   {
@@ -519,8 +523,8 @@
     "tag": "OUTFIT IDEA",
     "headline": "QUICK-DRY<br>WORKOUT<br>SHIRT",
     "subline": "Clean gym basic for men",
-    "title": "Men's Quick-Dry Workout Shirt | Men's Gym Outfit",
-    "description": "Men's Quick-Dry Workout Shirt for men – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
+    "title": "Men's Quick-Dry Workout Shirt | Gym Outfit",
+    "description": "Men's Quick-Dry Workout Shirt – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
     "layout": "product"
   },
   {
@@ -558,8 +562,8 @@
     "tag": "OUTFIT IDEA",
     "headline": "2-IN-1<br>TRAINING<br>SHORTS",
     "subline": "Gym & streetwear for men",
-    "title": "Men's 2-in-1 Training Shorts | Men's Gym Outfit",
-    "description": "Men's 2-in-1 Training Shorts for men – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #GymShorts #MensFashion",
+    "title": "Men's 2-in-1 Training Shorts | Gym Outfit",
+    "description": "Men's 2-in-1 Training Shorts – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #GymShorts #MensFashion",
     "layout": "product"
   },
   {
@@ -636,8 +640,8 @@
     "tag": "OUTFIT IDEA",
     "headline": "WHITE GYM<br>TANK TOP",
     "subline": "Clean gym basic for men",
-    "title": "Men's White Gym Tank Top | Men's Gym Outfit",
-    "description": "Men's White Gym Tank Top for men – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
+    "title": "Men's White Gym Tank Top | Gym Outfit",
+    "description": "Men's White Gym Tank Top – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
     "layout": "product"
   },
   {
@@ -753,8 +757,8 @@
     "tag": "OUTFIT IDEA",
     "headline": "GREY<br>OVERSIZED<br>GYM TEE",
     "subline": "Clean gym basic for men",
-    "title": "Men's Grey Oversized Gym Tee | Men's Gym Outfit",
-    "description": "Men's Grey Oversized Gym Tee for men – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
+    "title": "Men's Grey Oversized Gym Tee | Gym Outfit",
+    "description": "Men's Grey Oversized Gym Tee – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
     "layout": "product"
   },
   {
@@ -792,8 +796,8 @@
     "tag": "OUTFIT IDEA",
     "headline": "SPORTY POLO<br>SHIRT",
     "subline": "Clean gym basic for men",
-    "title": "Men's Sporty Polo Shirt | Men's Gym Outfit",
-    "description": "Men's Sporty Polo Shirt for men – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
+    "title": "Men's Sporty Polo Shirt | Gym Outfit",
+    "description": "Men's Sporty Polo Shirt – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
     "layout": "product"
   },
   {
@@ -831,8 +835,8 @@
     "tag": "OUTFIT IDEA",
     "headline": "GYM<br>LAYERS",
     "subline": "Layer up for training",
-    "title": "Men's Half-Zip Long Sleeve Training Shirt | Men's Training Layer",
-    "description": "Men's Half-Zip Long Sleeve Training Shirt for men – a sporty layer for cold gym days, running or a clean casual outfit with joggers and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensStyle #Athleisure #MensActivewear #TrainingWear",
+    "title": "Men's Half-Zip Long Sleeve Training Shirt | Training Layer",
+    "description": "Men's Half-Zip Long Sleeve Training Shirt – a sporty layer for cold gym days, running or a clean casual outfit with joggers and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensStyle #Athleisure #MensActivewear #TrainingWear",
     "layout": "product"
   },
   {
@@ -909,8 +913,8 @@
     "tag": "OUTFIT IDEA",
     "headline": "CHARCOAL<br>HALF-ZIP TOP",
     "subline": "Layer up for training",
-    "title": "Men's Charcoal Half-Zip Top | Men's Training Layer",
-    "description": "Men's Charcoal Half-Zip Top for men – a sporty layer for cold gym days, running or a clean casual outfit with joggers and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensStyle #Athleisure #MensActivewear #TrainingWear",
+    "title": "Men's Charcoal Half-Zip Top | Training Layer",
+    "description": "Men's Charcoal Half-Zip Top – a sporty layer for cold gym days, running or a clean casual outfit with joggers and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensStyle #Athleisure #MensActivewear #TrainingWear",
     "layout": "product"
   },
   {
@@ -948,8 +952,8 @@
     "tag": "OUTFIT IDEA",
     "headline": "WHITE TANK<br>TOP",
     "subline": "Clean gym basic for men",
-    "title": "Men's White Tank Top | Men's Gym Outfit",
-    "description": "Men's White Tank Top for men – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
+    "title": "Men's White Tank Top | Gym Outfit",
+    "description": "Men's White Tank Top – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
     "layout": "product"
   },
   {
@@ -987,8 +991,8 @@
     "tag": "OUTFIT IDEA",
     "headline": "LIGHTWEIGHT<br>HOODIES",
     "subline": "Layer up for training",
-    "title": "Men's Lightweight Hoodies | Men's Training Layer",
-    "description": "Men's Lightweight Hoodies for men – a sporty layer for cold gym days, running or a clean casual outfit with joggers and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensStyle #Athleisure #MensActivewear #TrainingWear",
+    "title": "Men's Lightweight Hoodies | Training Layer",
+    "description": "Men's Lightweight Hoodies – a sporty layer for cold gym days, running or a clean casual outfit with joggers and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensStyle #Athleisure #MensActivewear #TrainingWear",
     "layout": "product"
   },
   {
@@ -1026,7 +1030,7 @@
     "tag": "OUTFIT IDEA",
     "headline": "WHITE TEE &<br>SHORTS SET",
     "subline": "Complete outfit for men",
-    "title": "Men's White Tee & Shorts Set | Men's Matching Set",
+    "title": "Men's White Tee & Shorts Set | Matching Set",
     "description": "Men's White Tee & Shorts Set – a complete matching outfit for men. No styling needed: put it on and go.\n\nWerbung | Affiliate-Link\n\n#MensOutfit #MatchingSet #GymOutfitMen #Athleisure #MensFashion",
     "layout": "product"
   },
@@ -1143,8 +1147,8 @@
     "tag": "OUTFIT IDEA",
     "headline": "BLACK<br>COMPRESSION<br>SHIRT",
     "subline": "Clean gym basic for men",
-    "title": "Black Compression Shirt for Men | Men's Gym Outfit",
-    "description": "Black Compression Shirt for Men for men – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
+    "title": "Black Compression Shirt for Men | Gym Outfit",
+    "description": "Black Compression Shirt for Men – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
     "layout": "product"
   },
   {
@@ -1221,8 +1225,8 @@
     "tag": "OUTFIT IDEA",
     "headline": "GREY ZIP-UP<br>HOODIE",
     "subline": "Layer up for training",
-    "title": "Men's Grey Zip-Up Hoodie | Men's Training Layer",
-    "description": "Men's Grey Zip-Up Hoodie for men – a sporty layer for cold gym days, running or a clean casual outfit with joggers and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensStyle #Athleisure #MensActivewear #TrainingWear",
+    "title": "Men's Grey Zip-Up Hoodie | Training Layer",
+    "description": "Men's Grey Zip-Up Hoodie – a sporty layer for cold gym days, running or a clean casual outfit with joggers and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensStyle #Athleisure #MensActivewear #TrainingWear",
     "position": "center 30%"
   },
   {
@@ -1260,8 +1264,8 @@
     "tag": "OUTFIT IDEA",
     "headline": "CHARCOAL GYM<br>TANK TOP",
     "subline": "Clean gym basic for men",
-    "title": "Men's Charcoal Gym Tank Top | Men's Gym Outfit",
-    "description": "Men's Charcoal Gym Tank Top for men – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
+    "title": "Men's Charcoal Gym Tank Top | Gym Outfit",
+    "description": "Men's Charcoal Gym Tank Top – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
     "layout": "product"
   },
   {
@@ -1299,8 +1303,8 @@
     "tag": "OUTFIT IDEA",
     "headline": "BLACK RIBBED<br>LONG-SLEEVE<br>POLO",
     "subline": "Layer up for training",
-    "title": "Men's Black Ribbed Long-Sleeve Polo | Men's Training Layer",
-    "description": "Men's Black Ribbed Long-Sleeve Polo for men – a sporty layer for cold gym days, running or a clean casual outfit with joggers and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensStyle #Athleisure #MensActivewear #TrainingWear",
+    "title": "Men's Black Ribbed Long-Sleeve Polo | Training Layer",
+    "description": "Men's Black Ribbed Long-Sleeve Polo – a sporty layer for cold gym days, running or a clean casual outfit with joggers and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensStyle #Athleisure #MensActivewear #TrainingWear",
     "layout": "product"
   },
   {
@@ -1338,8 +1342,8 @@
     "tag": "OUTFIT IDEA",
     "headline": "BLACK FITTED<br>TANK TOP",
     "subline": "Clean gym basic for men",
-    "title": "Men's Black Fitted Tank Top | Men's Gym Outfit",
-    "description": "Men's Black Fitted Tank Top for men – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
+    "title": "Men's Black Fitted Tank Top | Gym Outfit",
+    "description": "Men's Black Fitted Tank Top – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
     "layout": "product"
   },
   {
@@ -1377,8 +1381,8 @@
     "tag": "OUTFIT IDEA",
     "headline": "BLACK GYM<br>TANK TOP",
     "subline": "Clean gym basic for men",
-    "title": "Men's Black Gym Tank Top | Men's Gym Outfit",
-    "description": "Men's Black Gym Tank Top for men – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
+    "title": "Men's Black Gym Tank Top | Gym Outfit",
+    "description": "Men's Black Gym Tank Top – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
     "position": "center 30%"
   },
   {
@@ -1455,8 +1459,8 @@
     "tag": "OUTFIT IDEA",
     "headline": "BLACK MUSCLE<br>TANK TOP",
     "subline": "Clean gym basic for men",
-    "title": "Men's Black Muscle Tank Top | Men's Gym Outfit",
-    "description": "Men's Black Muscle Tank Top for men – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
+    "title": "Men's Black Muscle Tank Top | Gym Outfit",
+    "description": "Men's Black Muscle Tank Top – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
     "position": "center 30%"
   },
   {
@@ -1611,8 +1615,8 @@
     "tag": "OUTFIT IDEA",
     "headline": "BLACK<br>SWEATPANTS",
     "subline": "Gym & streetwear for men",
-    "title": "Men's Black Sweatpants | Men's Gym Outfit",
-    "description": "Men's Black Sweatpants for men – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #GymShorts #MensFashion",
+    "title": "Men's Black Sweatpants | Gym Outfit",
+    "description": "Men's Black Sweatpants – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #GymShorts #MensFashion",
     "layout": "product"
   },
   {
@@ -1728,7 +1732,7 @@
     "tag": "OUTFIT IDEA",
     "headline": "TWO-PIECE<br>SUMMER SET",
     "subline": "Complete outfit for men",
-    "title": "Men's Two-Piece Summer Set | Men's Matching Set",
+    "title": "Men's Two-Piece Summer Set | Matching Set",
     "description": "Men's Two-Piece Summer Set – a complete matching outfit for men. No styling needed: put it on and go.\n\nWerbung | Affiliate-Link\n\n#MensOutfit #MatchingSet #GymOutfitMen #Athleisure #MensFashion",
     "layout": "product"
   },
@@ -1832,8 +1836,8 @@
     "tag": "OUTFIT IDEA",
     "headline": "BLACK<br>RUNNING<br>SHORTS",
     "subline": "Comfy · sporty · easy to style",
-    "title": "Black Running Shorts for Women | Women's Athleisure Outfit",
-    "description": "Black Running Shorts for Women for women – comfortable for workouts, errands and lazy days. Combine with a fitted top and sneakers.\n\nWerbung | Affiliate-Link\n\n#AthleisureOutfit #WorkoutOutfit #ComfyOutfit #GymOutfitWomen #Activewear",
+    "title": "Black Running Shorts for Women | Athleisure Outfit",
+    "description": "Black Running Shorts for Women – comfortable for workouts, errands and lazy days. Combine with a fitted top and sneakers.\n\nWerbung | Affiliate-Link\n\n#AthleisureOutfit #WorkoutOutfit #ComfyOutfit #GymOutfitWomen #Activewear",
     "layout": "product"
   },
   {
@@ -1858,7 +1862,7 @@
     "tag": "OUTFIT IDEA",
     "headline": "FLARED<br>LEGGINGS",
     "subline": "Leggings outfit idea",
-    "title": "Women's Flared Leggings | Women's Workout Leggings",
+    "title": "Women's Flared Leggings | Workout Leggings",
     "description": "Women's Flared Leggings – easy to style with a sports bra, crop top or oversized tee for the gym, yoga and everyday athleisure.\n\nWerbung | Affiliate-Link\n\n#LeggingsOutfit #GymLeggings #WorkoutOutfit #Athleisure #GymOutfitWomen",
     "position": "center 30%"
   },
@@ -1910,8 +1914,8 @@
     "tag": "OUTFIT IDEA",
     "headline": "SPORT SET",
     "subline": "Matching set · gym to street",
-    "title": "Odizli Women's Sport Set | Women's Matching Gym Set",
-    "description": "Odizli Women's Sport Set for women – a matching workout set that looks put together in the gym and on the way there. Style it with white sneakers and a zip jacket.\n\nWerbung | Affiliate-Link\n\n#MatchingSet #GymOutfitWomen #WorkoutSet #Activewear #GymOutfit",
+    "title": "Odizli Women's Sport Set | Matching Gym Set",
+    "description": "Odizli Women's Sport Set – a matching workout set that looks put together in the gym and on the way there. Style it with white sneakers and a zip jacket.\n\nWerbung | Affiliate-Link\n\n#MatchingSet #GymOutfitWomen #WorkoutSet #Activewear #GymOutfit",
     "layout": "product"
   },
   {
@@ -1936,8 +1940,8 @@
     "tag": "OUTFIT IDEA",
     "headline": "LONG SLEEVE<br>CROP TOP",
     "subline": "Gym top for women",
-    "title": "Women's Long Sleeve Crop Top | Women's Gym Top Outfit",
-    "description": "Women's Long Sleeve Crop Top for women – pair it with high waisted leggings or shorts for a clean workout outfit that also works outside the gym.\n\nWerbung | Affiliate-Link\n\n#GymTop #SportsBra #WorkoutOutfit #GymOutfitWomen #Activewear",
+    "title": "Women's Long Sleeve Crop Top | Gym Top Outfit",
+    "description": "Women's Long Sleeve Crop Top – pair it with high waisted leggings or shorts for a clean workout outfit that also works outside the gym.\n\nWerbung | Affiliate-Link\n\n#GymTop #SportsBra #WorkoutOutfit #GymOutfitWomen #Activewear",
     "position": "center 30%"
   }
 ]
