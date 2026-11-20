@@ -346,7 +346,7 @@
   },
   {
     "slug": "024-lacrosse-massage-ball",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B0127BIK1U?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/4c/8e/26/4c8e26df8fc0341ac913204a6c8a314e.jpg",
     "board_id": "1110207814332816389",
@@ -355,11 +355,13 @@
     "subline": "Rest day essential",
     "title": "Lacrosse Massage Ball | Recovery Tools",
     "description": "Lacrosse Massage Ball – a simple tool for your rest day and post-workout routine.\n\nWerbung | Affiliate-Link\n\n#RestDay #Recovery #SelfCare #GymEssentials #MobilityWork",
-    "layout": "product"
+    "layout": "product",
+    "posted_at": "2026-11-20",
+    "pin_id": "1110207745680798820"
   },
   {
     "slug": "025-black-wide-leg-yoga-pants",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B0G1Y9PVP9?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/1f/c8/ed/1fc8ed352ad7d341856eeeef6cc53e38.jpg",
     "board_id": "1110207814332818580",
@@ -368,7 +370,9 @@
     "subline": "Leggings outfit idea",
     "title": "Black Wide-Leg Yoga Pants | Women's Workout Leggings",
     "description": "Black Wide-Leg Yoga Pants – easy to style with a sports bra, crop top or oversized tee for the gym, yoga and everyday athleisure.\n\nWerbung | Affiliate-Link\n\n#LeggingsOutfit #GymLeggings #WorkoutOutfit #Athleisure #GymOutfitWomen",
-    "layout": "product"
+    "layout": "product",
+    "posted_at": "2026-11-20",
+    "pin_id": "1110207745680798825"
   },
   {
     "slug": "026-under-armour-white-compression-shorts",
