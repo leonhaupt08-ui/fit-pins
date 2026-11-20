@@ -316,7 +316,7 @@
   },
   {
     "slug": "022-women-s-thermal-long-sleeve-tops",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B0H6VZZZV2?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/d8/64/1c/d8641c19e821691061201be30d4711c1.jpg",
     "board_id": "1110207814332850044",
@@ -325,11 +325,13 @@
     "subline": "Gym top for women",
     "title": "Women's Thermal Long Sleeve Tops | Gym Top Outfit",
     "description": "Women's Thermal Long Sleeve Tops – pair it with high waisted leggings or shorts for a clean workout outfit that also works outside the gym.\n\nWerbung | Affiliate-Link\n\n#GymTop #SportsBra #WorkoutOutfit #GymOutfitWomen #Activewear",
-    "layout": "product"
+    "layout": "product",
+    "posted_at": "2026-11-20",
+    "pin_id": "1110207745680792067"
   },
   {
     "slug": "023-men-s-swim-gym-shorts",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B0GJZJ8KD6?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/f6/12/a5/f612a5f2f8ae7bcb4cc5917859feea95.jpg",
     "board_id": "1110207814332820701",
@@ -338,7 +340,9 @@
     "subline": "Gym & streetwear for men",
     "title": "Men's Swim & Gym Shorts | Gym Outfit",
     "description": "Men's Swim & Gym Shorts – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #GymShorts #MensFashion",
-    "layout": "product"
+    "layout": "product",
+    "posted_at": "2026-11-20",
+    "pin_id": "1110207745680792075"
   },
   {
     "slug": "024-lacrosse-massage-ball",
