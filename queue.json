@@ -376,7 +376,7 @@
   },
   {
     "slug": "026-under-armour-white-compression-shorts",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B0872LXK5L?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/b5/60/39/b5603986aa4b31d2c6d7520089535c5c.jpg",
     "board_id": "1110207814332820701",
@@ -385,11 +385,13 @@
     "subline": "Gym & streetwear for men",
     "title": "Under Armour White Compression Shorts | Men's Gym Outfit",
     "description": "Under Armour White Compression Shorts for men – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #GymShorts #MensFashion",
-    "layout": "product"
+    "layout": "product",
+    "posted_at": "2026-11-20",
+    "pin_id": "1110207745680809245"
   },
   {
     "slug": "027-weightlifting-shoes",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B08HVP9H1Y?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/f0/f1/1b/f0f11bf79914c264dcae6bf1bed5b9d3.jpg",
     "board_id": "1110207814332971379",
@@ -398,7 +400,9 @@
     "subline": "Train · run · lift",
     "title": "Weightlifting Shoes | Gym & Running Shoes",
     "description": "Weightlifting Shoes – a solid pick for training and running. Check the size chart before ordering.\n\nWerbung | Affiliate-Link\n\n#GymShoes #RunningShoes #TrainingShoes #FitnessGear #GymEssentials",
-    "layout": "product"
+    "layout": "product",
+    "posted_at": "2026-11-20",
+    "pin_id": "1110207745680809249"
   },
   {
     "slug": "028-women-s-fitted-zip-up-gym-jacket",
