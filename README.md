@@ -33,7 +33,7 @@ Regel: **Kleidung nach Frau/Mann, Zubehör nach Zweck.**
 
 ## 3. Automatische Pins
 
-- Jeden Tag um **9, 12, 15, 18 und 21 Uhr** postet Claude je 2 neue Pins (10 pro Tag).
+- Jeden Tag um **9, 12, 15, 18 und 21 Uhr** postet Claude je 1 neuen Pin (5 pro Tag).
 - Die Pins warten in `queue.json`, die Bilder liegen im Ordner `pins/`.
 - Regeln für die Pins stehen in `PLAYBOOK.md` (Englisch, Werbe-Kennzeichnung, keine Gesundheitsversprechen).
 - **Neue Produkte:** Amazon-Partnerlink + Screenshot im Claude-Chat schicken. Ohne neue Produkte wird nichts gepostet.
