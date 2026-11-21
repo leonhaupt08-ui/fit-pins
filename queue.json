@@ -436,7 +436,7 @@
   },
   {
     "slug": "030-black-nike-cap",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B0C4YT3QTC?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/57/b3/86/57b3863b85ced9a393c5c56c0675a544.jpg",
     "board_id": "1110207814332816389",
@@ -445,7 +445,9 @@
     "subline": "Gym bag essential",
     "title": "Black Nike Cap | Gym Bag Essentials",
     "description": "Black Nike Cap – a practical gym bag essential for everyday training.\n\nWerbung | Affiliate-Link\n\n#GymEssentials #GymBag #FitnessGear #WhatsInMyGymBag #GymAccessories",
-    "layout": "product"
+    "layout": "product",
+    "posted_at": "2026-11-21",
+    "pin_id": "1110207745680893392"
   },
   {
     "slug": "031-women-s-grey-lounge-set",
