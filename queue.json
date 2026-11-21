@@ -406,7 +406,7 @@
   },
   {
     "slug": "028-women-s-fitted-zip-up-gym-jacket",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B0CL1YFTZB?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/5b/dc/36/5bdc366b65b9a73dd730067eaaf489f0.jpg",
     "board_id": "1110207814332850044",
@@ -415,7 +415,9 @@
     "subline": "Gym top for women",
     "title": "Women's Fitted Zip-Up Gym Jacket | Gym Top Outfit",
     "description": "Women's Fitted Zip-Up Gym Jacket – pair it with high waisted leggings or shorts for a clean workout outfit that also works outside the gym.\n\nWerbung | Affiliate-Link\n\n#GymTop #SportsBra #WorkoutOutfit #GymOutfitWomen #Activewear",
-    "layout": "product"
+    "layout": "product",
+    "posted_at": "2026-11-21",
+    "pin_id": "1110207745680874272"
   },
   {
     "slug": "029-men-s-gym-shorts-5-pack",
