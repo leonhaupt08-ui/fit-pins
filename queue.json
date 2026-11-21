@@ -451,7 +451,7 @@
   },
   {
     "slug": "031-women-s-grey-lounge-set",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B0DDQ11QGJ?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/cb/4c/99/cb4c99d0764dc2cf40b0fd709271fefe.jpg",
     "board_id": "1110207814332818565",
@@ -460,7 +460,9 @@
     "subline": "Matching set · gym to street",
     "title": "Women's Grey Lounge Set | Matching Gym Set",
     "description": "Women's Grey Lounge Set – a matching workout set that looks put together in the gym and on the way there. Style it with white sneakers and a zip jacket.\n\nWerbung | Affiliate-Link\n\n#MatchingSet #GymOutfitWomen #WorkoutSet #Activewear #GymOutfit",
-    "layout": "product"
+    "layout": "product",
+    "posted_at": "2026-11-21",
+    "pin_id": "1110207745680909247"
   },
   {
     "slug": "032-balennz-5-men-s-gym-shorts",
