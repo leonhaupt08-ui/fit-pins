@@ -541,7 +541,7 @@
   },
   {
     "slug": "037-black-leggings-3-pack",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B08R665YMH?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/ed/40/99/ed409961391b046acfacedbd7ed818ba.jpg",
     "board_id": "1110207814332818580",
@@ -550,7 +550,9 @@
     "subline": "Leggings outfit idea",
     "title": "Black Leggings 3-Pack | Women's Workout Leggings",
     "description": "Black Leggings 3-Pack – easy to style with a sports bra, crop top or oversized tee for the gym, yoga and everyday athleisure.\n\nWerbung | Affiliate-Link\n\n#LeggingsOutfit #GymLeggings #WorkoutOutfit #Athleisure #GymOutfitWomen",
-    "layout": "product"
+    "layout": "product",
+    "posted_at": "2026-11-22",
+    "pin_id": "1110207745681007448"
   },
   {
     "slug": "038-men-s-quick-dry-workout-shirt",
