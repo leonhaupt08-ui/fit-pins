@@ -496,7 +496,7 @@
   },
   {
     "slug": "034-sports-bra-3-pack",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B07TVWK57Y?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/58/02/b0/5802b0d0b675209a5344cd5d4d0b51ba.jpg",
     "board_id": "1110207814332850044",
@@ -505,7 +505,9 @@
     "subline": "Gym top for women",
     "title": "Sports Bra 3-Pack | Women's Gym Top Outfit",
     "description": "Sports Bra 3-Pack for women – pair it with high waisted leggings or shorts for a clean workout outfit that also works outside the gym.\n\nWerbung | Affiliate-Link\n\n#GymTop #SportsBra #WorkoutOutfit #GymOutfitWomen #Activewear",
-    "layout": "product"
+    "layout": "product",
+    "posted_at": "2026-11-22",
+    "pin_id": "1110207745680971821"
   },
   {
     "slug": "035-men-s-oversized-vintage-gym-tees",
