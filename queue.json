@@ -526,7 +526,7 @@
   },
   {
     "slug": "036-salomon-men-s-trail-running-shoes",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B0C46MDL41?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/7b/fa/f6/7bfaf6a8375da659e76e7094ba15b7a0.jpg",
     "board_id": "1110207814332971379",
@@ -535,7 +535,9 @@
     "subline": "Train · run · lift",
     "title": "Salomon Men's Trail Running Shoes | Gym & Running Shoes",
     "description": "Salomon Men's Trail Running Shoes – a solid pick for training and running. Check the size chart before ordering.\n\nWerbung | Affiliate-Link\n\n#GymShoes #RunningShoes #TrainingShoes #FitnessGear #GymEssentials",
-    "layout": "product"
+    "layout": "product",
+    "posted_at": "2026-11-22",
+    "pin_id": "1110207745680994310"
   },
   {
     "slug": "037-black-leggings-3-pack",
