@@ -481,7 +481,7 @@
   },
   {
     "slug": "033-betteryou-magnesium-body-lotion",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B00U6CG5QU?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/78/30/e7/7830e76e1b1eb4a29514d75a1cb9bb4c.jpg",
     "board_id": "1110207814332816389",
@@ -490,7 +490,9 @@
     "subline": "Rest day essential",
     "title": "BetterYou Magnesium Body Lotion | Recovery Tools",
     "description": "BetterYou Magnesium Body Lotion – a simple tool for your rest day and post-workout routine.\n\nWerbung | Affiliate-Link\n\n#RestDay #Recovery #SelfCare #GymEssentials #MobilityWork",
-    "layout": "product"
+    "layout": "product",
+    "posted_at": "2026-11-22",
+    "pin_id": "1110207745680963279"
   },
   {
     "slug": "034-sports-bra-3-pack",
