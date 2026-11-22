@@ -511,7 +511,7 @@
   },
   {
     "slug": "035-men-s-oversized-vintage-gym-tees",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B0F29KHMN8?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/71/f7/44/71f744e90439fc699f1d109bdc6e23aa.jpg",
     "board_id": "1110207814332820701",
@@ -520,7 +520,9 @@
     "subline": "Clean gym basic for men",
     "title": "Men's Oversized Vintage Gym Tees | Gym Outfit",
     "description": "Men's Oversized Vintage Gym Tees – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
-    "layout": "product"
+    "layout": "product",
+    "posted_at": "2026-11-22",
+    "pin_id": "1110207745680982569"
   },
   {
     "slug": "036-salomon-men-s-trail-running-shoes",
