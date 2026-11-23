@@ -601,7 +601,7 @@
   },
   {
     "slug": "041-men-s-2-in-1-training-shorts",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B09573RCYV?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/70/eb/74/70eb74c97aade1bf9a7840dc4190e2c3.jpg",
     "board_id": "1110207814332820701",
@@ -610,7 +610,9 @@
     "subline": "Gym & streetwear for men",
     "title": "Men's 2-in-1 Training Shorts | Gym Outfit",
     "description": "Men's 2-in-1 Training Shorts – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #GymShorts #MensFashion",
-    "layout": "product"
+    "layout": "product",
+    "posted_at": "2026-11-23",
+    "pin_id": "1110207745681073524"
   },
   {
     "slug": "042-wooden-gymnastic-rings",
