@@ -616,7 +616,7 @@
   },
   {
     "slug": "042-wooden-gymnastic-rings",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B06XCSJX7T?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/7e/ab/7a/7eab7a293db98b59f6c38adcc4281303.jpg",
     "board_id": "1110207814332816389",
@@ -625,7 +625,9 @@
     "subline": "Train anywhere",
     "title": "Wooden Gymnastic Rings | Home Gym Equipment",
     "description": "Wooden Gymnastic Rings – useful equipment for home workouts and the gym.\n\nWerbung | Affiliate-Link\n\n#HomeGym #HomeWorkout #FitnessEquipment #WorkoutAtHome #GymEssentials",
-    "layout": "product"
+    "layout": "product",
+    "posted_at": "2026-11-23",
+    "pin_id": "1110207745681086211"
   },
   {
     "slug": "043-dark-red-wide-leg-sweatpants",
