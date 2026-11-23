@@ -586,7 +586,7 @@
   },
   {
     "slug": "040-black-high-waisted-leggings-with-pockets",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B0D6B1PGNH?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/8a/2c/5e/8a2c5e3995f779092586d7c8cda00abe.jpg",
     "board_id": "1110207814332818580",
@@ -595,7 +595,9 @@
     "subline": "Leggings outfit idea",
     "title": "Black High-Waisted Leggings with Pockets | Women's Workout Leggings",
     "description": "Black High-Waisted Leggings with Pockets – easy to style with a sports bra, crop top or oversized tee for the gym, yoga and everyday athleisure.\n\nWerbung | Affiliate-Link\n\n#LeggingsOutfit #GymLeggings #WorkoutOutfit #Athleisure #GymOutfitWomen",
-    "layout": "product"
+    "layout": "product",
+    "posted_at": "2026-11-23",
+    "pin_id": "1110207745681060738"
   },
   {
     "slug": "041-men-s-2-in-1-training-shorts",
