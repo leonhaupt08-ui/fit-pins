@@ -571,7 +571,7 @@
   },
   {
     "slug": "039-white-gym-backpack-with-shoe-compartment",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B0FD2J6MF7?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/fe/e2/6c/fee26c45e3d5af7b4d213c7876b27c4b.jpg",
     "board_id": "1110207814332816389",
@@ -580,7 +580,9 @@
     "subline": "Gym bag essential",
     "title": "White Gym Backpack with Shoe Compartment | Gym Bag Essentials",
     "description": "White Gym Backpack with Shoe Compartment – a practical gym bag essential for everyday training.\n\nWerbung | Affiliate-Link\n\n#GymEssentials #GymBag #FitnessGear #WhatsInMyGymBag #GymAccessories",
-    "layout": "product"
+    "layout": "product",
+    "posted_at": "2026-11-23",
+    "pin_id": "1110207745681051111"
   },
   {
     "slug": "040-black-high-waisted-leggings-with-pockets",
