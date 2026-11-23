@@ -556,7 +556,7 @@
   },
   {
     "slug": "038-men-s-quick-dry-workout-shirt",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B0CWR4QMKJ?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/bf/4b/96/bf4b96bc9d406851bf7de2db3a3cc635.jpg",
     "board_id": "1110207814332820701",
@@ -565,7 +565,9 @@
     "subline": "Clean gym basic for men",
     "title": "Men's Quick-Dry Workout Shirt | Gym Outfit",
     "description": "Men's Quick-Dry Workout Shirt – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
-    "layout": "product"
+    "layout": "product",
+    "posted_at": "2026-11-23",
+    "pin_id": "1110207745681044273"
   },
   {
     "slug": "039-white-gym-backpack-with-shoe-compartment",
