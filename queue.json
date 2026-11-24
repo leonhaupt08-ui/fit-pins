@@ -676,7 +676,7 @@
   },
   {
     "slug": "046-black-zip-up-workout-jacket",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B0D9S9B4L2?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/3b/04/0c/3b040c39d43842dbc51e68f281b4733e.jpg",
     "board_id": "1110207814332850044",
@@ -685,7 +685,9 @@
     "subline": "Gym top for women",
     "title": "Black Zip-Up Workout Jacket | Women's Gym Top Outfit",
     "description": "Black Zip-Up Workout Jacket for women – pair it with high waisted leggings or shorts for a clean workout outfit that also works outside the gym.\n\nWerbung | Affiliate-Link\n\n#GymTop #SportsBra #WorkoutOutfit #GymOutfitWomen #Activewear",
-    "position": "center 30%"
+    "position": "center 30%",
+    "posted_at": "2026-11-24",
+    "pin_id": "1110207745681151861"
   },
   {
     "slug": "047-men-s-white-gym-tank-top",
