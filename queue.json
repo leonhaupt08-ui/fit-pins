@@ -631,7 +631,7 @@
   },
   {
     "slug": "043-dark-red-wide-leg-sweatpants",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B0G1ZK4QH4?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/0e/a4/24/0ea424dd66b3c9bac9400c9198452005.jpg",
     "board_id": "1110207814332818565",
@@ -640,7 +640,9 @@
     "subline": "Comfy · sporty · easy to style",
     "title": "Dark Red Wide-Leg Sweatpants | Women's Athleisure Outfit",
     "description": "Dark Red Wide-Leg Sweatpants for women – comfortable for workouts, errands and lazy days. Combine with a fitted top and sneakers.\n\nWerbung | Affiliate-Link\n\n#AthleisureOutfit #WorkoutOutfit #ComfyOutfit #GymOutfitWomen #Activewear",
-    "layout": "product"
+    "layout": "product",
+    "posted_at": "2026-11-24",
+    "pin_id": "1110207745681124181"
   },
   {
     "slug": "044-black-oversized-gym-tee",
