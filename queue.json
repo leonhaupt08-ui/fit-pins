@@ -691,7 +691,7 @@
   },
   {
     "slug": "047-men-s-white-gym-tank-top",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B0G5PHV4XB?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/d3/a4/16/d3a41664fee49b6305ed0cc762db15e7.jpg",
     "board_id": "1110207814332820701",
@@ -700,7 +700,9 @@
     "subline": "Clean gym basic for men",
     "title": "Men's White Gym Tank Top | Gym Outfit",
     "description": "Men's White Gym Tank Top – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
-    "layout": "product"
+    "layout": "product",
+    "posted_at": "2026-11-24",
+    "pin_id": "1110207745681164781"
   },
   {
     "slug": "048-knee-sleeves-pair",
