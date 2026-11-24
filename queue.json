@@ -646,7 +646,7 @@
   },
   {
     "slug": "044-black-oversized-gym-tee",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B0C81R5LPC?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/3d/ee/ee/3deeeeb71128373ae0005af2ffda224e.jpg",
     "board_id": "1110207814332820701",
@@ -655,7 +655,9 @@
     "subline": "Clean gym basic for men",
     "title": "Black Oversized Gym Tee | Men's Gym Outfit",
     "description": "Black Oversized Gym Tee for men – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
-    "layout": "product"
+    "layout": "product",
+    "posted_at": "2026-11-24",
+    "pin_id": "1110207745681131487"
   },
   {
     "slug": "045-bone-conduction-headphones",
