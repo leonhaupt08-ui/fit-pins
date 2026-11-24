@@ -661,7 +661,7 @@
   },
   {
     "slug": "045-bone-conduction-headphones",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B0HN7WY9WS?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/dc/16/d8/dc16d8224fccef1e9024d0dd46c9411b.jpg",
     "board_id": "1110207814332816389",
@@ -670,7 +670,9 @@
     "subline": "Gym bag essential",
     "title": "Bone Conduction Headphones | Gym Bag Essentials",
     "description": "Bone Conduction Headphones – a practical gym bag essential for everyday training.\n\nWerbung | Affiliate-Link\n\n#GymEssentials #GymBag #FitnessGear #WhatsInMyGymBag #GymAccessories",
-    "layout": "product"
+    "layout": "product",
+    "posted_at": "2026-11-24",
+    "pin_id": "1110207745681141440"
   },
   {
     "slug": "046-black-zip-up-workout-jacket",
