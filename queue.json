@@ -766,7 +766,7 @@
   },
   {
     "slug": "052-lavender-flared-leggings-crop-top-set",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B0H8XJ8P48?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/79/33/bb/7933bb72eeda30e97ae45fa640668b4d.jpg",
     "board_id": "1110207814332818565",
@@ -775,7 +775,9 @@
     "subline": "Matching set · gym to street",
     "title": "Lavender Flared Leggings & Crop Top Set | Women's Matching Gym Set",
     "description": "Lavender Flared Leggings & Crop Top Set for women – a matching workout set that looks put together in the gym and on the way there. Style it with white sneakers and a zip jacket.\n\nWerbung | Affiliate-Link\n\n#MatchingSet #GymOutfitWomen #WorkoutSet #Activewear #GymOutfit",
-    "layout": "product"
+    "layout": "product",
+    "posted_at": "2026-11-25",
+    "pin_id": "1110207745681240876"
   },
   {
     "slug": "053-black-joggers",
