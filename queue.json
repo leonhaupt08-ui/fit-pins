@@ -706,7 +706,7 @@
   },
   {
     "slug": "048-knee-sleeves-pair",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B0CKK4VG26?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/61/16/ec/6116ec8fa65d67d6f4b6201d706f7673.jpg",
     "board_id": "1110207814332816389",
@@ -715,7 +715,9 @@
     "subline": "Train anywhere",
     "title": "Knee Sleeves (Pair) | Home Gym Equipment",
     "description": "Knee Sleeves (Pair) – useful equipment for home workouts and the gym.\n\nWerbung | Affiliate-Link\n\n#HomeGym #HomeWorkout #FitnessEquipment #WorkoutAtHome #GymEssentials",
-    "layout": "product"
+    "layout": "product",
+    "posted_at": "2026-11-25",
+    "pin_id": "1110207745681199230"
   },
   {
     "slug": "049-black-sports-bra",
