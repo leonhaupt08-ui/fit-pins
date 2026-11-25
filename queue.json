@@ -751,7 +751,7 @@
   },
   {
     "slug": "051-ankle-straps-for-cable-machine",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B0CHFYJGC5?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/a3/a5/08/a3a508ca19463709c78d1679dd94f70e.jpg",
     "board_id": "1110207814332816389",
@@ -760,7 +760,9 @@
     "subline": "Train anywhere",
     "title": "Ankle Straps for Cable Machine | Home Gym Equipment",
     "description": "Ankle Straps for Cable Machine – useful equipment for home workouts and the gym.\n\nWerbung | Affiliate-Link\n\n#HomeGym #HomeWorkout #FitnessEquipment #WorkoutAtHome #GymEssentials",
-    "layout": "product"
+    "layout": "product",
+    "posted_at": "2026-11-25",
+    "pin_id": "1110207745681227709"
   },
   {
     "slug": "052-lavender-flared-leggings-crop-top-set",
