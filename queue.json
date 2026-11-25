@@ -721,7 +721,7 @@
   },
   {
     "slug": "049-black-sports-bra",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B0GF8CKZ5N?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/a1/ba/3f/a1ba3f9e2918bed796323041d2379e6a.jpg",
     "board_id": "1110207814332850044",
@@ -730,7 +730,9 @@
     "subline": "Gym top for women",
     "title": "Black Sports Bra | Women's Gym Top Outfit",
     "description": "Black Sports Bra for women – pair it with high waisted leggings or shorts for a clean workout outfit that also works outside the gym.\n\nWerbung | Affiliate-Link\n\n#GymTop #SportsBra #WorkoutOutfit #GymOutfitWomen #Activewear",
-    "layout": "product"
+    "layout": "product",
+    "posted_at": "2026-11-25",
+    "pin_id": "1110207745681206948"
   },
   {
     "slug": "050-under-armour-black-compression-shorts",
