@@ -25,6 +25,11 @@ pattern of the account's best performers, without the owner having to do anythin
    old pins (the owner wants new products). New entries are created only from products the owner sends
    in the chat (Amazon partner link + photo/screenshot); those are added to `queue.json` right away.
    If the queue is empty, post nothing and tell the owner in German that new product links are needed.
+   Collage pins (`"layout": "collage"`, 4 product images) link to a guide on the website instead of Amazon;
+   post them like any other entry. On the owner's request (26.11.) Claude may also create new collage,
+   gift-guide or seasonal pins from products already in `data/catalog.json` when the queue runs low.
+   New products always go to the front of the queue and are also added to `data/catalog.json` +
+   `assets/products/<ASIN>.jpg` with `"new": true`, then `python3 site-build/build.py` is run.
 6. Commit and push (`git -c push.negotiate=true push origin main`). Commit message: `Daily pins <date>`.
 7. Finish with a short summary in German: which pins were posted (with links
    `https://www.pinterest.com/pin/<pin_id>/`), how many are still queued.
