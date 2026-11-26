@@ -119,6 +119,38 @@ h1{margin-top:14px;font-family:'Inter Display','Inter';font-weight:900;font-size
 <div class="strip"><h1>${plain(p.headline)}</h1><span>FIT ESSENTIALS</span></div>`,
 };
 
+// Variants: every style has 4 color palettes x 2 text alignments, so pins of the same style still differ.
+const PAL = {
+  dark: [null, ['#14213d', '#fca311'], ['#2b1d17', '#e9c46a'], ['#13261f', '#a7c957']],
+  darkphoto: [null, ['#14213d', '#fca311'], ['#2b1d17', '#e9c46a'], ['#13261f', '#a7c957']],
+  cream: [null, ['#f4e4e1', '#7a3e3a'], ['#e7edf0', '#264653'], ['#eef0e4', '#4a5a2a']],
+  color: [null, ['#111111', '#ffffff'], ['#f2e8cf', '#3d2b1f'], ['#cfe1f2', '#0d2c4a']],
+  card: [null, ['#111111', '#ffffff'], ['#f6efe6', '#3d2b1f'], ['#e63946', '#ffffff']],
+  minimal: [null, ['#111111', '#ffffff'], ['#efe8de', '#2a211b'], ['#dfe5d6', '#1f2b12']],
+};
+function variantCss(style, v) {
+  const pal = PAL[style][v % 4], left = Math.floor(v / 4) % 2 === 1;
+  let c = '';
+  if (pal) {
+    const [bg, ac] = pal;
+    if (style === 'dark') c += `body{background:${bg}}.cta{background:${ac}}.tag:before{background:${ac}}.grid,.box{background:${bg}}`;
+    if (style === 'dark' && true) c += `.box{background:#f4f4f2}.box:has(.grid){background:${bg}}`;
+    if (style === 'darkphoto') c += `.top{background:linear-gradient(180deg,${bg}f0 0%,${bg}c0 45%,${bg}00 100%)}.bot{background:linear-gradient(0deg,${bg}e6,${bg}00)}.cta{background:${ac}}.tag:before{background:${ac}}`;
+    if (style === 'cream') c += `body{background:${bg};color:${ac}}.cta{background:${ac};color:${bg}}.tag,.brand,.sub{color:${ac};opacity:.8}`;
+    if (style === 'color') c += `body{background:${bg};color:${ac}}.pill{background:${ac};color:${bg}}.bar{border-color:${ac}33}`;
+    if (style === 'card') c += `.card{background:${bg}}.card h1,.card .row b{color:${ac}}.card .tag,.card .sub{color:${ac};opacity:.8}.row span{background:${ac};color:${bg}}`;
+    if (style === 'minimal') c += `.strip{background:${bg}}.strip h1{color:${ac}}.strip span{color:${ac};opacity:.6}`;
+  }
+  if (left) {
+    if (style === 'cream') c += `.head{text-align:left}.foot{text-align:left;left:70px}`;
+    if (style === 'dark' || style === 'darkphoto') c += `.head{text-align:right;right:66px;left:60px}.tag:before{display:none}.tag:after{content:'';display:inline-block;width:46px;height:3px;background:currentColor;vertical-align:middle;margin-left:18px}`;
+    if (style === 'color') c += `.head{text-align:right}.pill{left:auto;right:90px}`;
+    if (style === 'card') c += `.card{bottom:auto;top:50px}`;
+    if (style === 'minimal') c += `.strip{top:0;bottom:auto}.wrap{top:150px;bottom:0}`;
+  }
+  return c ? `<style>${c}</style>` : '';
+}
+
 (async () => {
   const only = process.argv[2];   // optional: render a single slug (overwrites)
   const todo = queue.filter(p => only ? p.slug === only : !fs.existsSync(path.join(root, 'pins', p.slug + '.jpg')));
@@ -133,7 +165,7 @@ h1{margin-top:14px;font-family:'Inter Display','Inter';font-weight:900;font-size
     try { uris = (kind === 'collage' ? p.images : [p.source_image]).map(get); }
     catch (e) { console.log('SKIP (image download failed)', p.slug); continue; }
     const q = Object.assign({ tag: kind === 'product' ? 'GYM ESSENTIALS' : 'OUTFIT IDEA', subline: '' }, p);
-    await page.setContent(`<!doctype html><html><head><meta charset="utf-8"></head><body>${T[style](q, uris)}</body></html>`, { waitUntil: 'load' });
+    await page.setContent(`<!doctype html><html><head><meta charset="utf-8"></head><body>${T[style](q, uris)}${variantCss(style, p.variant || 0)}</body></html>`, { waitUntil: 'load' });
     await page.waitForTimeout(250);
     await page.screenshot({ path: path.join(root, 'pins', p.slug + '.jpg'), type: 'jpeg', quality: 90 });
     console.log('rendered', p.slug, style);

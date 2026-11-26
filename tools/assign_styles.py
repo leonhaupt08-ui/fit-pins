@@ -5,7 +5,7 @@ ROT = {'product': ['cream', 'dark', 'color', 'minimal'], 'photo': ['card', 'dark
 root = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 q = json.load(open(os.path.join(root, 'queue.json')))
 reset = '--reset' in sys.argv
-idx = {k: 0 for k in ROT}; prev = None
+idx = {k: 0 for k in ROT}; prev = None; vi = {}
 for e in q:
     if e['status'] != 'queued' or (e.get('style') and not reset):
         continue
@@ -14,6 +14,8 @@ for e in q:
     if s == prev:
         s = ROT[kind][idx[kind] % len(ROT[kind])]; idx[kind] += 1
     e['style'] = s; prev = s
+    vi[s] = vi.get(s, 0) + 1
+    e['variant'] = [0, 1, 2, 3, 4, 5, 6, 7][(vi[s] * 3) % 8]   # palette x alignment, spread out
     if reset:
         f = os.path.join(root, 'pins', e['slug'] + '.jpg')
         if os.path.exists(f): os.remove(f)
