@@ -37,7 +37,9 @@ def esc(s):
 def group_items(g):
     subs = [k for gg, _, _, ss in GROUPS if gg == g for k, _ in ss]
     items = [p for p in products if p['cat'] in subs]
-    return sorted(items, key=lambda p: (p['asin'] not in BEST_SET, subs.index(p['cat'])))
+    return sorted(items, key=lambda p: (not p.get('new'), p['asin'] not in BEST_SET, subs.index(p['cat'])))
+
+NEW = [p for p in products if p.get('new')]
 
 def cover(g):
     pref = {'women': 'B0FJ4NKKYM', 'men': 'B0BCGR2CP1', 'gear': 'B0C46MDL41', 'home-gym': 'B0D1P694JJ'}[g]
@@ -78,7 +80,7 @@ def page(path, title, desc, body, current='', image=None):
 <div class="fcols">
 <div><a class="logo" href="{BASE}/"><b>FE</b>FIT ESSENTIALS</a><p>Gym outfits, activewear and fitness finds for women and men.</p></div>
 <div><h4>Shop</h4>{''.join(f'<a href="{BASE}/products/{g}/">{esc(n)}</a>' for g, n, _, _ in GROUPS)}</div>
-<div><h4>Guides</h4><a href="{BASE}/blog/">All guides</a><a href="{BASE}/blog/gym-gift-ideas/">Gift ideas</a><a href="{BASE}/blog/how-to-choose-gym-leggings/">Leggings guide</a></div>
+<div><h4>Guides</h4><a href="{BASE}/blog/">All guides</a><a href="{BASE}/blog/gift-ideas-for-him-gym/">Gifts for him</a><a href="{BASE}/blog/gift-ideas-for-her-gym/">Gifts for her</a><a href="{BASE}/blog/home-gym-essentials/">Home gym</a></div>
 <div><h4>Follow</h4><a href="https://www.pinterest.com/Lildesports/">Pinterest</a><a href="https://www.instagram.com/fit.finds.de">Instagram</a></div>
 </div>
 <p class="disc"><strong>Affiliate disclosure:</strong> Links marked with * are affiliate links. As an Amazon Associate I earn from qualifying purchases. The price stays the same for you.</p>
@@ -89,7 +91,7 @@ def page(path, title, desc, body, current='', image=None):
     write('index.html' if path == '/' else ('404.html' if path == '/404.html' else path.strip('/') + '/index.html'), doc)
 
 def card(p):
-    badge = '<span class="badge">Best seller</span>' if p['asin'] in BEST_SET else ''
+    badge = '<span class="badge">New</span>' if p.get('new') else ('<span class="badge">Best seller</span>' if p['asin'] in BEST_SET else '')
     return f'''<div class="card" data-cat="{p['cat']}"><div class="ph">{badge}<img src="{esc(p['img'])}" alt="{esc(p['title'])}" loading="lazy" width="300" height="400"></div>
 <div class="body"><div class="c">{esc(SUB[p['cat']])}</div><h3>{esc(p['title'])}</h3>
 <a class="btn" href="{esc(p['url'])}" rel="nofollow sponsored noopener" target="_blank">View on Amazon*</a></div></div>'''
@@ -102,6 +104,10 @@ def pbox(asin, note):
 
 # ---------- guides ----------
 POSTS_META = [
+    ('gift-ideas-for-him-gym', 'Christmas Gift Ideas for Him: 10 Gym Gifts Men Actually Use', 'Gym gift ideas for boyfriends, brothers and dads who train – clothes, shoes and home gym gear.'),
+    ('gift-ideas-for-her-gym', 'Christmas Gift Ideas for Her: 10 Gym Gifts She Will Love', 'Gift ideas for gym girls – matching sets, leggings, bottles and recovery tools.'),
+    ('all-black-gym-outfit-men', 'All Black Gym Outfit for Men: The Easiest Look in the Gym', 'How to build an all black gym outfit for men – compression shirt, shorts or baggy pants and black sneakers.'),
+    ('home-gym-essentials', 'Home Gym Essentials: What You Really Need to Start', 'Build a small home gym step by step – dumbbells, a cable machine, bands and a mat.'),
     ('gym-gift-ideas', 'Gym Gift Ideas: 10 Presents Every Fitness Lover Will Use', 'Practical gift ideas for people who love the gym – from recovery tools to the perfect gym bag.'),
     ('gym-outfit-ideas-for-women', 'Gym Outfit Ideas for Women: 4 Looks That Always Work', 'Matching sets, all black, shorts or gym-to-street: four easy gym outfit ideas for women.'),
     ('gym-outfit-for-men', 'Gym Outfits for Men: Clean, Simple, No Overthinking', 'How to build a simple gym wardrobe as a man – basics, colors and fits.'),
@@ -197,6 +203,65 @@ post('gym-bag-checklist', 3,
       ('The bag itself', '<p>A separate shoe compartment is the feature you will appreciate every day.</p>', [
          ('B07P8R34H7', 'Duffel bag with shoe compartment and wet pocket.')])])
 
+post('gift-ideas-for-him-gym', 4,
+     'Shopping for a guy who lives in the gym? These gifts get used every week – from clean basics to gear for training at home.',
+     [('Clothes he will wear every day', '', [
+         ('B0874X72WP', 'The classic black compression shirt – fits close for lifting and running.'),
+         ('B0H36333FW', 'Wide leg grey sweatpants with zip pockets – the cozy streetwear favorite.'),
+         ('B0GPVM1CVP', 'Washed black sweatpants for a vintage look after training.')]),
+      ('Sneakers', '', [
+         ('B077MQ6C7S', 'Clean white sneakers that go with joggers, shorts and jeans.'),
+         ('B07S8PT36G', 'Light all black sneakers for the gym and everyday wear.')]),
+      ('For his home gym', '', [
+         ('B0HBPGRX4G', 'A compact digital cable machine with handles and ankle strap.'),
+         ('B06X95DP1K', 'Cast iron plates with two dumbbell bars and an EZ curl bar.')]),
+      ('Small gifts and stocking fillers', '', [
+         ('B0DS94YFTC', 'A stainless steel shaker that does not keep the smell.'),
+         ('B01F2OGJQM', 'Padded lifting straps for heavy pulls.'),
+         ('B0127BIK1U', 'A massage ball for tight shoulders after training.')])])
+
+post('gift-ideas-for-her-gym', 4,
+     'For the girl who never skips leg day: these gifts look good, feel good and actually get used in the gym.',
+     [('Matching sets', '<p>A matching set is the gift that always works – pick a neutral color if you are unsure.</p>', [
+         ('B0FJ4NKKYM', 'Cropped zip jacket, sports bra and leggings in dark grey.'),
+         ('B0FJRKHXQP', 'Black racerback top and high waist leggings.')]),
+      ('Leggings', '', [
+         ('B0D9WJTBHR', 'Seamless, matte leggings – one of the most saved on our Pinterest.'),
+         ('B0G6YGJBWB', 'Black flared leggings for yoga, pilates and everyday outfits.')]),
+      ('For the gym bag', '', [
+         ('B0CNTWY3VM', 'The tumbler every gym girl carries around.'),
+         ('B0FD2J6MF7', 'White backpack with a separate shoe compartment.')]),
+      ('Recovery and cozy days', '', [
+         ('B0DDQ11QGJ', 'Soft grey lounge set for rest days.'),
+         ('B0127BIK1U', 'Massage ball for glutes, shoulders and feet.'),
+         ('B003BP5AGA', 'A classic foam roller for legs and back.')])])
+
+post('all-black-gym-outfit-men', 3,
+     'All black is the easiest gym outfit there is: everything matches, sweat shows less and it looks clean from the gym to the street.',
+     [('1. The top', '<p>Choose between a compression shirt, a tank top or a regular tee. All three work in black.</p>', [
+         ('B0874X72WP', 'Short sleeve compression shirt that fits close to the body.'),
+         ('B0G3WM2CGJ', 'Ribbed tank top for arm day and warm gyms.'),
+         ('B0C5D5N75W', 'A multipack of plain black tees for the whole week.')]),
+      ('2. Shorts or pants', '<p>Shorts for leg day and cardio, baggy pants for the old-school look.</p>', [
+         ('B0714D4Q4B', 'Training shorts with the big side logo.'),
+         ('B075GQLGGG', 'Baggy bodybuilding pants with a tapered leg.')]),
+      ('3. The shoes', '<p>Black sneakers keep the look clean – white ones add contrast.</p>', [
+         ('B07S8PT36G', 'Light mesh sneakers in all black.')])])
+
+post('home-gym-essentials', 4,
+     'You do not need a full garage gym to train at home. Start with a few pieces that cover strength, cardio and mobility – and add more later.',
+     [('1. Weights', '<p>Plate-loaded dumbbells are the cheapest way to get lots of weight options.</p>', [
+         ('B06X95DP1K', 'Cast iron plates with dumbbell bars and an EZ curl bar.'),
+         ('B0D1P694JJ', 'One adjustable dumbbell instead of a whole rack.')]),
+      ('2. Cable training', '<p>Cable exercises are hard to copy at home – a compact cable machine fills that gap.</p>', [
+         ('B0HBPGRX4G', 'Portable digital cable machine with handles and ankle strap.')]),
+      ('3. Bands and bodyweight', '', [
+         ('B0D1DV9NHZ', 'Resistance bands for warm-ups and full workouts.'),
+         ('B0DNTWJJV2', 'Pull-up bar for the door frame, no drilling needed.')]),
+      ('4. Mat and recovery', '', [
+         ('B0FNX3X992', 'A thick mat for core work and stretching.'),
+         ('B003BP5AGA', 'Foam roller for rest days.')])])
+
 # ---------- guides index ----------
 page('/blog/', 'Guides | Fit Essentials', 'Gym outfit ideas, buying guides and gift ideas from Fit Essentials.',
      '<section class="phead"><div class="wrap"><div class="eyebrow">Guides</div><h1>Outfit ideas &amp; buying guides</h1><p class="lead">Short, practical guides that help you pick the right gym clothes and gear.</p></div></section>'
@@ -240,7 +305,8 @@ page('/', 'Fit Essentials | Gym Outfits & Fitness Finds',
 <div class="btns"><a class="btn" href="{BASE}/products/women/">Shop women</a><a class="btn" href="{BASE}/products/men/">Shop men</a><a class="btn ghost" href="{BASE}/blog/">Read the guides</a></div></div>
 <div class="collage">{collage}</div></div></section>
 <section><div class="wrap"><div class="section-head"><h2>Shop by category</h2><a href="{BASE}/products/">View shop →</a></div><div class="tiles">{tiles}</div></div></section>
-<section class="tight"><div class="wrap"><a class="banner" href="{BASE}/blog/gym-gift-ideas/"><span class="eyebrow">Gift guide</span><strong>10 gym gift ideas every fitness lover will actually use</strong><span class="arrow">Read the guide →</span></a></div></section>
+<section class="tight"><div class="wrap"><div class="banners"><a class="banner" href="{BASE}/blog/gift-ideas-for-him-gym/"><span class="eyebrow">Christmas gift guide</span><strong>Gym gifts for him</strong><span class="arrow">See the ideas →</span></a><a class="banner" href="{BASE}/blog/gift-ideas-for-her-gym/"><span class="eyebrow">Christmas gift guide</span><strong>Gym gifts for her</strong><span class="arrow">See the ideas →</span></a></div></div></section>
+<section><div class="wrap"><div class="section-head"><h2>New in</h2><a href="{BASE}/products/men/">Shop men →</a></div><div class="grid">{''.join(card(p) for p in NEW[:8])}</div></div></section>
 <section><div class="wrap"><div class="section-head"><h2>Best sellers</h2><a href="{BASE}/products/">See all →</a></div><div class="grid">{''.join(card(by_asin[a]) for a in BEST)}</div></div></section>
 <section class="tight"><div class="wrap"><div class="section-head"><h2>Latest guides</h2><a href="{BASE}/blog/">All guides →</a></div>
 <div class="posts">{''.join(f'<a class="post-card" href="{BASE}/blog/{s}/"><span class="eyebrow">Guide</span><h3>{esc(t)}</h3><p>{esc(d)}</p></a>' for s, t, d in POSTS_META[:3])}</div></div></section>''',
