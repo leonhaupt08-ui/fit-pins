@@ -84,6 +84,8 @@ Pins must not all look the same. Before rendering new entries run `python3 tools
 - Max 5 pins per day, never the same product twice within 14 days. If no queued pin was pushed in an
   earlier run (e.g. queue was empty), render new ones, push, and post them in the next run.
 - Never edit or delete existing pins, boards or the profile.
+  (Exception done once on the owner's request on 26.11.2026: the 64 old same-looking pins were deleted;
+  they have `"status": "deleted"` in queue.json and their `-v2` redesigns are queued. Ignore deleted entries.)
 
 ## Boards
 

@@ -1,9 +1,7 @@
 [
   {
     "slug": "01-grey-sweatpants-outfit",
-    "status": "posted",
-    "posted_at": "2026-11-17",
-    "pin_id": "1110207745680601167",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0HB8Y3GLY?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/ea/ba/a4/eabaa44e4a74804c009b51f7df3df698.jpg",
     "board_id": "1110207814332820701",
@@ -12,11 +10,14 @@
     "subline": "Baggy streetwear look for men",
     "position": "center 30%",
     "title": "Grey Sweatpants Outfit Men | Baggy Streetwear Look",
-    "description": "Grey baggy sweatpants outfit idea for men. Wide leg joggers with drawstring waist – style them with a white tee, hoodie and clean sneakers for an easy streetwear and athleisure look.\n\nWerbung | Affiliate-Link\n\n#GreySweatpants #MensOutfit #Streetwear #Athleisure #MensFashion"
+    "description": "Grey baggy sweatpants outfit idea for men. Wide leg joggers with drawstring waist – style them with a white tee, hoodie and clean sneakers for an easy streetwear and athleisure look.\n\nWerbung | Affiliate-Link\n\n#GreySweatpants #MensOutfit #Streetwear #Athleisure #MensFashion",
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745680601167",
+    "first_posted_at": "2026-11-17"
   },
   {
     "slug": "02-black-leggings-gym-outfit",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0D9WJTBHR?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/ad/6f/ac/ad6faccf3bff33605ccf8b16cf3314b8.jpg",
     "board_id": "1110207814332818580",
@@ -26,12 +27,13 @@
     "position": "center 40%",
     "title": "Black Leggings Gym Outfit | High Waist Seamless Leggings",
     "description": "Black high waist leggings gym outfit idea. Seamless workout leggings that you can style with a sports bra, crop top or oversized tee and white socks – for the gym and everyday athleisure.\n\nWerbung | Affiliate-Link\n\n#BlackLeggings #GymOutfit #LeggingsOutfit #WorkoutOutfit #Activewear",
-    "posted_at": "2026-11-17",
-    "pin_id": "1110207745680601246"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745680601246",
+    "first_posted_at": "2026-11-17"
   },
   {
     "slug": "03-ribbed-long-sleeve-men",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0B2DC5Y2Y?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/24/6d/f0/246df066239587b9598797006c5a5470.jpg",
     "board_id": "1110207814332820701",
@@ -41,12 +43,13 @@
     "position": "center 30%",
     "title": "Men's Ribbed Long Sleeve Shirt Outfit | Clean Casual Style",
     "description": "Grey ribbed long sleeve henley for men – slim fit, clean and timeless. Wear it with black pants and a watch for an elevated casual outfit, date night or everyday look.\n\nWerbung | Affiliate-Link\n\n#MensStyle #RibbedShirt #HenleyShirt #CasualOutfit #MensFashion",
-    "posted_at": "2026-11-17",
-    "pin_id": "1110207745680601477"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745680601477",
+    "first_posted_at": "2026-11-17"
   },
   {
     "slug": "04-all-black-gym-outfit-men",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0BCGR2CP1?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/54/2e/89/542e8939b0eb172586d35d567915b3ea.jpg",
     "board_id": "1110207814332820701",
@@ -56,12 +59,13 @@
     "position": "left center",
     "title": "All Black Gym Outfit Men | 5 Piece Workout Set",
     "description": "All black gym outfit for men: 5 piece workout set with zip hoodie, compression t-shirt, long sleeve top, shorts and compression leggings. One set for lifting, running and training.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #AllBlackOutfit #GymWear #WorkoutClothes #MensActivewear",
-    "posted_at": "2026-11-17",
-    "pin_id": "1110207745680601481"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745680601481",
+    "first_posted_at": "2026-11-17"
   },
   {
     "slug": "05-high-waist-gym-shorts",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0GKNDGC6G?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/e7/2b/89/e72b89875be4ad161d1b0ea95c36a52d.jpg",
     "board_id": "1110207814332820674",
@@ -71,12 +75,13 @@
     "position": "center 40%",
     "title": "High Waist Gym Shorts | Black Workout Shorts Outfit",
     "description": "Black high waist gym shorts for women – biker shorts style that is easy to combine with a sports bra or crop top. Workout outfit idea for the gym, running and summer training.\n\nWerbung | Affiliate-Link\n\n#GymShorts #WorkoutOutfit #BikerShorts #GymOutfitWomen #Activewear",
-    "posted_at": "2026-11-17",
-    "pin_id": "1110207745680601485"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745680601485",
+    "first_posted_at": "2026-11-17"
   },
   {
     "slug": "06-grey-3-piece-gym-set-women",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0FJ4NKKYM?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/e8/19/1c/e8191c8d3fcafd9cebc521597f304e6b.jpg",
     "board_id": "1110207814332818565",
@@ -86,12 +91,13 @@
     "position": "center 30%",
     "title": "Women's Matching Gym Set | Dark Grey 3 Piece Workout Outfit",
     "description": "Dark grey 3 piece gym set for women with cropped zip jacket, sports bra and high waist leggings. A matching workout outfit that looks clean in the gym and on the way there.\n\nWerbung | Affiliate-Link\n\n#MatchingSet #GymOutfit #WorkoutSet #Activewear #GymOutfitWomen",
-    "posted_at": "2026-11-17",
-    "pin_id": "1110207745680601732"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745680601732",
+    "first_posted_at": "2026-11-17"
   },
   {
     "slug": "07-black-baggy-sweatpants-men",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0H3KL31X9?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/d3/d1/0e/d3d10e557a9f981a1bdf7c1c4906f6c4.jpg",
     "board_id": "1110207814332820701",
@@ -101,12 +107,13 @@
     "position": "center 40%",
     "title": "Black Sweatpants Outfit Men | Baggy Joggers Streetwear",
     "description": "Black baggy sweatpants outfit for men. Pair the wide leg joggers with a plain white tee and white sneakers for an easy everyday streetwear and gym look.\n\nWerbung | Affiliate-Link\n\n#BlackSweatpants #MensOutfit #Streetwear #Athleisure #BaggyPants",
-    "posted_at": "2026-11-17",
-    "pin_id": "1110207745680601736"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745680601736",
+    "first_posted_at": "2026-11-17"
   },
   {
     "slug": "08-black-workout-set-women",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0FJRKHXQP?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/c3/cf/76/c3cf7638b70c906cb77120d091f46c04.jpg",
     "board_id": "1110207814332818565",
@@ -116,12 +123,13 @@
     "position": "center 30%",
     "title": "All Black Workout Set Women | Sleek Gym to Street Outfit",
     "description": "Sleek all black workout set for women with racerback top and high waist leggings. Add white socks, sneakers and a tote bag for an easy gym to street outfit.\n\nWerbung | Affiliate-Link\n\n#WorkoutSet #AllBlackOutfit #GymOutfitWomen #Athleisure #Activewear",
-    "posted_at": "2026-11-17",
-    "pin_id": "1110207745680601740"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745680601740",
+    "first_posted_at": "2026-11-17"
   },
   {
     "slug": "09-compression-shirts-men",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0GHZ3CXNB?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/b7/88/98/b78898df0efd656c8b92823f6556059f.jpg",
     "board_id": "1110207814332820701",
@@ -131,12 +139,13 @@
     "position": "center 25%",
     "title": "Men's Compression Shirts 3 Pack | Gym T-Shirts Black White Grey",
     "description": "Men's compression gym shirts in black, white and grey. Fitted short sleeve training tops for lifting, running and everyday gym outfits.\n\nWerbung | Affiliate-Link\n\n#CompressionShirt #GymOutfitMen #GymWear #MensActivewear #WorkoutClothes",
-    "posted_at": "2026-11-18",
-    "pin_id": "1110207745680640564"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745680640564",
+    "first_posted_at": "2026-11-18"
   },
   {
     "slug": "10-grey-running-shorts-women",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0FFS826J6?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/d7/95/aa/d795aa03f957c91a08522d4f38b70e89.jpg",
     "board_id": "1110207814332820674",
@@ -146,12 +155,13 @@
     "position": "center 45%",
     "title": "Grey Running Shorts Women | Comfy Sport & Summer Outfit",
     "description": "Soft grey running shorts for women with drawstring waist and white trim. Style them with a white crop top for a comfy workout, running or summer outfit.\n\nWerbung | Affiliate-Link\n\n#RunningShorts #WorkoutOutfit #GymShorts #SummerOutfit #Activewear",
-    "posted_at": "2026-11-18",
-    "pin_id": "1110207745680640566"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745680640566",
+    "first_posted_at": "2026-11-18"
   },
   {
     "slug": "11-black-training-tshirt-men",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0785VXRX2?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/55/a5/eb/55a5ebdfd18a0f48dad757ca3fa795f7.jpg",
     "board_id": "1110207814332820701",
@@ -161,12 +171,13 @@
     "position": "center 25%",
     "title": "Black Training T-Shirt Men | Gym Outfit Essential",
     "description": "Lightweight black training t-shirt for men – the simple gym basic that goes with every pair of shorts or joggers. Clean, sporty and easy to style.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #BlackTshirt #TrainingShirt #MensActivewear #GymEssentials",
-    "posted_at": "2026-11-18",
-    "pin_id": "1110207745680656736"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745680656736",
+    "first_posted_at": "2026-11-18"
   },
   {
     "slug": "12-black-leggings-with-pockets",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B07T66CJ6Z?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/25/a1/43/25a143cb8c32f0cd7018e8b0342e27da.jpg",
     "board_id": "1110207814332818580",
@@ -176,12 +187,13 @@
     "position": "center 30%",
     "title": "Black Leggings with Pockets | High Waist Workout Leggings",
     "description": "High waist black leggings with side pockets for your phone. Perfect for gym, running, yoga and everyday athleisure outfits.\n\nWerbung | Affiliate-Link\n\n#LeggingsWithPockets #BlackLeggings #WorkoutLeggings #GymOutfit #Activewear",
-    "posted_at": "2026-11-18",
-    "pin_id": "1110207745680656744"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745680656744",
+    "first_posted_at": "2026-11-18"
   },
   {
     "slug": "13-black-gym-tshirt-men",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B00YMG2ZNI?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/db/0e/37/db0e372056ddd4b1d9211fea86d933ab.jpg",
     "board_id": "1110207814332820701",
@@ -191,12 +203,13 @@
     "position": "center 25%",
     "title": "All Black Gym Fit Men | Fitted Training T-Shirt",
     "description": "Fitted black training t-shirt for men – clean all black gym fit for lifting and everyday workouts. Combine with black shorts or joggers.\n\nWerbung | Affiliate-Link\n\n#GymFit #AllBlackOutfit #GymOutfitMen #TrainingShirt #MensFitness",
-    "posted_at": "2026-11-18",
-    "pin_id": "1110207745680671341"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745680671341",
+    "first_posted_at": "2026-11-18"
   },
   {
     "slug": "14-quarter-zip-top-men",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B078141ML8?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/02/14/63/021463c995afdb2e9698cac6261e6195.jpg",
     "board_id": "1110207814332820701",
@@ -206,12 +219,13 @@
     "position": "center 30%",
     "title": "Men's Quarter Zip Top Outfit | Sporty Layering Style",
     "description": "Black quarter zip training top for men – a sporty layer for cold gym days, running or a clean casual outfit with joggers and sneakers.\n\nWerbung | Affiliate-Link\n\n#QuarterZip #MensOutfit #GymOutfitMen #Athleisure #MensStyle",
-    "posted_at": "2026-11-19",
-    "pin_id": "1110207745680715129"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745680715129",
+    "first_posted_at": "2026-11-19"
   },
   {
     "slug": "15-black-leggings-autumn-outfit",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0CBBL7R8D?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/d8/24/e9/d824e959d3c47437f7b6461c6b8c75e3.jpg",
     "board_id": "1110207814332818580",
@@ -221,12 +235,13 @@
     "position": "center 40%",
     "title": "Black Leggings Outfit for Fall | Cozy Autumn Athleisure",
     "description": "High waisted black leggings outfit idea for autumn and winter. Style them with an oversized sweater, sneakers or boots for a cozy everyday athleisure look.\n\nWerbung | Affiliate-Link\n\n#LeggingsOutfit #FallOutfit #BlackLeggings #Athleisure #CozyOutfit",
-    "posted_at": "2026-11-19",
-    "pin_id": "1110207745680715133"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745680715133",
+    "first_posted_at": "2026-11-19"
   },
   {
     "slug": "016-front-zip-high-support-sports-bra",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0BRSW9SG9?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/04/0f/9f/040f9f04599d542583e2a349ee50ba42.jpg",
     "board_id": "1110207814332850044",
@@ -236,12 +251,13 @@
     "title": "Front-Zip High Support Sports Bra | Women's Gym Top Outfit",
     "description": "Front-Zip High Support Sports Bra for women – pair it with high waisted leggings or shorts for a clean workout outfit that also works outside the gym.\n\nWerbung | Affiliate-Link\n\n#GymTop #SportsBra #WorkoutOutfit #GymOutfitWomen #Activewear",
     "position": "center 30%",
-    "posted_at": "2026-11-19",
-    "pin_id": "1110207745680732341"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745680732341",
+    "first_posted_at": "2026-11-19"
   },
   {
     "slug": "017-men-s-running-jacket",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0BGPNQ842?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/c1/af/97/c1af9743657663d88c6132844dac1613.jpg",
     "board_id": "1110207814332820701",
@@ -251,12 +267,13 @@
     "title": "Men's Running Jacket | Training Layer",
     "description": "Men's Running Jacket – a sporty layer for cold gym days, running or a clean casual outfit with joggers and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensStyle #Athleisure #MensActivewear #TrainingWear",
     "layout": "product",
-    "posted_at": "2026-11-19",
-    "pin_id": "1110207745680732346"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745680732346",
+    "first_posted_at": "2026-11-19"
   },
   {
     "slug": "018-epsom-salt-magnesium-sulfate",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0065T41T6?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/c8/fe/3c/c8fe3ccf85c6a7afdd5fab208b3822bd.jpg",
     "board_id": "1110207814332816389",
@@ -266,12 +283,13 @@
     "title": "Epsom Salt (Magnesium Sulfate) | Recovery Tools",
     "description": "Epsom Salt (Magnesium Sulfate) – a simple tool for your rest day and post-workout routine.\n\nWerbung | Affiliate-Link\n\n#RestDay #Recovery #SelfCare #GymEssentials #MobilityWork",
     "layout": "product",
-    "posted_at": "2026-11-19",
-    "pin_id": "1110207745680743675"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745680743675",
+    "first_posted_at": "2026-11-19"
   },
   {
     "slug": "019-black-seamless-squat-proof-leggings",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0BRMYP238?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/2a/93/0e/2a930e83b37e7285f2fa7afd0bc1b82d.jpg",
     "board_id": "1110207814332818580",
@@ -281,12 +299,13 @@
     "title": "Black Seamless Squat-Proof Leggings | Women's Workout Leggings",
     "description": "Black Seamless Squat-Proof Leggings – easy to style with a sports bra, crop top or oversized tee for the gym, yoga and everyday athleisure.\n\nWerbung | Affiliate-Link\n\n#LeggingsOutfit #GymLeggings #WorkoutOutfit #Athleisure #GymOutfitWomen",
     "layout": "product",
-    "posted_at": "2026-11-19",
-    "pin_id": "1110207745680743680"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745680743680",
+    "first_posted_at": "2026-11-19"
   },
   {
     "slug": "020-men-s-compression-shorts-3-pack",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B07RGP48Q3?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/07/d0/87/07d087691091c4dc407b4f3ba4759fff.jpg",
     "board_id": "1110207814332820701",
@@ -296,12 +315,13 @@
     "title": "Men's Compression Shorts 3-Pack | Gym Outfit",
     "description": "Men's Compression Shorts 3-Pack – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #GymShorts #MensFashion",
     "layout": "product",
-    "posted_at": "2026-11-19",
-    "pin_id": "1110207745680756119"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745680756119",
+    "first_posted_at": "2026-11-19"
   },
   {
     "slug": "021-running-phone-armband",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B09QM1L2N3?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/0f/a1/79/0fa179269f5a8abb1b99253f879a0e3f.jpg",
     "board_id": "1110207814332816389",
@@ -311,12 +331,13 @@
     "title": "Running Phone Armband | Gym Bag Essentials",
     "description": "Running Phone Armband – a practical gym bag essential for everyday training.\n\nWerbung | Affiliate-Link\n\n#GymEssentials #GymBag #FitnessGear #WhatsInMyGymBag #GymAccessories",
     "layout": "product",
-    "posted_at": "2026-11-19",
-    "pin_id": "1110207745680756126"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745680756126",
+    "first_posted_at": "2026-11-19"
   },
   {
     "slug": "022-women-s-thermal-long-sleeve-tops",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0H6VZZZV2?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/d8/64/1c/d8641c19e821691061201be30d4711c1.jpg",
     "board_id": "1110207814332850044",
@@ -326,12 +347,13 @@
     "title": "Women's Thermal Long Sleeve Tops | Gym Top Outfit",
     "description": "Women's Thermal Long Sleeve Tops – pair it with high waisted leggings or shorts for a clean workout outfit that also works outside the gym.\n\nWerbung | Affiliate-Link\n\n#GymTop #SportsBra #WorkoutOutfit #GymOutfitWomen #Activewear",
     "layout": "product",
-    "posted_at": "2026-11-20",
-    "pin_id": "1110207745680792067"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745680792067",
+    "first_posted_at": "2026-11-20"
   },
   {
     "slug": "023-men-s-swim-gym-shorts",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0GJZJ8KD6?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/f6/12/a5/f612a5f2f8ae7bcb4cc5917859feea95.jpg",
     "board_id": "1110207814332820701",
@@ -341,12 +363,13 @@
     "title": "Men's Swim & Gym Shorts | Gym Outfit",
     "description": "Men's Swim & Gym Shorts – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #GymShorts #MensFashion",
     "layout": "product",
-    "posted_at": "2026-11-20",
-    "pin_id": "1110207745680792075"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745680792075",
+    "first_posted_at": "2026-11-20"
   },
   {
     "slug": "024-lacrosse-massage-ball",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0127BIK1U?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/4c/8e/26/4c8e26df8fc0341ac913204a6c8a314e.jpg",
     "board_id": "1110207814332816389",
@@ -356,12 +379,13 @@
     "title": "Lacrosse Massage Ball | Recovery Tools",
     "description": "Lacrosse Massage Ball – a simple tool for your rest day and post-workout routine.\n\nWerbung | Affiliate-Link\n\n#RestDay #Recovery #SelfCare #GymEssentials #MobilityWork",
     "layout": "product",
-    "posted_at": "2026-11-20",
-    "pin_id": "1110207745680798820"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745680798820",
+    "first_posted_at": "2026-11-20"
   },
   {
     "slug": "025-black-wide-leg-yoga-pants",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0G1Y9PVP9?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/1f/c8/ed/1fc8ed352ad7d341856eeeef6cc53e38.jpg",
     "board_id": "1110207814332818580",
@@ -371,12 +395,13 @@
     "title": "Black Wide-Leg Yoga Pants | Women's Workout Leggings",
     "description": "Black Wide-Leg Yoga Pants – easy to style with a sports bra, crop top or oversized tee for the gym, yoga and everyday athleisure.\n\nWerbung | Affiliate-Link\n\n#LeggingsOutfit #GymLeggings #WorkoutOutfit #Athleisure #GymOutfitWomen",
     "layout": "product",
-    "posted_at": "2026-11-20",
-    "pin_id": "1110207745680798825"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745680798825",
+    "first_posted_at": "2026-11-20"
   },
   {
     "slug": "026-under-armour-white-compression-shorts",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0872LXK5L?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/b5/60/39/b5603986aa4b31d2c6d7520089535c5c.jpg",
     "board_id": "1110207814332820701",
@@ -386,12 +411,13 @@
     "title": "Under Armour White Compression Shorts | Men's Gym Outfit",
     "description": "Under Armour White Compression Shorts for men – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #GymShorts #MensFashion",
     "layout": "product",
-    "posted_at": "2026-11-20",
-    "pin_id": "1110207745680809245"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745680809245",
+    "first_posted_at": "2026-11-20"
   },
   {
     "slug": "027-weightlifting-shoes",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B08HVP9H1Y?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/f0/f1/1b/f0f11bf79914c264dcae6bf1bed5b9d3.jpg",
     "board_id": "1110207814332971379",
@@ -401,12 +427,13 @@
     "title": "Weightlifting Shoes | Gym & Running Shoes",
     "description": "Weightlifting Shoes – a solid pick for training and running. Check the size chart before ordering.\n\nWerbung | Affiliate-Link\n\n#GymShoes #RunningShoes #TrainingShoes #FitnessGear #GymEssentials",
     "layout": "product",
-    "posted_at": "2026-11-20",
-    "pin_id": "1110207745680809249"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745680809249",
+    "first_posted_at": "2026-11-20"
   },
   {
     "slug": "028-women-s-fitted-zip-up-gym-jacket",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0CL1YFTZB?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/5b/dc/36/5bdc366b65b9a73dd730067eaaf489f0.jpg",
     "board_id": "1110207814332850044",
@@ -416,12 +443,13 @@
     "title": "Women's Fitted Zip-Up Gym Jacket | Gym Top Outfit",
     "description": "Women's Fitted Zip-Up Gym Jacket – pair it with high waisted leggings or shorts for a clean workout outfit that also works outside the gym.\n\nWerbung | Affiliate-Link\n\n#GymTop #SportsBra #WorkoutOutfit #GymOutfitWomen #Activewear",
     "layout": "product",
-    "posted_at": "2026-11-21",
-    "pin_id": "1110207745680874272"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745680874272",
+    "first_posted_at": "2026-11-21"
   },
   {
     "slug": "029-men-s-gym-shorts-5-pack",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0CTK4W6ZY?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/8a/02/2f/8a022fcb649b16b3fe9102f61e496842.jpg",
     "board_id": "1110207814332820701",
@@ -431,12 +459,13 @@
     "title": "Men's Gym Shorts 5-Pack | Gym Outfit",
     "description": "Men's Gym Shorts 5-Pack – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #GymShorts #MensFashion",
     "layout": "product",
-    "posted_at": "2026-11-21",
-    "pin_id": "1110207745680883633"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745680883633",
+    "first_posted_at": "2026-11-21"
   },
   {
     "slug": "030-black-nike-cap",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0C4YT3QTC?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/57/b3/86/57b3863b85ced9a393c5c56c0675a544.jpg",
     "board_id": "1110207814332816389",
@@ -446,12 +475,13 @@
     "title": "Black Nike Cap | Gym Bag Essentials",
     "description": "Black Nike Cap – a practical gym bag essential for everyday training.\n\nWerbung | Affiliate-Link\n\n#GymEssentials #GymBag #FitnessGear #WhatsInMyGymBag #GymAccessories",
     "layout": "product",
-    "posted_at": "2026-11-21",
-    "pin_id": "1110207745680893392"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745680893392",
+    "first_posted_at": "2026-11-21"
   },
   {
     "slug": "031-women-s-grey-lounge-set",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0DDQ11QGJ?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/cb/4c/99/cb4c99d0764dc2cf40b0fd709271fefe.jpg",
     "board_id": "1110207814332818565",
@@ -461,12 +491,13 @@
     "title": "Women's Grey Lounge Set | Matching Gym Set",
     "description": "Women's Grey Lounge Set – a matching workout set that looks put together in the gym and on the way there. Style it with white sneakers and a zip jacket.\n\nWerbung | Affiliate-Link\n\n#MatchingSet #GymOutfitWomen #WorkoutSet #Activewear #GymOutfit",
     "layout": "product",
-    "posted_at": "2026-11-21",
-    "pin_id": "1110207745680909247"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745680909247",
+    "first_posted_at": "2026-11-21"
   },
   {
     "slug": "032-balennz-5-men-s-gym-shorts",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B09R42MP54?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/2c/b8/d6/2cb8d6da3beb35219f61434bf634e22a.jpg",
     "board_id": "1110207814332820701",
@@ -476,12 +507,13 @@
     "title": "BALENNZ 5\" Men's Gym Shorts | Gym Outfit",
     "description": "BALENNZ 5\" Men's Gym Shorts – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #GymShorts #MensFashion",
     "layout": "product",
-    "posted_at": "2026-11-21",
-    "pin_id": "1110207745680924156"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745680924156",
+    "first_posted_at": "2026-11-21"
   },
   {
     "slug": "033-betteryou-magnesium-body-lotion",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B00U6CG5QU?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/78/30/e7/7830e76e1b1eb4a29514d75a1cb9bb4c.jpg",
     "board_id": "1110207814332816389",
@@ -491,12 +523,13 @@
     "title": "BetterYou Magnesium Body Lotion | Recovery Tools",
     "description": "BetterYou Magnesium Body Lotion – a simple tool for your rest day and post-workout routine.\n\nWerbung | Affiliate-Link\n\n#RestDay #Recovery #SelfCare #GymEssentials #MobilityWork",
     "layout": "product",
-    "posted_at": "2026-11-22",
-    "pin_id": "1110207745680963279"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745680963279",
+    "first_posted_at": "2026-11-22"
   },
   {
     "slug": "034-sports-bra-3-pack",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B07TVWK57Y?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/58/02/b0/5802b0d0b675209a5344cd5d4d0b51ba.jpg",
     "board_id": "1110207814332850044",
@@ -506,12 +539,13 @@
     "title": "Sports Bra 3-Pack | Women's Gym Top Outfit",
     "description": "Sports Bra 3-Pack for women – pair it with high waisted leggings or shorts for a clean workout outfit that also works outside the gym.\n\nWerbung | Affiliate-Link\n\n#GymTop #SportsBra #WorkoutOutfit #GymOutfitWomen #Activewear",
     "layout": "product",
-    "posted_at": "2026-11-22",
-    "pin_id": "1110207745680971821"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745680971821",
+    "first_posted_at": "2026-11-22"
   },
   {
     "slug": "035-men-s-oversized-vintage-gym-tees",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0F29KHMN8?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/71/f7/44/71f744e90439fc699f1d109bdc6e23aa.jpg",
     "board_id": "1110207814332820701",
@@ -521,12 +555,13 @@
     "title": "Men's Oversized Vintage Gym Tees | Gym Outfit",
     "description": "Men's Oversized Vintage Gym Tees – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
     "layout": "product",
-    "posted_at": "2026-11-22",
-    "pin_id": "1110207745680982569"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745680982569",
+    "first_posted_at": "2026-11-22"
   },
   {
     "slug": "036-salomon-men-s-trail-running-shoes",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0C46MDL41?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/7b/fa/f6/7bfaf6a8375da659e76e7094ba15b7a0.jpg",
     "board_id": "1110207814332971379",
@@ -536,12 +571,13 @@
     "title": "Salomon Men's Trail Running Shoes | Gym & Running Shoes",
     "description": "Salomon Men's Trail Running Shoes – a solid pick for training and running. Check the size chart before ordering.\n\nWerbung | Affiliate-Link\n\n#GymShoes #RunningShoes #TrainingShoes #FitnessGear #GymEssentials",
     "layout": "product",
-    "posted_at": "2026-11-22",
-    "pin_id": "1110207745680994310"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745680994310",
+    "first_posted_at": "2026-11-22"
   },
   {
     "slug": "037-black-leggings-3-pack",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B08R665YMH?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/ed/40/99/ed409961391b046acfacedbd7ed818ba.jpg",
     "board_id": "1110207814332818580",
@@ -551,12 +587,13 @@
     "title": "Black Leggings 3-Pack | Women's Workout Leggings",
     "description": "Black Leggings 3-Pack – easy to style with a sports bra, crop top or oversized tee for the gym, yoga and everyday athleisure.\n\nWerbung | Affiliate-Link\n\n#LeggingsOutfit #GymLeggings #WorkoutOutfit #Athleisure #GymOutfitWomen",
     "layout": "product",
-    "posted_at": "2026-11-22",
-    "pin_id": "1110207745681007448"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745681007448",
+    "first_posted_at": "2026-11-22"
   },
   {
     "slug": "038-men-s-quick-dry-workout-shirt",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0CWR4QMKJ?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/bf/4b/96/bf4b96bc9d406851bf7de2db3a3cc635.jpg",
     "board_id": "1110207814332820701",
@@ -566,12 +603,13 @@
     "title": "Men's Quick-Dry Workout Shirt | Gym Outfit",
     "description": "Men's Quick-Dry Workout Shirt – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
     "layout": "product",
-    "posted_at": "2026-11-23",
-    "pin_id": "1110207745681044273"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745681044273",
+    "first_posted_at": "2026-11-23"
   },
   {
     "slug": "039-white-gym-backpack-with-shoe-compartment",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0FD2J6MF7?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/fe/e2/6c/fee26c45e3d5af7b4d213c7876b27c4b.jpg",
     "board_id": "1110207814332816389",
@@ -581,12 +619,13 @@
     "title": "White Gym Backpack with Shoe Compartment | Gym Bag Essentials",
     "description": "White Gym Backpack with Shoe Compartment – a practical gym bag essential for everyday training.\n\nWerbung | Affiliate-Link\n\n#GymEssentials #GymBag #FitnessGear #WhatsInMyGymBag #GymAccessories",
     "layout": "product",
-    "posted_at": "2026-11-23",
-    "pin_id": "1110207745681051111"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745681051111",
+    "first_posted_at": "2026-11-23"
   },
   {
     "slug": "040-black-high-waisted-leggings-with-pockets",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0D6B1PGNH?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/8a/2c/5e/8a2c5e3995f779092586d7c8cda00abe.jpg",
     "board_id": "1110207814332818580",
@@ -596,12 +635,13 @@
     "title": "Black High-Waisted Leggings with Pockets | Women's Workout Leggings",
     "description": "Black High-Waisted Leggings with Pockets – easy to style with a sports bra, crop top or oversized tee for the gym, yoga and everyday athleisure.\n\nWerbung | Affiliate-Link\n\n#LeggingsOutfit #GymLeggings #WorkoutOutfit #Athleisure #GymOutfitWomen",
     "layout": "product",
-    "posted_at": "2026-11-23",
-    "pin_id": "1110207745681060738"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745681060738",
+    "first_posted_at": "2026-11-23"
   },
   {
     "slug": "041-men-s-2-in-1-training-shorts",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B09573RCYV?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/70/eb/74/70eb74c97aade1bf9a7840dc4190e2c3.jpg",
     "board_id": "1110207814332820701",
@@ -611,12 +651,13 @@
     "title": "Men's 2-in-1 Training Shorts | Gym Outfit",
     "description": "Men's 2-in-1 Training Shorts – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #GymShorts #MensFashion",
     "layout": "product",
-    "posted_at": "2026-11-23",
-    "pin_id": "1110207745681073524"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745681073524",
+    "first_posted_at": "2026-11-23"
   },
   {
     "slug": "042-wooden-gymnastic-rings",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B06XCSJX7T?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/7e/ab/7a/7eab7a293db98b59f6c38adcc4281303.jpg",
     "board_id": "1110207814332816389",
@@ -626,12 +667,13 @@
     "title": "Wooden Gymnastic Rings | Home Gym Equipment",
     "description": "Wooden Gymnastic Rings – useful equipment for home workouts and the gym.\n\nWerbung | Affiliate-Link\n\n#HomeGym #HomeWorkout #FitnessEquipment #WorkoutAtHome #GymEssentials",
     "layout": "product",
-    "posted_at": "2026-11-23",
-    "pin_id": "1110207745681086211"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745681086211",
+    "first_posted_at": "2026-11-23"
   },
   {
     "slug": "043-dark-red-wide-leg-sweatpants",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0G1ZK4QH4?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/0e/a4/24/0ea424dd66b3c9bac9400c9198452005.jpg",
     "board_id": "1110207814332818565",
@@ -641,12 +683,13 @@
     "title": "Dark Red Wide-Leg Sweatpants | Women's Athleisure Outfit",
     "description": "Dark Red Wide-Leg Sweatpants for women – comfortable for workouts, errands and lazy days. Combine with a fitted top and sneakers.\n\nWerbung | Affiliate-Link\n\n#AthleisureOutfit #WorkoutOutfit #ComfyOutfit #GymOutfitWomen #Activewear",
     "layout": "product",
-    "posted_at": "2026-11-24",
-    "pin_id": "1110207745681124181"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745681124181",
+    "first_posted_at": "2026-11-24"
   },
   {
     "slug": "044-black-oversized-gym-tee",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0C81R5LPC?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/3d/ee/ee/3deeeeb71128373ae0005af2ffda224e.jpg",
     "board_id": "1110207814332820701",
@@ -656,12 +699,13 @@
     "title": "Black Oversized Gym Tee | Men's Gym Outfit",
     "description": "Black Oversized Gym Tee for men – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
     "layout": "product",
-    "posted_at": "2026-11-24",
-    "pin_id": "1110207745681131487"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745681131487",
+    "first_posted_at": "2026-11-24"
   },
   {
     "slug": "045-bone-conduction-headphones",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0HN7WY9WS?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/dc/16/d8/dc16d8224fccef1e9024d0dd46c9411b.jpg",
     "board_id": "1110207814332816389",
@@ -671,12 +715,13 @@
     "title": "Bone Conduction Headphones | Gym Bag Essentials",
     "description": "Bone Conduction Headphones – a practical gym bag essential for everyday training.\n\nWerbung | Affiliate-Link\n\n#GymEssentials #GymBag #FitnessGear #WhatsInMyGymBag #GymAccessories",
     "layout": "product",
-    "posted_at": "2026-11-24",
-    "pin_id": "1110207745681141440"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745681141440",
+    "first_posted_at": "2026-11-24"
   },
   {
     "slug": "046-black-zip-up-workout-jacket",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0D9S9B4L2?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/3b/04/0c/3b040c39d43842dbc51e68f281b4733e.jpg",
     "board_id": "1110207814332850044",
@@ -686,12 +731,13 @@
     "title": "Black Zip-Up Workout Jacket | Women's Gym Top Outfit",
     "description": "Black Zip-Up Workout Jacket for women – pair it with high waisted leggings or shorts for a clean workout outfit that also works outside the gym.\n\nWerbung | Affiliate-Link\n\n#GymTop #SportsBra #WorkoutOutfit #GymOutfitWomen #Activewear",
     "position": "center 30%",
-    "posted_at": "2026-11-24",
-    "pin_id": "1110207745681151861"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745681151861",
+    "first_posted_at": "2026-11-24"
   },
   {
     "slug": "047-men-s-white-gym-tank-top",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0G5PHV4XB?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/d3/a4/16/d3a41664fee49b6305ed0cc762db15e7.jpg",
     "board_id": "1110207814332820701",
@@ -701,12 +747,13 @@
     "title": "Men's White Gym Tank Top | Gym Outfit",
     "description": "Men's White Gym Tank Top – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
     "layout": "product",
-    "posted_at": "2026-11-24",
-    "pin_id": "1110207745681164781"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745681164781",
+    "first_posted_at": "2026-11-24"
   },
   {
     "slug": "048-knee-sleeves-pair",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0CKK4VG26?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/61/16/ec/6116ec8fa65d67d6f4b6201d706f7673.jpg",
     "board_id": "1110207814332816389",
@@ -716,12 +763,13 @@
     "title": "Knee Sleeves (Pair) | Home Gym Equipment",
     "description": "Knee Sleeves (Pair) – useful equipment for home workouts and the gym.\n\nWerbung | Affiliate-Link\n\n#HomeGym #HomeWorkout #FitnessEquipment #WorkoutAtHome #GymEssentials",
     "layout": "product",
-    "posted_at": "2026-11-25",
-    "pin_id": "1110207745681199230"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745681199230",
+    "first_posted_at": "2026-11-25"
   },
   {
     "slug": "049-black-sports-bra",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0GF8CKZ5N?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/a1/ba/3f/a1ba3f9e2918bed796323041d2379e6a.jpg",
     "board_id": "1110207814332850044",
@@ -731,12 +779,13 @@
     "title": "Black Sports Bra | Women's Gym Top Outfit",
     "description": "Black Sports Bra for women – pair it with high waisted leggings or shorts for a clean workout outfit that also works outside the gym.\n\nWerbung | Affiliate-Link\n\n#GymTop #SportsBra #WorkoutOutfit #GymOutfitWomen #Activewear",
     "layout": "product",
-    "posted_at": "2026-11-25",
-    "pin_id": "1110207745681206948"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745681206948",
+    "first_posted_at": "2026-11-25"
   },
   {
     "slug": "050-under-armour-black-compression-shorts",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B089T92G55?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/1a/85/a8/1a85a8d7dde42ab79b6984856996dddc.jpg",
     "board_id": "1110207814332820701",
@@ -746,12 +795,13 @@
     "title": "Under Armour Black Compression Shorts | Men's Gym Outfit",
     "description": "Under Armour Black Compression Shorts for men – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #GymShorts #MensFashion",
     "layout": "product",
-    "posted_at": "2026-11-25",
-    "pin_id": "1110207745681215758"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745681215758",
+    "first_posted_at": "2026-11-25"
   },
   {
     "slug": "051-ankle-straps-for-cable-machine",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0CHFYJGC5?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/a3/a5/08/a3a508ca19463709c78d1679dd94f70e.jpg",
     "board_id": "1110207814332816389",
@@ -761,12 +811,13 @@
     "title": "Ankle Straps for Cable Machine | Home Gym Equipment",
     "description": "Ankle Straps for Cable Machine – useful equipment for home workouts and the gym.\n\nWerbung | Affiliate-Link\n\n#HomeGym #HomeWorkout #FitnessEquipment #WorkoutAtHome #GymEssentials",
     "layout": "product",
-    "posted_at": "2026-11-25",
-    "pin_id": "1110207745681227709"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745681227709",
+    "first_posted_at": "2026-11-25"
   },
   {
     "slug": "052-lavender-flared-leggings-crop-top-set",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0H8XJ8P48?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/79/33/bb/7933bb72eeda30e97ae45fa640668b4d.jpg",
     "board_id": "1110207814332818565",
@@ -776,12 +827,13 @@
     "title": "Lavender Flared Leggings & Crop Top Set | Women's Matching Gym Set",
     "description": "Lavender Flared Leggings & Crop Top Set for women – a matching workout set that looks put together in the gym and on the way there. Style it with white sneakers and a zip jacket.\n\nWerbung | Affiliate-Link\n\n#MatchingSet #GymOutfitWomen #WorkoutSet #Activewear #GymOutfit",
     "layout": "product",
-    "posted_at": "2026-11-25",
-    "pin_id": "1110207745681240876"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745681240876",
+    "first_posted_at": "2026-11-25"
   },
   {
     "slug": "053-black-joggers",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0D2R8CGJ5?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/cd/cb/82/cdcb82f08381bda4164d5ded52642d92.jpg",
     "board_id": "1110207814332820701",
@@ -791,12 +843,13 @@
     "title": "Black Joggers | Men's Gym Outfit",
     "description": "Black Joggers for men – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #Joggers #MensFashion",
     "layout": "product",
-    "posted_at": "2026-11-26",
-    "pin_id": "1110207745681276347"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745681276347",
+    "first_posted_at": "2026-11-26"
   },
   {
     "slug": "054-above-stainless-steel-shaker-750-ml",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0DS94YFTC?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/f2/ef/77/f2ef771781c13534c7cb620513c9d1fa.jpg",
     "board_id": "1110207814332816389",
@@ -806,12 +859,13 @@
     "title": "ABOVE Stainless Steel Shaker 750 ml | Gym Bag Essentials",
     "description": "ABOVE Stainless Steel Shaker 750 ml – a practical gym bag essential for everyday training.\n\nWerbung | Affiliate-Link\n\n#GymEssentials #GymBag #FitnessGear #WhatsInMyGymBag #GymAccessories",
     "layout": "product",
-    "posted_at": "2026-11-26",
-    "pin_id": "1110207745681283105"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745681283105",
+    "first_posted_at": "2026-11-26"
   },
   {
     "slug": "148-black-compression-shirt-men",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0874X72WP?tag=lilmedia-21",
     "source_image": "file:///home/user/fit-pins/src/148-black-compression-shirt-men.jpg",
     "board_id": "1110207814332820701",
@@ -821,12 +875,13 @@
     "subline": "Under Armour HeatGear · tight fit",
     "title": "Black Compression Shirt Men | Under Armour HeatGear Gym Shirt",
     "description": "Black compression shirt for men – the Under Armour HeatGear tee fits close to the body, ideal for lifting, running or as a base layer. Style it with black joggers or gym shorts for a clean all-black gym outfit.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #CompressionShirt #MensGymWear #UnderArmour #AllBlackOutfit",
-    "posted_at": "2026-11-26",
-    "pin_id": "1110207745681291759"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745681291759",
+    "first_posted_at": "2026-11-26"
   },
   {
     "slug": "149-black-compression-tank-top-men",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0874WCKQJ?tag=lilmedia-21",
     "source_image": "file:///home/user/fit-pins/src/149-black-compression-tank-top-men.jpg",
     "board_id": "1110207814332820701",
@@ -836,12 +891,13 @@
     "subline": "Under Armour HeatGear · compression fit",
     "title": "Black Sleeveless Compression Shirt Men | Under Armour Gym Tank Top",
     "description": "Black sleeveless compression shirt for men – the Under Armour HeatGear tank top sits close to the body and is made for lifting and hot gym days. Pair it with grey training shorts for a simple men's gym outfit.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #TankTopMen #CompressionShirt #MensGymWear #UnderArmour",
-    "posted_at": "2026-11-26",
-    "pin_id": "1110207745681291763"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745681291763",
+    "first_posted_at": "2026-11-26"
   },
   {
     "slug": "150-olive-green-t-shirt-men",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B09WD78L62?tag=lilmedia-21",
     "source_image": "file:///home/user/fit-pins/src/150-olive-green-t-shirt-men.jpg",
     "board_id": "1110207814332820701",
@@ -851,12 +907,13 @@
     "subline": "Under Armour · left chest logo",
     "title": "Olive Green T-Shirt Men | Under Armour Gym Tee for Training & Everyday",
     "description": "Olive green t-shirt for men – the Under Armour left chest logo tee works for the gym and as a casual everyday shirt. Wear it with black joggers and white sneakers for an easy athleisure outfit.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensTshirt #Athleisure #OliveGreen #UnderArmour",
-    "posted_at": "2026-11-26",
-    "pin_id": "1110207745681291866"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745681291866",
+    "first_posted_at": "2026-11-26"
   },
   {
     "slug": "151-black-gym-shorts-men",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0714D4Q4B?tag=lilmedia-21",
     "source_image": "file:///home/user/fit-pins/src/151-black-gym-shorts-men.jpg",
     "board_id": "1110207814332820701",
@@ -866,12 +923,13 @@
     "subline": "Under Armour Tech Graphic · side logo",
     "title": "Black Gym Shorts Men | Under Armour Tech Graphic Training Shorts",
     "description": "Black gym shorts for men – the Under Armour Tech Graphic shorts with the big side logo are a classic for leg day, running and everyday training. Pair them with a black compression shirt for an all-black gym outfit.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #GymShortsMen #MensGymWear #AllBlackOutfit #UnderArmour",
-    "posted_at": "2026-11-26",
-    "pin_id": "1110207745681291908"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745681291908",
+    "first_posted_at": "2026-11-26"
   },
   {
     "slug": "152-black-puma-sneakers",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B07S8PT36G?tag=lilmedia-21",
     "source_image": "file:///home/user/fit-pins/src/152-black-puma-sneakers.jpg",
     "board_id": "1110207814332971379",
@@ -881,12 +939,13 @@
     "subline": "PUMA Anzarun Lite · light mesh · unisex",
     "title": "All Black Gym Sneakers | PUMA Anzarun Lite Training Shoes Men & Women",
     "description": "All black sneakers for the gym – the PUMA Anzarun Lite is a light mesh shoe for training, walking and everyday outfits. Easy to match with black joggers or gym shorts.\n\nWerbung | Affiliate-Link\n\n#GymShoes #BlackSneakers #MensGymWear #TrainingShoes #Puma",
-    "posted_at": "2026-11-26",
-    "pin_id": "1110207745681291912"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745681291912",
+    "first_posted_at": "2026-11-26"
   },
   {
     "slug": "153-white-puma-sneakers",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B077MQ6C7S?tag=lilmedia-21",
     "source_image": "file:///home/user/fit-pins/src/153-white-puma-sneakers.jpg",
     "board_id": "1110207814332971379",
@@ -896,12 +955,13 @@
     "subline": "PUMA ST Runner v3 · clean everyday look",
     "title": "White Sneakers Outfit | PUMA ST Runner v3 Classic White Sneakers",
     "description": "Classic white sneakers – the PUMA ST Runner v3 goes with joggers, gym shorts and jeans and gives every athleisure outfit a clean look. A simple pick for the way to the gym and everyday wear.\n\nWerbung | Affiliate-Link\n\n#WhiteSneakers #SneakerOutfit #Athleisure #MensStyle #Puma",
-    "posted_at": "2026-11-26",
-    "pin_id": "1110207745681291917"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745681291917",
+    "first_posted_at": "2026-11-26"
   },
   {
     "slug": "154-black-baggy-gym-pants-men",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B075GQLGGG?tag=lilmedia-21",
     "source_image": "file:///home/user/fit-pins/src/154-black-baggy-gym-pants-men.jpg",
     "board_id": "1110207814332820701",
@@ -911,12 +971,13 @@
     "subline": "Old-school bodybuilding fit · black",
     "title": "Black Baggy Gym Pants Men | Old School Bodybuilding Pants Outfit",
     "description": "Black baggy gym pants for men – the old-school bodybuilding look with a wide fit and tapered leg. Wear them with a tank top or oversized tee and white sneakers for a classic gym outfit.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #BaggyPants #OldSchoolBodybuilding #MensGymWear #GymFit",
-    "posted_at": "2026-11-26",
-    "pin_id": "1110207745681291925"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745681291925",
+    "first_posted_at": "2026-11-26"
   },
   {
     "slug": "155-black-ribbed-tank-top-men",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0G3WM2CGJ?tag=lilmedia-21",
     "source_image": "file:///home/user/fit-pins/src/155-black-ribbed-tank-top-men.jpg",
     "board_id": "1110207814332820701",
@@ -926,12 +987,13 @@
     "subline": "Slim fit muscle shirt · black",
     "title": "Black Ribbed Tank Top Men | Slim Fit Muscle Shirt Gym Outfit",
     "description": "Black ribbed tank top for men – a slim fit muscle shirt for training and summer outfits. Style it with black joggers or baggy gym pants for a clean all-black look.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #TankTopMen #MuscleShirt #AllBlackOutfit #MensGymWear",
-    "posted_at": "2026-11-26",
-    "pin_id": "1110207745681291934"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745681291934",
+    "first_posted_at": "2026-11-26"
   },
   {
     "slug": "156-grey-wide-leg-sweatpants-men",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0H36333FW?tag=lilmedia-21",
     "source_image": "file:///home/user/fit-pins/src/156-grey-wide-leg-sweatpants-men.jpg",
     "board_id": "1110207814332820701",
@@ -941,12 +1003,13 @@
     "subline": "Wide leg · zip pockets · easy to style",
     "title": "Grey Sweatpants Outfit Men | Wide Leg Sweatpants with Zip Pockets",
     "description": "Grey wide leg sweatpants for men – a relaxed fit with drawstring and zip pockets for the gym, travel or a cozy streetwear look. Style them with a plain white tee and chunky white sneakers.\n\nWerbung | Affiliate-Link\n\n#GreySweatpants #SweatpantsOutfit #MensStreetwear #GymOutfitMen #Athleisure",
-    "posted_at": "2026-11-26",
-    "pin_id": "1110207745681291941"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745681291941",
+    "first_posted_at": "2026-11-26"
   },
   {
     "slug": "157-portable-digital-cable-machine",
-    "status": "posted",
+    "status": "deleted",
     "product_url": "https://www.amazon.de/dp/B0HBPGRX4G?tag=lilmedia-21",
     "source_image": "file:///home/user/fit-pins/src/157-portable-digital-cable-machine.jpg",
     "board_id": "1110207814332816389",
@@ -956,8 +1019,9 @@
     "subline": "Digital resistance · handles & straps included",
     "title": "Portable Cable Machine | Digital Home Gym for Small Spaces",
     "description": "Portable digital cable machine for your home gym – set the resistance on the display and train with handles and an ankle strap. A compact gift idea for anyone who trains at home or travels.\n\nWerbung | Affiliate-Link\n\n#HomeGym #HomeWorkout #GymEquipment #FitnessGifts #GymEssentials",
-    "posted_at": "2026-11-26",
-    "pin_id": "1110207745681291945"
+    "deleted_at": "2026-11-26",
+    "deleted_pin_id": "1110207745681291945",
+    "first_posted_at": "2026-11-26"
   },
   {
     "slug": "163-gym-gift-ideas-for-him",
@@ -1156,6 +1220,20 @@
     "style": "cream"
   },
   {
+    "slug": "063-blenderbottle-classic-v2",
+    "status": "queued",
+    "product_url": "https://www.amazon.de/dp/B084PVQGH1?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/e0/2c/9b/e02c9b3e9d2d89cbe995596dbd021996.jpg",
+    "board_id": "1110207814332816389",
+    "tag": "GYM ESSENTIALS",
+    "headline": "CLASSIC V2",
+    "subline": "Gym bag essential",
+    "title": "BlenderBottle Classic V2 | Gym Bag Essentials",
+    "description": "BlenderBottle Classic V2 – a practical gym bag essential for everyday training.\n\nWerbung | Affiliate-Link\n\n#GymEssentials #GymBag #FitnessGear #WhatsInMyGymBag #GymAccessories",
+    "layout": "product",
+    "style": "minimal"
+  },
+  {
     "slug": "055-blush-pink-wide-leg-yoga-pants",
     "status": "queued",
     "product_url": "https://www.amazon.de/dp/B0H49T8FQ2?tag=lilmedia-21",
@@ -1167,7 +1245,21 @@
     "title": "Blush Pink Wide-Leg Yoga Pants | Women's Workout Leggings",
     "description": "Blush Pink Wide-Leg Yoga Pants – easy to style with a sports bra, crop top or oversized tee for the gym, yoga and everyday athleisure.\n\nWerbung | Affiliate-Link\n\n#LeggingsOutfit #GymLeggings #WorkoutOutfit #Athleisure #GymOutfitWomen",
     "layout": "product",
-    "style": "minimal"
+    "style": "cream"
+  },
+  {
+    "slug": "01-grey-sweatpants-outfit-v2",
+    "product_url": "https://www.amazon.de/dp/B0HB8Y3GLY?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/ea/ba/a4/eabaa44e4a74804c009b51f7df3df698.jpg",
+    "board_id": "1110207814332820701",
+    "tag": "OUTFIT IDEA",
+    "headline": "GREY<br>SWEATPANTS<br>OUTFIT",
+    "subline": "Baggy streetwear look for men",
+    "position": "center 30%",
+    "title": "Grey Sweatpants Outfit Men | Baggy Streetwear Look",
+    "description": "Grey baggy sweatpants outfit idea for men. Wide leg joggers with drawstring waist – style them with a white tee, hoodie and clean sneakers for an easy streetwear and athleisure look.\n\nWerbung | Affiliate-Link\n\n#GreySweatpants #MensOutfit #Streetwear #Athleisure #MensFashion",
+    "status": "queued",
+    "style": "darkphoto"
   },
   {
     "slug": "056-men-s-grey-oversized-gym-tee",
@@ -1181,6 +1273,20 @@
     "title": "Men's Grey Oversized Gym Tee | Gym Outfit",
     "description": "Men's Grey Oversized Gym Tee – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
     "layout": "product",
+    "style": "dark"
+  },
+  {
+    "slug": "02-black-leggings-gym-outfit-v2",
+    "product_url": "https://www.amazon.de/dp/B0D9WJTBHR?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/ad/6f/ac/ad6faccf3bff33605ccf8b16cf3314b8.jpg",
+    "board_id": "1110207814332818580",
+    "tag": "OUTFIT IDEA",
+    "headline": "BLACK<br>LEGGINGS<br>GYM OUTFIT",
+    "subline": "High waist · seamless · easy to style",
+    "position": "center 40%",
+    "title": "Black Leggings Gym Outfit | High Waist Seamless Leggings",
+    "description": "Black high waist leggings gym outfit idea. Seamless workout leggings that you can style with a sports bra, crop top or oversized tee and white socks – for the gym and everyday athleisure.\n\nWerbung | Affiliate-Link\n\n#BlackLeggings #GymOutfit #LeggingsOutfit #WorkoutOutfit #Activewear",
+    "status": "queued",
     "style": "cream"
   },
   {
@@ -1195,7 +1301,21 @@
     "title": "BLACKROLL Foam Roller | Recovery Tools",
     "description": "BLACKROLL Foam Roller – a simple tool for your rest day and post-workout routine.\n\nWerbung | Affiliate-Link\n\n#RestDay #Recovery #SelfCare #GymEssentials #MobilityWork",
     "layout": "product",
-    "style": "dark"
+    "style": "color"
+  },
+  {
+    "slug": "03-ribbed-long-sleeve-men-v2",
+    "product_url": "https://www.amazon.de/dp/B0B2DC5Y2Y?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/24/6d/f0/246df066239587b9598797006c5a5470.jpg",
+    "board_id": "1110207814332820701",
+    "tag": "OUTFIT IDEA",
+    "headline": "RIBBED<br>LONG SLEEVE<br>OUTFIT",
+    "subline": "Clean casual style for men",
+    "position": "center 30%",
+    "title": "Men's Ribbed Long Sleeve Shirt Outfit | Clean Casual Style",
+    "description": "Grey ribbed long sleeve henley for men – slim fit, clean and timeless. Wear it with black pants and a watch for an elevated casual outfit, date night or everyday look.\n\nWerbung | Affiliate-Link\n\n#MensStyle #RibbedShirt #HenleyShirt #CasualOutfit #MensFashion",
+    "status": "queued",
+    "style": "card"
   },
   {
     "slug": "058-black-wide-leg-sweatpants",
@@ -1209,7 +1329,21 @@
     "title": "Black Wide-Leg Sweatpants | Women's Athleisure Outfit",
     "description": "Black Wide-Leg Sweatpants for women – comfortable for workouts, errands and lazy days. Combine with a fitted top and sneakers.\n\nWerbung | Affiliate-Link\n\n#AthleisureOutfit #WorkoutOutfit #ComfyOutfit #GymOutfitWomen #Activewear",
     "layout": "product",
-    "style": "color"
+    "style": "minimal"
+  },
+  {
+    "slug": "04-all-black-gym-outfit-men-v2",
+    "product_url": "https://www.amazon.de/dp/B0BCGR2CP1?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/54/2e/89/542e8939b0eb172586d35d567915b3ea.jpg",
+    "board_id": "1110207814332820701",
+    "tag": "OUTFIT IDEA",
+    "headline": "ALL BLACK<br>GYM OUTFIT",
+    "subline": "5-piece workout set for men",
+    "position": "left center",
+    "title": "All Black Gym Outfit Men | 5 Piece Workout Set",
+    "description": "All black gym outfit for men: 5 piece workout set with zip hoodie, compression t-shirt, long sleeve top, shorts and compression leggings. One set for lifting, running and training.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #AllBlackOutfit #GymWear #WorkoutClothes #MensActivewear",
+    "status": "queued",
+    "style": "darkphoto"
   },
   {
     "slug": "059-men-s-sporty-polo-shirt",
@@ -1223,7 +1357,21 @@
     "title": "Men's Sporty Polo Shirt | Gym Outfit",
     "description": "Men's Sporty Polo Shirt – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
     "layout": "product",
-    "style": "minimal"
+    "style": "cream"
+  },
+  {
+    "slug": "05-high-waist-gym-shorts-v2",
+    "product_url": "https://www.amazon.de/dp/B0GKNDGC6G?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/e7/2b/89/e72b89875be4ad161d1b0ea95c36a52d.jpg",
+    "board_id": "1110207814332820674",
+    "tag": "OUTFIT IDEA",
+    "headline": "HIGH WAIST<br>GYM SHORTS",
+    "subline": "Women's workout outfit idea",
+    "position": "center 40%",
+    "title": "High Waist Gym Shorts | Black Workout Shorts Outfit",
+    "description": "Black high waist gym shorts for women – biker shorts style that is easy to combine with a sports bra or crop top. Workout outfit idea for the gym, running and summer training.\n\nWerbung | Affiliate-Link\n\n#GymShorts #WorkoutOutfit #BikerShorts #GymOutfitWomen #Activewear",
+    "status": "queued",
+    "style": "color"
   },
   {
     "slug": "060-harbinger-pro-workout-gloves",
@@ -1237,7 +1385,21 @@
     "title": "Harbinger Pro Workout Gloves | Home Gym Equipment",
     "description": "Harbinger Pro Workout Gloves – useful equipment for home workouts and the gym.\n\nWerbung | Affiliate-Link\n\n#HomeGym #HomeWorkout #FitnessEquipment #WorkoutAtHome #GymEssentials",
     "layout": "product",
-    "style": "cream"
+    "style": "dark"
+  },
+  {
+    "slug": "06-grey-3-piece-gym-set-women-v2",
+    "product_url": "https://www.amazon.de/dp/B0FJ4NKKYM?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/e8/19/1c/e8191c8d3fcafd9cebc521597f304e6b.jpg",
+    "board_id": "1110207814332818565",
+    "tag": "OUTFIT IDEA",
+    "headline": "MATCHING<br>GYM SET<br>WOMEN",
+    "subline": "Dark grey 3-piece workout set",
+    "position": "center 30%",
+    "title": "Women's Matching Gym Set | Dark Grey 3 Piece Workout Outfit",
+    "description": "Dark grey 3 piece gym set for women with cropped zip jacket, sports bra and high waist leggings. A matching workout outfit that looks clean in the gym and on the way there.\n\nWerbung | Affiliate-Link\n\n#MatchingSet #GymOutfit #WorkoutSet #Activewear #GymOutfitWomen",
+    "status": "queued",
+    "style": "card"
   },
   {
     "slug": "061-charcoal-grey-gym-outfit",
@@ -1254,6 +1416,20 @@
     "style": "darkphoto"
   },
   {
+    "slug": "07-black-baggy-sweatpants-men-v2",
+    "product_url": "https://www.amazon.de/dp/B0H3KL31X9?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/d3/d1/0e/d3d10e557a9f981a1bdf7c1c4906f6c4.jpg",
+    "board_id": "1110207814332820701",
+    "tag": "OUTFIT IDEA",
+    "headline": "BLACK<br>SWEATPANTS<br>OUTFIT",
+    "subline": "Baggy fit · white tee · clean sneakers",
+    "position": "center 40%",
+    "title": "Black Sweatpants Outfit Men | Baggy Joggers Streetwear",
+    "description": "Black baggy sweatpants outfit for men. Pair the wide leg joggers with a plain white tee and white sneakers for an easy everyday streetwear and gym look.\n\nWerbung | Affiliate-Link\n\n#BlackSweatpants #MensOutfit #Streetwear #Athleisure #BaggyPants",
+    "status": "queued",
+    "style": "cream"
+  },
+  {
     "slug": "062-men-s-half-zip-long-sleeve-training-shir",
     "status": "queued",
     "product_url": "https://www.amazon.de/dp/B0CJCCLQW5?tag=lilmedia-21",
@@ -1265,21 +1441,21 @@
     "title": "Men's Half-Zip Long Sleeve Training Shirt | Training Layer",
     "description": "Men's Half-Zip Long Sleeve Training Shirt – a sporty layer for cold gym days, running or a clean casual outfit with joggers and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensStyle #Athleisure #MensActivewear #TrainingWear",
     "layout": "product",
-    "style": "dark"
+    "style": "color"
   },
   {
-    "slug": "063-blenderbottle-classic-v2",
+    "slug": "08-black-workout-set-women-v2",
+    "product_url": "https://www.amazon.de/dp/B0FJRKHXQP?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/c3/cf/76/c3cf7638b70c906cb77120d091f46c04.jpg",
+    "board_id": "1110207814332818565",
+    "tag": "OUTFIT IDEA",
+    "headline": "ALL BLACK<br>WORKOUT<br>SET",
+    "subline": "Gym to street outfit for women",
+    "position": "center 30%",
+    "title": "All Black Workout Set Women | Sleek Gym to Street Outfit",
+    "description": "Sleek all black workout set for women with racerback top and high waist leggings. Add white socks, sneakers and a tote bag for an easy gym to street outfit.\n\nWerbung | Affiliate-Link\n\n#WorkoutSet #AllBlackOutfit #GymOutfitWomen #Athleisure #Activewear",
     "status": "queued",
-    "product_url": "https://www.amazon.de/dp/B084PVQGH1?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/e0/2c/9b/e02c9b3e9d2d89cbe995596dbd021996.jpg",
-    "board_id": "1110207814332816389",
-    "tag": "GYM ESSENTIALS",
-    "headline": "CLASSIC V2",
-    "subline": "Gym bag essential",
-    "title": "BlenderBottle Classic V2 | Gym Bag Essentials",
-    "description": "BlenderBottle Classic V2 – a practical gym bag essential for everyday training.\n\nWerbung | Affiliate-Link\n\n#GymEssentials #GymBag #FitnessGear #WhatsInMyGymBag #GymAccessories",
-    "layout": "product",
-    "style": "color"
+    "style": "card"
   },
   {
     "slug": "064-black-high-waisted-yoga-leggings",
@@ -1296,6 +1472,20 @@
     "style": "minimal"
   },
   {
+    "slug": "09-compression-shirts-men-v2",
+    "product_url": "https://www.amazon.de/dp/B0GHZ3CXNB?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/b7/88/98/b78898df0efd656c8b92823f6556059f.jpg",
+    "board_id": "1110207814332820701",
+    "tag": "OUTFIT IDEA",
+    "headline": "COMPRESSION<br>SHIRTS<br>3-PACK",
+    "subline": "Gym basics in black, white & grey",
+    "position": "center 25%",
+    "title": "Men's Compression Shirts 3 Pack | Gym T-Shirts Black White Grey",
+    "description": "Men's compression gym shirts in black, white and grey. Fitted short sleeve training tops for lifting, running and everyday gym outfits.\n\nWerbung | Affiliate-Link\n\n#CompressionShirt #GymOutfitMen #GymWear #MensActivewear #WorkoutClothes",
+    "status": "queued",
+    "style": "darkphoto"
+  },
+  {
     "slug": "065-under-armour-grey-long-sleeve-shirt",
     "status": "queued",
     "product_url": "https://www.amazon.de/dp/B00KHTNOGQ?tag=lilmedia-21",
@@ -1308,6 +1498,20 @@
     "description": "Under Armour Grey Long Sleeve Shirt for men – a sporty layer for cold gym days, running or a clean casual outfit with joggers and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensStyle #Athleisure #MensActivewear #TrainingWear",
     "layout": "product",
     "style": "cream"
+  },
+  {
+    "slug": "10-grey-running-shorts-women-v2",
+    "product_url": "https://www.amazon.de/dp/B0FFS826J6?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/d7/95/aa/d795aa03f957c91a08522d4f38b70e89.jpg",
+    "board_id": "1110207814332820674",
+    "tag": "OUTFIT IDEA",
+    "headline": "GREY<br>RUNNING<br>SHORTS",
+    "subline": "Comfy summer workout outfit",
+    "position": "center 45%",
+    "title": "Grey Running Shorts Women | Comfy Sport & Summer Outfit",
+    "description": "Soft grey running shorts for women with drawstring waist and white trim. Style them with a white crop top for a comfy workout, running or summer outfit.\n\nWerbung | Affiliate-Link\n\n#RunningShorts #WorkoutOutfit #GymShorts #SummerOutfit #Activewear",
+    "status": "queued",
+    "style": "color"
   },
   {
     "slug": "066-gym-duffel-bag-with-shoe-compartment",
@@ -1324,6 +1528,20 @@
     "style": "dark"
   },
   {
+    "slug": "11-black-training-tshirt-men-v2",
+    "product_url": "https://www.amazon.de/dp/B0785VXRX2?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/55/a5/eb/55a5ebdfd18a0f48dad757ca3fa795f7.jpg",
+    "board_id": "1110207814332820701",
+    "tag": "OUTFIT IDEA",
+    "headline": "BLACK<br>TRAINING<br>T-SHIRT",
+    "subline": "The gym basic every man needs",
+    "position": "center 25%",
+    "title": "Black Training T-Shirt Men | Gym Outfit Essential",
+    "description": "Lightweight black training t-shirt for men – the simple gym basic that goes with every pair of shorts or joggers. Clean, sporty and easy to style.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #BlackTshirt #TrainingShirt #MensActivewear #GymEssentials",
+    "status": "queued",
+    "style": "card"
+  },
+  {
     "slug": "067-burgundy-gym-outfit",
     "status": "queued",
     "product_url": "https://www.amazon.de/dp/B0G5QQHHJ4?tag=lilmedia-21",
@@ -1335,6 +1553,20 @@
     "title": "Burgundy Gym Outfit | Women's Matching Gym Set",
     "description": "Burgundy Gym Outfit for women – a matching workout set that looks put together in the gym and on the way there. Style it with white sneakers and a zip jacket.\n\nWerbung | Affiliate-Link\n\n#MatchingSet #GymOutfitWomen #WorkoutSet #Activewear #GymOutfit",
     "position": "center 30%",
+    "style": "darkphoto"
+  },
+  {
+    "slug": "12-black-leggings-with-pockets-v2",
+    "product_url": "https://www.amazon.de/dp/B07T66CJ6Z?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/25/a1/43/25a143cb8c32f0cd7018e8b0342e27da.jpg",
+    "board_id": "1110207814332818580",
+    "tag": "OUTFIT IDEA",
+    "headline": "HIGH WAIST<br>BLACK<br>LEGGINGS",
+    "subline": "With side pocket for your phone",
+    "position": "center 30%",
+    "title": "Black Leggings with Pockets | High Waist Workout Leggings",
+    "description": "High waist black leggings with side pockets for your phone. Perfect for gym, running, yoga and everyday athleisure outfits.\n\nWerbung | Affiliate-Link\n\n#LeggingsWithPockets #BlackLeggings #WorkoutLeggings #GymOutfit #Activewear",
+    "status": "queued",
     "style": "cream"
   },
   {
@@ -1352,6 +1584,20 @@
     "style": "color"
   },
   {
+    "slug": "13-black-gym-tshirt-men-v2",
+    "product_url": "https://www.amazon.de/dp/B00YMG2ZNI?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/db/0e/37/db0e372056ddd4b1d9211fea86d933ab.jpg",
+    "board_id": "1110207814332820701",
+    "tag": "OUTFIT IDEA",
+    "headline": "ALL BLACK<br>GYM FIT",
+    "subline": "Fitted training tee for men",
+    "position": "center 25%",
+    "title": "All Black Gym Fit Men | Fitted Training T-Shirt",
+    "description": "Fitted black training t-shirt for men – clean all black gym fit for lifting and everyday workouts. Combine with black shorts or joggers.\n\nWerbung | Affiliate-Link\n\n#GymFit #AllBlackOutfit #GymOutfitMen #TrainingShirt #MensFitness",
+    "status": "queued",
+    "style": "card"
+  },
+  {
     "slug": "069-sports-headbands-set",
     "status": "queued",
     "product_url": "https://www.amazon.de/dp/B0BWY43D8K?tag=lilmedia-21",
@@ -1364,6 +1610,20 @@
     "description": "Sports Headbands Set – a practical gym bag essential for everyday training.\n\nWerbung | Affiliate-Link\n\n#GymEssentials #GymBag #FitnessGear #WhatsInMyGymBag #GymAccessories",
     "layout": "product",
     "style": "minimal"
+  },
+  {
+    "slug": "14-quarter-zip-top-men-v2",
+    "product_url": "https://www.amazon.de/dp/B078141ML8?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/02/14/63/021463c995afdb2e9698cac6261e6195.jpg",
+    "board_id": "1110207814332820701",
+    "tag": "OUTFIT IDEA",
+    "headline": "QUARTER<br>ZIP<br>OUTFIT",
+    "subline": "Sporty layer for men",
+    "position": "center 30%",
+    "title": "Men's Quarter Zip Top Outfit | Sporty Layering Style",
+    "description": "Black quarter zip training top for men – a sporty layer for cold gym days, running or a clean casual outfit with joggers and sneakers.\n\nWerbung | Affiliate-Link\n\n#QuarterZip #MensOutfit #GymOutfitMen #Athleisure #MensStyle",
+    "status": "queued",
+    "style": "darkphoto"
   },
   {
     "slug": "070-brown-halter-workout-top",
@@ -1380,6 +1640,20 @@
     "style": "cream"
   },
   {
+    "slug": "15-black-leggings-autumn-outfit-v2",
+    "product_url": "https://www.amazon.de/dp/B0CBBL7R8D?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/d8/24/e9/d824e959d3c47437f7b6461c6b8c75e3.jpg",
+    "board_id": "1110207814332818580",
+    "tag": "OUTFIT IDEA",
+    "headline": "BLACK<br>LEGGINGS<br>FALL OUTFIT",
+    "subline": "Cozy autumn & winter look",
+    "position": "center 40%",
+    "title": "Black Leggings Outfit for Fall | Cozy Autumn Athleisure",
+    "description": "High waisted black leggings outfit idea for autumn and winter. Style them with an oversized sweater, sneakers or boots for a cozy everyday athleisure look.\n\nWerbung | Affiliate-Link\n\n#LeggingsOutfit #FallOutfit #BlackLeggings #Athleisure #CozyOutfit",
+    "status": "queued",
+    "style": "color"
+  },
+  {
     "slug": "071-men-s-white-tank-top",
     "status": "queued",
     "product_url": "https://www.amazon.de/dp/B0DZHV8698?tag=lilmedia-21",
@@ -1392,6 +1666,20 @@
     "description": "Men's White Tank Top – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
     "layout": "product",
     "style": "dark"
+  },
+  {
+    "slug": "016-front-zip-high-support-sports-bra-v2",
+    "product_url": "https://www.amazon.de/dp/B0BRSW9SG9?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/04/0f/9f/040f9f04599d542583e2a349ee50ba42.jpg",
+    "board_id": "1110207814332850044",
+    "tag": "OUTFIT IDEA",
+    "headline": "FRONT-ZIP<br>HIGH SUPPORT<br>SPORTS BRA",
+    "subline": "Gym top for women",
+    "title": "Front-Zip High Support Sports Bra | Women's Gym Top Outfit",
+    "description": "Front-Zip High Support Sports Bra for women – pair it with high waisted leggings or shorts for a clean workout outfit that also works outside the gym.\n\nWerbung | Affiliate-Link\n\n#GymTop #SportsBra #WorkoutOutfit #GymOutfitWomen #Activewear",
+    "position": "center 30%",
+    "status": "queued",
+    "style": "card"
   },
   {
     "slug": "072-running-belt",
@@ -1408,6 +1696,20 @@
     "style": "color"
   },
   {
+    "slug": "017-men-s-running-jacket-v2",
+    "product_url": "https://www.amazon.de/dp/B0BGPNQ842?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/c1/af/97/c1af9743657663d88c6132844dac1613.jpg",
+    "board_id": "1110207814332820701",
+    "tag": "OUTFIT IDEA",
+    "headline": "RUNNING<br>JACKET",
+    "subline": "Layer up for training",
+    "title": "Men's Running Jacket | Training Layer",
+    "description": "Men's Running Jacket – a sporty layer for cold gym days, running or a clean casual outfit with joggers and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensStyle #Athleisure #MensActivewear #TrainingWear",
+    "layout": "product",
+    "status": "queued",
+    "style": "minimal"
+  },
+  {
     "slug": "073-leopard-print-workout-set",
     "status": "queued",
     "product_url": "https://www.amazon.de/dp/B0H5W6HCFY?tag=lilmedia-21",
@@ -1419,7 +1721,21 @@
     "title": "Leopard Print Workout Set | Women's Matching Gym Set",
     "description": "Leopard Print Workout Set for women – a matching workout set that looks put together in the gym and on the way there. Style it with white sneakers and a zip jacket.\n\nWerbung | Affiliate-Link\n\n#MatchingSet #GymOutfitWomen #WorkoutSet #Activewear #GymOutfit",
     "layout": "product",
-    "style": "minimal"
+    "style": "cream"
+  },
+  {
+    "slug": "018-epsom-salt-magnesium-sulfate-v2",
+    "product_url": "https://www.amazon.de/dp/B0065T41T6?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/c8/fe/3c/c8fe3ccf85c6a7afdd5fab208b3822bd.jpg",
+    "board_id": "1110207814332816389",
+    "tag": "GYM ESSENTIALS",
+    "headline": "EPSOM SALT<br>(MAGNESIUM<br>SULFATE)",
+    "subline": "Rest day essential",
+    "title": "Epsom Salt (Magnesium Sulfate) | Recovery Tools",
+    "description": "Epsom Salt (Magnesium Sulfate) – a simple tool for your rest day and post-workout routine.\n\nWerbung | Affiliate-Link\n\n#RestDay #Recovery #SelfCare #GymEssentials #MobilityWork",
+    "layout": "product",
+    "status": "queued",
+    "style": "dark"
   },
   {
     "slug": "074-men-s-lightweight-hoodies",
@@ -1433,7 +1749,21 @@
     "title": "Men's Lightweight Hoodies | Training Layer",
     "description": "Men's Lightweight Hoodies – a sporty layer for cold gym days, running or a clean casual outfit with joggers and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensStyle #Athleisure #MensActivewear #TrainingWear",
     "layout": "product",
-    "style": "cream"
+    "style": "color"
+  },
+  {
+    "slug": "019-black-seamless-squat-proof-leggings-v2",
+    "product_url": "https://www.amazon.de/dp/B0BRMYP238?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/2a/93/0e/2a930e83b37e7285f2fa7afd0bc1b82d.jpg",
+    "board_id": "1110207814332818580",
+    "tag": "OUTFIT IDEA",
+    "headline": "LEGGINGS<br>OUTFIT IDEA",
+    "subline": "Leggings outfit idea",
+    "title": "Black Seamless Squat-Proof Leggings | Women's Workout Leggings",
+    "description": "Black Seamless Squat-Proof Leggings – easy to style with a sports bra, crop top or oversized tee for the gym, yoga and everyday athleisure.\n\nWerbung | Affiliate-Link\n\n#LeggingsOutfit #GymLeggings #WorkoutOutfit #Athleisure #GymOutfitWomen",
+    "layout": "product",
+    "status": "queued",
+    "style": "minimal"
   },
   {
     "slug": "075-lifting-gloves-with-wrist-support",
@@ -1447,6 +1777,20 @@
     "title": "Lifting Gloves with Wrist Support | Home Gym Equipment",
     "description": "Lifting Gloves with Wrist Support – useful equipment for home workouts and the gym.\n\nWerbung | Affiliate-Link\n\n#HomeGym #HomeWorkout #FitnessEquipment #WorkoutAtHome #GymEssentials",
     "layout": "product",
+    "style": "cream"
+  },
+  {
+    "slug": "020-men-s-compression-shorts-3-pack-v2",
+    "product_url": "https://www.amazon.de/dp/B07RGP48Q3?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/07/d0/87/07d087691091c4dc407b4f3ba4759fff.jpg",
+    "board_id": "1110207814332820701",
+    "tag": "OUTFIT IDEA",
+    "headline": "COMPRESSION<br>SHORTS",
+    "subline": "Gym & streetwear for men",
+    "title": "Men's Compression Shorts 3-Pack | Gym Outfit",
+    "description": "Men's Compression Shorts 3-Pack – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #GymShorts #MensFashion",
+    "layout": "product",
+    "status": "queued",
     "style": "dark"
   },
   {
@@ -1464,6 +1808,20 @@
     "style": "color"
   },
   {
+    "slug": "021-running-phone-armband-v2",
+    "product_url": "https://www.amazon.de/dp/B09QM1L2N3?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/0f/a1/79/0fa179269f5a8abb1b99253f879a0e3f.jpg",
+    "board_id": "1110207814332816389",
+    "tag": "GYM ESSENTIALS",
+    "headline": "RUNNING<br>PHONE<br>ARMBAND",
+    "subline": "Gym bag essential",
+    "title": "Running Phone Armband | Gym Bag Essentials",
+    "description": "Running Phone Armband – a practical gym bag essential for everyday training.\n\nWerbung | Affiliate-Link\n\n#GymEssentials #GymBag #FitnessGear #WhatsInMyGymBag #GymAccessories",
+    "layout": "product",
+    "status": "queued",
+    "style": "minimal"
+  },
+  {
     "slug": "077-men-s-white-tee-shorts-set",
     "status": "queued",
     "product_url": "https://www.amazon.de/dp/B0H75S7ZM9?tag=lilmedia-21",
@@ -1475,7 +1833,21 @@
     "title": "Men's White Tee & Shorts Set | Matching Set",
     "description": "Men's White Tee & Shorts Set – a complete matching outfit for men. No styling needed: put it on and go.\n\nWerbung | Affiliate-Link\n\n#MensOutfit #MatchingSet #GymOutfitMen #Athleisure #MensFashion",
     "layout": "product",
-    "style": "minimal"
+    "style": "cream"
+  },
+  {
+    "slug": "022-women-s-thermal-long-sleeve-tops-v2",
+    "product_url": "https://www.amazon.de/dp/B0H6VZZZV2?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/d8/64/1c/d8641c19e821691061201be30d4711c1.jpg",
+    "board_id": "1110207814332850044",
+    "tag": "OUTFIT IDEA",
+    "headline": "THERMAL LONG<br>SLEEVE TOPS",
+    "subline": "Gym top for women",
+    "title": "Women's Thermal Long Sleeve Tops | Gym Top Outfit",
+    "description": "Women's Thermal Long Sleeve Tops – pair it with high waisted leggings or shorts for a clean workout outfit that also works outside the gym.\n\nWerbung | Affiliate-Link\n\n#GymTop #SportsBra #WorkoutOutfit #GymOutfitWomen #Activewear",
+    "layout": "product",
+    "status": "queued",
+    "style": "dark"
   },
   {
     "slug": "078-compression-socks",
@@ -1489,7 +1861,21 @@
     "title": "Compression Socks | Gym Bag Essentials",
     "description": "Compression Socks – a practical gym bag essential for everyday training.\n\nWerbung | Affiliate-Link\n\n#GymEssentials #GymBag #FitnessGear #WhatsInMyGymBag #GymAccessories",
     "layout": "product",
-    "style": "cream"
+    "style": "color"
+  },
+  {
+    "slug": "023-men-s-swim-gym-shorts-v2",
+    "product_url": "https://www.amazon.de/dp/B0GJZJ8KD6?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/f6/12/a5/f612a5f2f8ae7bcb4cc5917859feea95.jpg",
+    "board_id": "1110207814332820701",
+    "tag": "OUTFIT IDEA",
+    "headline": "SWIM & GYM<br>SHORTS",
+    "subline": "Gym & streetwear for men",
+    "title": "Men's Swim & Gym Shorts | Gym Outfit",
+    "description": "Men's Swim & Gym Shorts – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #GymShorts #MensFashion",
+    "layout": "product",
+    "status": "queued",
+    "style": "minimal"
   },
   {
     "slug": "079-brown-wide-leg-pants",
@@ -1503,6 +1889,20 @@
     "title": "Brown Wide-Leg Pants | Women's Athleisure Outfit",
     "description": "Brown Wide-Leg Pants for women – comfortable for workouts, errands and lazy days. Combine with a fitted top and sneakers.\n\nWerbung | Affiliate-Link\n\n#AthleisureOutfit #WorkoutOutfit #ComfyOutfit #GymOutfitWomen #Activewear",
     "layout": "product",
+    "style": "cream"
+  },
+  {
+    "slug": "024-lacrosse-massage-ball-v2",
+    "product_url": "https://www.amazon.de/dp/B0127BIK1U?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/4c/8e/26/4c8e26df8fc0341ac913204a6c8a314e.jpg",
+    "board_id": "1110207814332816389",
+    "tag": "GYM ESSENTIALS",
+    "headline": "LACROSSE<br>MASSAGE BALL",
+    "subline": "Rest day essential",
+    "title": "Lacrosse Massage Ball | Recovery Tools",
+    "description": "Lacrosse Massage Ball – a simple tool for your rest day and post-workout routine.\n\nWerbung | Affiliate-Link\n\n#RestDay #Recovery #SelfCare #GymEssentials #MobilityWork",
+    "layout": "product",
+    "status": "queued",
     "style": "dark"
   },
   {
@@ -1520,6 +1920,20 @@
     "style": "color"
   },
   {
+    "slug": "025-black-wide-leg-yoga-pants-v2",
+    "product_url": "https://www.amazon.de/dp/B0G1Y9PVP9?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/1f/c8/ed/1fc8ed352ad7d341856eeeef6cc53e38.jpg",
+    "board_id": "1110207814332818580",
+    "tag": "OUTFIT IDEA",
+    "headline": "BLACK<br>WIDE-LEG<br>YOGA PANTS",
+    "subline": "Leggings outfit idea",
+    "title": "Black Wide-Leg Yoga Pants | Women's Workout Leggings",
+    "description": "Black Wide-Leg Yoga Pants – easy to style with a sports bra, crop top or oversized tee for the gym, yoga and everyday athleisure.\n\nWerbung | Affiliate-Link\n\n#LeggingsOutfit #GymLeggings #WorkoutOutfit #Athleisure #GymOutfitWomen",
+    "layout": "product",
+    "status": "queued",
+    "style": "minimal"
+  },
+  {
     "slug": "081-gym-duffel-bag-with-wet-pocket",
     "status": "queued",
     "product_url": "https://www.amazon.de/dp/B07P8R34H7?tag=lilmedia-21",
@@ -1531,7 +1945,21 @@
     "title": "Gym Duffel Bag with Wet Pocket | Gym Bag Essentials",
     "description": "Gym Duffel Bag with Wet Pocket – a practical gym bag essential for everyday training.\n\nWerbung | Affiliate-Link\n\n#GymEssentials #GymBag #FitnessGear #WhatsInMyGymBag #GymAccessories",
     "layout": "product",
-    "style": "minimal"
+    "style": "cream"
+  },
+  {
+    "slug": "026-under-armour-white-compression-shorts-v2",
+    "product_url": "https://www.amazon.de/dp/B0872LXK5L?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/b5/60/39/b5603986aa4b31d2c6d7520089535c5c.jpg",
+    "board_id": "1110207814332820701",
+    "tag": "OUTFIT IDEA",
+    "headline": "WHITE<br>COMPRESSION<br>SHORTS",
+    "subline": "Gym & streetwear for men",
+    "title": "Under Armour White Compression Shorts | Men's Gym Outfit",
+    "description": "Under Armour White Compression Shorts for men – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #GymShorts #MensFashion",
+    "layout": "product",
+    "status": "queued",
+    "style": "dark"
   },
   {
     "slug": "082-black-wide-leg-joggers",
@@ -1545,7 +1973,21 @@
     "title": "Black Wide-Leg Joggers | Women's Athleisure Outfit",
     "description": "Black Wide-Leg Joggers for women – comfortable for workouts, errands and lazy days. Combine with a fitted top and sneakers.\n\nWerbung | Affiliate-Link\n\n#AthleisureOutfit #WorkoutOutfit #ComfyOutfit #GymOutfitWomen #Activewear",
     "layout": "product",
-    "style": "cream"
+    "style": "color"
+  },
+  {
+    "slug": "027-weightlifting-shoes-v2",
+    "product_url": "https://www.amazon.de/dp/B08HVP9H1Y?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/f0/f1/1b/f0f11bf79914c264dcae6bf1bed5b9d3.jpg",
+    "board_id": "1110207814332971379",
+    "tag": "GYM ESSENTIALS",
+    "headline": "WEIGHTLIFTING<br>SHOES",
+    "subline": "Train · run · lift",
+    "title": "Weightlifting Shoes | Gym & Running Shoes",
+    "description": "Weightlifting Shoes – a solid pick for training and running. Check the size chart before ordering.\n\nWerbung | Affiliate-Link\n\n#GymShoes #RunningShoes #TrainingShoes #FitnessGear #GymEssentials",
+    "layout": "product",
+    "status": "queued",
+    "style": "minimal"
   },
   {
     "slug": "083-white-oversized-t-shirts-3-pack",
@@ -1559,6 +2001,20 @@
     "title": "White Oversized T-Shirts 3-Pack | Men's Gym Outfit",
     "description": "White Oversized T-Shirts 3-Pack for men – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
     "layout": "product",
+    "style": "cream"
+  },
+  {
+    "slug": "028-women-s-fitted-zip-up-gym-jacket-v2",
+    "product_url": "https://www.amazon.de/dp/B0CL1YFTZB?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/5b/dc/36/5bdc366b65b9a73dd730067eaaf489f0.jpg",
+    "board_id": "1110207814332850044",
+    "tag": "OUTFIT IDEA",
+    "headline": "FITTED<br>ZIP-UP GYM<br>JACKET",
+    "subline": "Gym top for women",
+    "title": "Women's Fitted Zip-Up Gym Jacket | Gym Top Outfit",
+    "description": "Women's Fitted Zip-Up Gym Jacket – pair it with high waisted leggings or shorts for a clean workout outfit that also works outside the gym.\n\nWerbung | Affiliate-Link\n\n#GymTop #SportsBra #WorkoutOutfit #GymOutfitWomen #Activewear",
+    "layout": "product",
+    "status": "queued",
     "style": "dark"
   },
   {
@@ -1576,6 +2032,20 @@
     "style": "color"
   },
   {
+    "slug": "029-men-s-gym-shorts-5-pack-v2",
+    "product_url": "https://www.amazon.de/dp/B0CTK4W6ZY?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/8a/02/2f/8a022fcb649b16b3fe9102f61e496842.jpg",
+    "board_id": "1110207814332820701",
+    "tag": "OUTFIT IDEA",
+    "headline": "GYM SHORTS",
+    "subline": "Gym & streetwear for men",
+    "title": "Men's Gym Shorts 5-Pack | Gym Outfit",
+    "description": "Men's Gym Shorts 5-Pack – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #GymShorts #MensFashion",
+    "layout": "product",
+    "status": "queued",
+    "style": "minimal"
+  },
+  {
     "slug": "085-black-high-waisted-scrunch-leggings",
     "status": "queued",
     "product_url": "https://www.amazon.de/dp/B0CDFP7M3T?tag=lilmedia-21",
@@ -1587,7 +2057,21 @@
     "title": "Black High-Waisted Scrunch Leggings | Women's Workout Leggings",
     "description": "Black High-Waisted Scrunch Leggings – easy to style with a sports bra, crop top or oversized tee for the gym, yoga and everyday athleisure.\n\nWerbung | Affiliate-Link\n\n#LeggingsOutfit #GymLeggings #WorkoutOutfit #Athleisure #GymOutfitWomen",
     "position": "center 30%",
-    "style": "card"
+    "style": "darkphoto"
+  },
+  {
+    "slug": "030-black-nike-cap-v2",
+    "product_url": "https://www.amazon.de/dp/B0C4YT3QTC?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/57/b3/86/57b3863b85ced9a393c5c56c0675a544.jpg",
+    "board_id": "1110207814332816389",
+    "tag": "GYM ESSENTIALS",
+    "headline": "BLACK NIKE<br>CAP",
+    "subline": "Gym bag essential",
+    "title": "Black Nike Cap | Gym Bag Essentials",
+    "description": "Black Nike Cap – a practical gym bag essential for everyday training.\n\nWerbung | Affiliate-Link\n\n#GymEssentials #GymBag #FitnessGear #WhatsInMyGymBag #GymAccessories",
+    "layout": "product",
+    "status": "queued",
+    "style": "cream"
   },
   {
     "slug": "086-black-compression-shirt-for-men",
@@ -1601,7 +2085,21 @@
     "title": "Black Compression Shirt for Men | Gym Outfit",
     "description": "Black Compression Shirt for Men – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
     "layout": "product",
-    "style": "minimal"
+    "style": "dark"
+  },
+  {
+    "slug": "031-women-s-grey-lounge-set-v2",
+    "product_url": "https://www.amazon.de/dp/B0DDQ11QGJ?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/cb/4c/99/cb4c99d0764dc2cf40b0fd709271fefe.jpg",
+    "board_id": "1110207814332818565",
+    "tag": "OUTFIT IDEA",
+    "headline": "GREY LOUNGE<br>SET",
+    "subline": "Matching set · gym to street",
+    "title": "Women's Grey Lounge Set | Matching Gym Set",
+    "description": "Women's Grey Lounge Set – a matching workout set that looks put together in the gym and on the way there. Style it with white sneakers and a zip jacket.\n\nWerbung | Affiliate-Link\n\n#MatchingSet #GymOutfitWomen #WorkoutSet #Activewear #GymOutfit",
+    "layout": "product",
+    "status": "queued",
+    "style": "color"
   },
   {
     "slug": "087-booty-resistance-band",
@@ -1615,6 +2113,20 @@
     "title": "Booty Resistance Band | Home Gym Equipment",
     "description": "Booty Resistance Band – useful equipment for home workouts and the gym.\n\nWerbung | Affiliate-Link\n\n#HomeGym #HomeWorkout #FitnessEquipment #WorkoutAtHome #GymEssentials",
     "layout": "product",
+    "style": "minimal"
+  },
+  {
+    "slug": "032-balennz-5-men-s-gym-shorts-v2",
+    "product_url": "https://www.amazon.de/dp/B09R42MP54?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/2c/b8/d6/2cb8d6da3beb35219f61434bf634e22a.jpg",
+    "board_id": "1110207814332820701",
+    "tag": "OUTFIT IDEA",
+    "headline": "5\" GYM<br>SHORTS",
+    "subline": "Gym & streetwear for men",
+    "title": "BALENNZ 5\" Men's Gym Shorts | Gym Outfit",
+    "description": "BALENNZ 5\" Men's Gym Shorts – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #GymShorts #MensFashion",
+    "layout": "product",
+    "status": "queued",
     "style": "cream"
   },
   {
@@ -1632,6 +2144,20 @@
     "style": "dark"
   },
   {
+    "slug": "033-betteryou-magnesium-body-lotion-v2",
+    "product_url": "https://www.amazon.de/dp/B00U6CG5QU?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/78/30/e7/7830e76e1b1eb4a29514d75a1cb9bb4c.jpg",
+    "board_id": "1110207814332816389",
+    "tag": "GYM ESSENTIALS",
+    "headline": "MAGNESIUM<br>BODY LOTION",
+    "subline": "Rest day essential",
+    "title": "BetterYou Magnesium Body Lotion | Recovery Tools",
+    "description": "BetterYou Magnesium Body Lotion – a simple tool for your rest day and post-workout routine.\n\nWerbung | Affiliate-Link\n\n#RestDay #Recovery #SelfCare #GymEssentials #MobilityWork",
+    "layout": "product",
+    "status": "queued",
+    "style": "color"
+  },
+  {
     "slug": "089-black-slim-fit-t-shirt",
     "status": "queued",
     "product_url": "https://www.amazon.de/dp/B07QBCXC6B?tag=lilmedia-21",
@@ -1643,7 +2169,21 @@
     "title": "Black Slim Fit T-Shirt | Men's Gym Outfit",
     "description": "Black Slim Fit T-Shirt for men – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
     "layout": "product",
-    "style": "color"
+    "style": "minimal"
+  },
+  {
+    "slug": "034-sports-bra-3-pack-v2",
+    "product_url": "https://www.amazon.de/dp/B07TVWK57Y?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/58/02/b0/5802b0d0b675209a5344cd5d4d0b51ba.jpg",
+    "board_id": "1110207814332850044",
+    "tag": "OUTFIT IDEA",
+    "headline": "SPORTS BRA",
+    "subline": "Gym top for women",
+    "title": "Sports Bra 3-Pack | Women's Gym Top Outfit",
+    "description": "Sports Bra 3-Pack for women – pair it with high waisted leggings or shorts for a clean workout outfit that also works outside the gym.\n\nWerbung | Affiliate-Link\n\n#GymTop #SportsBra #WorkoutOutfit #GymOutfitWomen #Activewear",
+    "layout": "product",
+    "status": "queued",
+    "style": "cream"
   },
   {
     "slug": "090-vibrating-foam-roller",
@@ -1657,7 +2197,21 @@
     "title": "Vibrating Foam Roller | Recovery Tools",
     "description": "Vibrating Foam Roller – a simple tool for your rest day and post-workout routine.\n\nWerbung | Affiliate-Link\n\n#RestDay #Recovery #SelfCare #GymEssentials #MobilityWork",
     "layout": "product",
-    "style": "minimal"
+    "style": "dark"
+  },
+  {
+    "slug": "035-men-s-oversized-vintage-gym-tees-v2",
+    "product_url": "https://www.amazon.de/dp/B0F29KHMN8?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/71/f7/44/71f744e90439fc699f1d109bdc6e23aa.jpg",
+    "board_id": "1110207814332820701",
+    "tag": "OUTFIT IDEA",
+    "headline": "OVERSIZED<br>VINTAGE GYM<br>TEES",
+    "subline": "Clean gym basic for men",
+    "title": "Men's Oversized Vintage Gym Tees | Gym Outfit",
+    "description": "Men's Oversized Vintage Gym Tees – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
+    "layout": "product",
+    "status": "queued",
+    "style": "color"
   },
   {
     "slug": "091-black-cropped-hoodie-joggers-set",
@@ -1671,6 +2225,20 @@
     "title": "Black Cropped Hoodie & Joggers Set | Women's Matching Gym Set",
     "description": "Black Cropped Hoodie & Joggers Set for women – a matching workout set that looks put together in the gym and on the way there. Style it with white sneakers and a zip jacket.\n\nWerbung | Affiliate-Link\n\n#MatchingSet #GymOutfitWomen #WorkoutSet #Activewear #GymOutfit",
     "layout": "product",
+    "style": "minimal"
+  },
+  {
+    "slug": "036-salomon-men-s-trail-running-shoes-v2",
+    "product_url": "https://www.amazon.de/dp/B0C46MDL41?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/7b/fa/f6/7bfaf6a8375da659e76e7094ba15b7a0.jpg",
+    "board_id": "1110207814332971379",
+    "tag": "GYM ESSENTIALS",
+    "headline": "TRAIL<br>RUNNING<br>SHOES",
+    "subline": "Train · run · lift",
+    "title": "Salomon Men's Trail Running Shoes | Gym & Running Shoes",
+    "description": "Salomon Men's Trail Running Shoes – a solid pick for training and running. Check the size chart before ordering.\n\nWerbung | Affiliate-Link\n\n#GymShoes #RunningShoes #TrainingShoes #FitnessGear #GymEssentials",
+    "layout": "product",
+    "status": "queued",
     "style": "cream"
   },
   {
@@ -1685,7 +2253,21 @@
     "title": "Men's Grey Zip-Up Hoodie | Training Layer",
     "description": "Men's Grey Zip-Up Hoodie – a sporty layer for cold gym days, running or a clean casual outfit with joggers and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensStyle #Athleisure #MensActivewear #TrainingWear",
     "position": "center 30%",
-    "style": "darkphoto"
+    "style": "color"
+  },
+  {
+    "slug": "037-black-leggings-3-pack-v2",
+    "product_url": "https://www.amazon.de/dp/B08R665YMH?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/ed/40/99/ed409961391b046acfacedbd7ed818ba.jpg",
+    "board_id": "1110207814332818580",
+    "tag": "OUTFIT IDEA",
+    "headline": "BLACK<br>LEGGINGS",
+    "subline": "Leggings outfit idea",
+    "title": "Black Leggings 3-Pack | Women's Workout Leggings",
+    "description": "Black Leggings 3-Pack – easy to style with a sports bra, crop top or oversized tee for the gym, yoga and everyday athleisure.\n\nWerbung | Affiliate-Link\n\n#LeggingsOutfit #GymLeggings #WorkoutOutfit #Athleisure #GymOutfitWomen",
+    "layout": "product",
+    "status": "queued",
+    "style": "dark"
   },
   {
     "slug": "093-speed-jump-rope",
@@ -1699,7 +2281,21 @@
     "title": "Speed Jump Rope | Home Gym Equipment",
     "description": "Speed Jump Rope – useful equipment for home workouts and the gym.\n\nWerbung | Affiliate-Link\n\n#HomeGym #HomeWorkout #FitnessEquipment #WorkoutAtHome #GymEssentials",
     "layout": "product",
-    "style": "dark"
+    "style": "color"
+  },
+  {
+    "slug": "038-men-s-quick-dry-workout-shirt-v2",
+    "product_url": "https://www.amazon.de/dp/B0CWR4QMKJ?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/bf/4b/96/bf4b96bc9d406851bf7de2db3a3cc635.jpg",
+    "board_id": "1110207814332820701",
+    "tag": "OUTFIT IDEA",
+    "headline": "QUICK-DRY<br>WORKOUT<br>SHIRT",
+    "subline": "Clean gym basic for men",
+    "title": "Men's Quick-Dry Workout Shirt | Gym Outfit",
+    "description": "Men's Quick-Dry Workout Shirt – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
+    "layout": "product",
+    "status": "queued",
+    "style": "minimal"
   },
   {
     "slug": "094-mauve-flared-leggings-sports-bra-set",
@@ -1713,7 +2309,21 @@
     "title": "Mauve Flared Leggings & Sports Bra Set | Women's Matching Gym Set",
     "description": "Mauve Flared Leggings & Sports Bra Set for women – a matching workout set that looks put together in the gym and on the way there. Style it with white sneakers and a zip jacket.\n\nWerbung | Affiliate-Link\n\n#MatchingSet #GymOutfitWomen #WorkoutSet #Activewear #GymOutfit",
     "layout": "product",
-    "style": "color"
+    "style": "cream"
+  },
+  {
+    "slug": "039-white-gym-backpack-with-shoe-compartment-v2",
+    "product_url": "https://www.amazon.de/dp/B0FD2J6MF7?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/fe/e2/6c/fee26c45e3d5af7b4d213c7876b27c4b.jpg",
+    "board_id": "1110207814332816389",
+    "tag": "GYM ESSENTIALS",
+    "headline": "GYM BAG<br>ESSENTIAL",
+    "subline": "Gym bag essential",
+    "title": "White Gym Backpack with Shoe Compartment | Gym Bag Essentials",
+    "description": "White Gym Backpack with Shoe Compartment – a practical gym bag essential for everyday training.\n\nWerbung | Affiliate-Link\n\n#GymEssentials #GymBag #FitnessGear #WhatsInMyGymBag #GymAccessories",
+    "layout": "product",
+    "status": "queued",
+    "style": "dark"
   },
   {
     "slug": "095-men-s-charcoal-gym-tank-top",
@@ -1727,6 +2337,20 @@
     "title": "Men's Charcoal Gym Tank Top | Gym Outfit",
     "description": "Men's Charcoal Gym Tank Top – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
     "layout": "product",
+    "style": "color"
+  },
+  {
+    "slug": "040-black-high-waisted-leggings-with-pockets-v2",
+    "product_url": "https://www.amazon.de/dp/B0D6B1PGNH?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/8a/2c/5e/8a2c5e3995f779092586d7c8cda00abe.jpg",
+    "board_id": "1110207814332818580",
+    "tag": "OUTFIT IDEA",
+    "headline": "LEGGINGS<br>OUTFIT IDEA",
+    "subline": "Leggings outfit idea",
+    "title": "Black High-Waisted Leggings with Pockets | Women's Workout Leggings",
+    "description": "Black High-Waisted Leggings with Pockets – easy to style with a sports bra, crop top or oversized tee for the gym, yoga and everyday athleisure.\n\nWerbung | Affiliate-Link\n\n#LeggingsOutfit #GymLeggings #WorkoutOutfit #Athleisure #GymOutfitWomen",
+    "layout": "product",
+    "status": "queued",
     "style": "minimal"
   },
   {
@@ -1744,6 +2368,20 @@
     "style": "cream"
   },
   {
+    "slug": "041-men-s-2-in-1-training-shorts-v2",
+    "product_url": "https://www.amazon.de/dp/B09573RCYV?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/70/eb/74/70eb74c97aade1bf9a7840dc4190e2c3.jpg",
+    "board_id": "1110207814332820701",
+    "tag": "OUTFIT IDEA",
+    "headline": "2-IN-1<br>TRAINING<br>SHORTS",
+    "subline": "Gym & streetwear for men",
+    "title": "Men's 2-in-1 Training Shorts | Gym Outfit",
+    "description": "Men's 2-in-1 Training Shorts – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #GymShorts #MensFashion",
+    "layout": "product",
+    "status": "queued",
+    "style": "dark"
+  },
+  {
     "slug": "097-black-strappy-workout-crop-top",
     "status": "queued",
     "product_url": "https://www.amazon.de/dp/B0GSR5GPFS?tag=lilmedia-21",
@@ -1755,7 +2393,21 @@
     "title": "Black Strappy Workout Crop Top | Women's Gym Top Outfit",
     "description": "Black Strappy Workout Crop Top for women – pair it with high waisted leggings or shorts for a clean workout outfit that also works outside the gym.\n\nWerbung | Affiliate-Link\n\n#GymTop #SportsBra #WorkoutOutfit #GymOutfitWomen #Activewear",
     "layout": "product",
-    "style": "dark"
+    "style": "color"
+  },
+  {
+    "slug": "042-wooden-gymnastic-rings-v2",
+    "product_url": "https://www.amazon.de/dp/B06XCSJX7T?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/7e/ab/7a/7eab7a293db98b59f6c38adcc4281303.jpg",
+    "board_id": "1110207814332816389",
+    "tag": "GYM ESSENTIALS",
+    "headline": "WOODEN<br>GYMNASTIC<br>RINGS",
+    "subline": "Train anywhere",
+    "title": "Wooden Gymnastic Rings | Home Gym Equipment",
+    "description": "Wooden Gymnastic Rings – useful equipment for home workouts and the gym.\n\nWerbung | Affiliate-Link\n\n#HomeGym #HomeWorkout #FitnessEquipment #WorkoutAtHome #GymEssentials",
+    "layout": "product",
+    "status": "queued",
+    "style": "minimal"
   },
   {
     "slug": "098-men-s-black-ribbed-long-sleeve-polo",
@@ -1769,7 +2421,21 @@
     "title": "Men's Black Ribbed Long-Sleeve Polo | Training Layer",
     "description": "Men's Black Ribbed Long-Sleeve Polo – a sporty layer for cold gym days, running or a clean casual outfit with joggers and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensStyle #Athleisure #MensActivewear #TrainingWear",
     "layout": "product",
-    "style": "color"
+    "style": "cream"
+  },
+  {
+    "slug": "043-dark-red-wide-leg-sweatpants-v2",
+    "product_url": "https://www.amazon.de/dp/B0G1ZK4QH4?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/0e/a4/24/0ea424dd66b3c9bac9400c9198452005.jpg",
+    "board_id": "1110207814332818565",
+    "tag": "OUTFIT IDEA",
+    "headline": "DARK RED<br>WIDE-LEG<br>SWEATPANTS",
+    "subline": "Comfy · sporty · easy to style",
+    "title": "Dark Red Wide-Leg Sweatpants | Women's Athleisure Outfit",
+    "description": "Dark Red Wide-Leg Sweatpants for women – comfortable for workouts, errands and lazy days. Combine with a fitted top and sneakers.\n\nWerbung | Affiliate-Link\n\n#AthleisureOutfit #WorkoutOutfit #ComfyOutfit #GymOutfitWomen #Activewear",
+    "layout": "product",
+    "status": "queued",
+    "style": "dark"
   },
   {
     "slug": "099-adjustable-dumbbell-15-weight-settings",
@@ -1783,6 +2449,20 @@
     "title": "Adjustable Dumbbell (15 Weight Settings) | Home Gym Equipment",
     "description": "Adjustable Dumbbell (15 Weight Settings) – useful equipment for home workouts and the gym.\n\nWerbung | Affiliate-Link\n\n#HomeGym #HomeWorkout #FitnessEquipment #WorkoutAtHome #GymEssentials",
     "layout": "product",
+    "style": "color"
+  },
+  {
+    "slug": "044-black-oversized-gym-tee-v2",
+    "product_url": "https://www.amazon.de/dp/B0C81R5LPC?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/3d/ee/ee/3deeeeb71128373ae0005af2ffda224e.jpg",
+    "board_id": "1110207814332820701",
+    "tag": "OUTFIT IDEA",
+    "headline": "BLACK<br>OVERSIZED<br>GYM TEE",
+    "subline": "Clean gym basic for men",
+    "title": "Black Oversized Gym Tee | Men's Gym Outfit",
+    "description": "Black Oversized Gym Tee for men – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
+    "layout": "product",
+    "status": "queued",
     "style": "minimal"
   },
   {
@@ -1800,6 +2480,20 @@
     "style": "cream"
   },
   {
+    "slug": "045-bone-conduction-headphones-v2",
+    "product_url": "https://www.amazon.de/dp/B0HN7WY9WS?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/dc/16/d8/dc16d8224fccef1e9024d0dd46c9411b.jpg",
+    "board_id": "1110207814332816389",
+    "tag": "GYM ESSENTIALS",
+    "headline": "BONE<br>CONDUCTION<br>HEADPHONES",
+    "subline": "Gym bag essential",
+    "title": "Bone Conduction Headphones | Gym Bag Essentials",
+    "description": "Bone Conduction Headphones – a practical gym bag essential for everyday training.\n\nWerbung | Affiliate-Link\n\n#GymEssentials #GymBag #FitnessGear #WhatsInMyGymBag #GymAccessories",
+    "layout": "product",
+    "status": "queued",
+    "style": "dark"
+  },
+  {
     "slug": "101-men-s-black-fitted-tank-top",
     "status": "queued",
     "product_url": "https://www.amazon.de/dp/B0CYQSP2M3?tag=lilmedia-21",
@@ -1811,7 +2505,21 @@
     "title": "Men's Black Fitted Tank Top | Gym Outfit",
     "description": "Men's Black Fitted Tank Top – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
     "layout": "product",
-    "style": "dark"
+    "style": "color"
+  },
+  {
+    "slug": "046-black-zip-up-workout-jacket-v2",
+    "product_url": "https://www.amazon.de/dp/B0D9S9B4L2?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/3b/04/0c/3b040c39d43842dbc51e68f281b4733e.jpg",
+    "board_id": "1110207814332850044",
+    "tag": "OUTFIT IDEA",
+    "headline": "BLACK ZIP-UP<br>WORKOUT<br>JACKET",
+    "subline": "Gym top for women",
+    "title": "Black Zip-Up Workout Jacket | Women's Gym Top Outfit",
+    "description": "Black Zip-Up Workout Jacket for women – pair it with high waisted leggings or shorts for a clean workout outfit that also works outside the gym.\n\nWerbung | Affiliate-Link\n\n#GymTop #SportsBra #WorkoutOutfit #GymOutfitWomen #Activewear",
+    "position": "center 30%",
+    "status": "queued",
+    "style": "card"
   },
   {
     "slug": "102-weighted-vest",
@@ -1825,7 +2533,21 @@
     "title": "Weighted Vest | Home Gym Equipment",
     "description": "Weighted Vest – useful equipment for home workouts and the gym.\n\nWerbung | Affiliate-Link\n\n#HomeGym #HomeWorkout #FitnessEquipment #WorkoutAtHome #GymEssentials",
     "layout": "product",
-    "style": "color"
+    "style": "minimal"
+  },
+  {
+    "slug": "047-men-s-white-gym-tank-top-v2",
+    "product_url": "https://www.amazon.de/dp/B0G5PHV4XB?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/d3/a4/16/d3a41664fee49b6305ed0cc762db15e7.jpg",
+    "board_id": "1110207814332820701",
+    "tag": "OUTFIT IDEA",
+    "headline": "WHITE GYM<br>TANK TOP",
+    "subline": "Clean gym basic for men",
+    "title": "Men's White Gym Tank Top | Gym Outfit",
+    "description": "Men's White Gym Tank Top – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
+    "layout": "product",
+    "status": "queued",
+    "style": "cream"
   },
   {
     "slug": "103-grey-wrap-top",
@@ -1839,7 +2561,21 @@
     "title": "Grey Wrap Top | Women's Gym Top Outfit",
     "description": "Grey Wrap Top for women – pair it with high waisted leggings or shorts for a clean workout outfit that also works outside the gym.\n\nWerbung | Affiliate-Link\n\n#GymTop #SportsBra #WorkoutOutfit #GymOutfitWomen #Activewear",
     "layout": "product",
-    "style": "minimal"
+    "style": "dark"
+  },
+  {
+    "slug": "048-knee-sleeves-pair-v2",
+    "product_url": "https://www.amazon.de/dp/B0CKK4VG26?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/61/16/ec/6116ec8fa65d67d6f4b6201d706f7673.jpg",
+    "board_id": "1110207814332816389",
+    "tag": "GYM ESSENTIALS",
+    "headline": "KNEE SLEEVES<br>(PAIR)",
+    "subline": "Train anywhere",
+    "title": "Knee Sleeves (Pair) | Home Gym Equipment",
+    "description": "Knee Sleeves (Pair) – useful equipment for home workouts and the gym.\n\nWerbung | Affiliate-Link\n\n#HomeGym #HomeWorkout #FitnessEquipment #WorkoutAtHome #GymEssentials",
+    "layout": "product",
+    "status": "queued",
+    "style": "color"
   },
   {
     "slug": "104-men-s-black-gym-tank-top",
@@ -1853,7 +2589,21 @@
     "title": "Men's Black Gym Tank Top | Gym Outfit",
     "description": "Men's Black Gym Tank Top – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
     "position": "center 30%",
-    "style": "cream"
+    "style": "darkphoto"
+  },
+  {
+    "slug": "049-black-sports-bra-v2",
+    "product_url": "https://www.amazon.de/dp/B0GF8CKZ5N?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/a1/ba/3f/a1ba3f9e2918bed796323041d2379e6a.jpg",
+    "board_id": "1110207814332850044",
+    "tag": "OUTFIT IDEA",
+    "headline": "BLACK SPORTS<br>BRA",
+    "subline": "Gym top for women",
+    "title": "Black Sports Bra | Women's Gym Top Outfit",
+    "description": "Black Sports Bra for women – pair it with high waisted leggings or shorts for a clean workout outfit that also works outside the gym.\n\nWerbung | Affiliate-Link\n\n#GymTop #SportsBra #WorkoutOutfit #GymOutfitWomen #Activewear",
+    "layout": "product",
+    "status": "queued",
+    "style": "minimal"
   },
   {
     "slug": "105-yoga-mat",
@@ -1867,6 +2617,20 @@
     "title": "Yoga Mat | Home Gym Equipment",
     "description": "Yoga Mat – useful equipment for home workouts and the gym.\n\nWerbung | Affiliate-Link\n\n#HomeGym #HomeWorkout #FitnessEquipment #WorkoutAtHome #GymEssentials",
     "layout": "product",
+    "style": "cream"
+  },
+  {
+    "slug": "050-under-armour-black-compression-shorts-v2",
+    "product_url": "https://www.amazon.de/dp/B089T92G55?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/1a/85/a8/1a85a8d7dde42ab79b6984856996dddc.jpg",
+    "board_id": "1110207814332820701",
+    "tag": "OUTFIT IDEA",
+    "headline": "BLACK<br>COMPRESSION<br>SHORTS",
+    "subline": "Gym & streetwear for men",
+    "title": "Under Armour Black Compression Shorts | Men's Gym Outfit",
+    "description": "Under Armour Black Compression Shorts for men – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #GymShorts #MensFashion",
+    "layout": "product",
+    "status": "queued",
     "style": "dark"
   },
   {
@@ -1884,6 +2648,20 @@
     "style": "color"
   },
   {
+    "slug": "051-ankle-straps-for-cable-machine-v2",
+    "product_url": "https://www.amazon.de/dp/B0CHFYJGC5?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/a3/a5/08/a3a508ca19463709c78d1679dd94f70e.jpg",
+    "board_id": "1110207814332816389",
+    "tag": "GYM ESSENTIALS",
+    "headline": "ANKLE STRAPS<br>FOR CABLE<br>MACHINE",
+    "subline": "Train anywhere",
+    "title": "Ankle Straps for Cable Machine | Home Gym Equipment",
+    "description": "Ankle Straps for Cable Machine – useful equipment for home workouts and the gym.\n\nWerbung | Affiliate-Link\n\n#HomeGym #HomeWorkout #FitnessEquipment #WorkoutAtHome #GymEssentials",
+    "layout": "product",
+    "status": "queued",
+    "style": "minimal"
+  },
+  {
     "slug": "107-jako-white-long-sleeve-base-layer",
     "status": "queued",
     "product_url": "https://www.amazon.de/dp/B083T1VBP6?tag=lilmedia-21",
@@ -1895,7 +2673,21 @@
     "title": "JAKO White Long Sleeve Base Layer | Men's Training Layer",
     "description": "JAKO White Long Sleeve Base Layer for men – a sporty layer for cold gym days, running or a clean casual outfit with joggers and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensStyle #Athleisure #MensActivewear #TrainingWear",
     "layout": "product",
-    "style": "minimal"
+    "style": "cream"
+  },
+  {
+    "slug": "052-lavender-flared-leggings-crop-top-set-v2",
+    "product_url": "https://www.amazon.de/dp/B0H8XJ8P48?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/79/33/bb/7933bb72eeda30e97ae45fa640668b4d.jpg",
+    "board_id": "1110207814332818565",
+    "tag": "OUTFIT IDEA",
+    "headline": "MATCHING<br>GYM SET",
+    "subline": "Matching set · gym to street",
+    "title": "Lavender Flared Leggings & Crop Top Set | Women's Matching Gym Set",
+    "description": "Lavender Flared Leggings & Crop Top Set for women – a matching workout set that looks put together in the gym and on the way there. Style it with white sneakers and a zip jacket.\n\nWerbung | Affiliate-Link\n\n#MatchingSet #GymOutfitWomen #WorkoutSet #Activewear #GymOutfit",
+    "layout": "product",
+    "status": "queued",
+    "style": "dark"
   },
   {
     "slug": "108-resistance-bands-set",
@@ -1909,7 +2701,21 @@
     "title": "Resistance Bands Set | Home Gym Equipment",
     "description": "Resistance Bands Set – useful equipment for home workouts and the gym.\n\nWerbung | Affiliate-Link\n\n#HomeGym #HomeWorkout #FitnessEquipment #WorkoutAtHome #GymEssentials",
     "layout": "product",
-    "style": "cream"
+    "style": "color"
+  },
+  {
+    "slug": "053-black-joggers-v2",
+    "product_url": "https://www.amazon.de/dp/B0D2R8CGJ5?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/cd/cb/82/cdcb82f08381bda4164d5ded52642d92.jpg",
+    "board_id": "1110207814332820701",
+    "tag": "OUTFIT IDEA",
+    "headline": "BLACK<br>JOGGERS",
+    "subline": "Gym & streetwear for men",
+    "title": "Black Joggers | Men's Gym Outfit",
+    "description": "Black Joggers for men – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #Joggers #MensFashion",
+    "layout": "product",
+    "status": "queued",
+    "style": "minimal"
   },
   {
     "slug": "109-black-half-zip-workout-top",
@@ -1923,7 +2729,21 @@
     "title": "Black Half-Zip Workout Top | Women's Gym Top Outfit",
     "description": "Black Half-Zip Workout Top for women – pair it with high waisted leggings or shorts for a clean workout outfit that also works outside the gym.\n\nWerbung | Affiliate-Link\n\n#GymTop #SportsBra #WorkoutOutfit #GymOutfitWomen #Activewear",
     "position": "center 30%",
-    "style": "color"
+    "style": "cream"
+  },
+  {
+    "slug": "054-above-stainless-steel-shaker-750-ml-v2",
+    "product_url": "https://www.amazon.de/dp/B0DS94YFTC?tag=lilmedia-21",
+    "source_image": "https://i.pinimg.com/1200x/f2/ef/77/f2ef771781c13534c7cb620513c9d1fa.jpg",
+    "board_id": "1110207814332816389",
+    "tag": "GYM ESSENTIALS",
+    "headline": "STAINLESS<br>STEEL SHAKER<br>750 ML",
+    "subline": "Gym bag essential",
+    "title": "ABOVE Stainless Steel Shaker 750 ml | Gym Bag Essentials",
+    "description": "ABOVE Stainless Steel Shaker 750 ml – a practical gym bag essential for everyday training.\n\nWerbung | Affiliate-Link\n\n#GymEssentials #GymBag #FitnessGear #WhatsInMyGymBag #GymAccessories",
+    "layout": "product",
+    "status": "queued",
+    "style": "dark"
   },
   {
     "slug": "110-men-s-black-muscle-tank-top",
@@ -1937,7 +2757,21 @@
     "title": "Men's Black Muscle Tank Top | Gym Outfit",
     "description": "Men's Black Muscle Tank Top – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
     "position": "center 30%",
-    "style": "card"
+    "style": "color"
+  },
+  {
+    "slug": "148-black-compression-shirt-men-v2",
+    "product_url": "https://www.amazon.de/dp/B0874X72WP?tag=lilmedia-21",
+    "source_image": "file:///home/user/fit-pins/src/148-black-compression-shirt-men.jpg",
+    "board_id": "1110207814332820701",
+    "tag": "GYM ESSENTIALS",
+    "layout": "product",
+    "headline": "COMPRESSION<br>SHIRT<br>MEN",
+    "subline": "Under Armour HeatGear · tight fit",
+    "title": "Black Compression Shirt Men | Under Armour HeatGear Gym Shirt",
+    "description": "Black compression shirt for men – the Under Armour HeatGear tee fits close to the body, ideal for lifting, running or as a base layer. Style it with black joggers or gym shorts for a clean all-black gym outfit.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #CompressionShirt #MensGymWear #UnderArmour #AllBlackOutfit",
+    "status": "queued",
+    "style": "minimal"
   },
   {
     "slug": "111-foldable-treadmill-for-home",
@@ -1951,6 +2785,20 @@
     "title": "Foldable Treadmill for Home | Home Gym Equipment",
     "description": "Foldable Treadmill for Home – useful equipment for home workouts and the gym.\n\nWerbung | Affiliate-Link\n\n#HomeGym #HomeWorkout #FitnessEquipment #WorkoutAtHome #GymEssentials",
     "layout": "product",
+    "style": "cream"
+  },
+  {
+    "slug": "149-black-compression-tank-top-men-v2",
+    "product_url": "https://www.amazon.de/dp/B0874WCKQJ?tag=lilmedia-21",
+    "source_image": "file:///home/user/fit-pins/src/149-black-compression-tank-top-men.jpg",
+    "board_id": "1110207814332820701",
+    "tag": "OUTFIT IDEA",
+    "layout": "product",
+    "headline": "SLEEVELESS<br>GYM SHIRT<br>MEN",
+    "subline": "Under Armour HeatGear · compression fit",
+    "title": "Black Sleeveless Compression Shirt Men | Under Armour Gym Tank Top",
+    "description": "Black sleeveless compression shirt for men – the Under Armour HeatGear tank top sits close to the body and is made for lifting and hot gym days. Pair it with grey training shorts for a simple men's gym outfit.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #TankTopMen #CompressionShirt #MensGymWear #UnderArmour",
+    "status": "queued",
     "style": "dark"
   },
   {
@@ -1968,6 +2816,20 @@
     "style": "color"
   },
   {
+    "slug": "150-olive-green-t-shirt-men-v2",
+    "product_url": "https://www.amazon.de/dp/B09WD78L62?tag=lilmedia-21",
+    "source_image": "file:///home/user/fit-pins/src/150-olive-green-t-shirt-men.jpg",
+    "board_id": "1110207814332820701",
+    "tag": "OUTFIT IDEA",
+    "layout": "product",
+    "headline": "OLIVE<br>GYM TEE<br>MEN",
+    "subline": "Under Armour · left chest logo",
+    "title": "Olive Green T-Shirt Men | Under Armour Gym Tee for Training & Everyday",
+    "description": "Olive green t-shirt for men – the Under Armour left chest logo tee works for the gym and as a casual everyday shirt. Wear it with black joggers and white sneakers for an easy athleisure outfit.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensTshirt #Athleisure #OliveGreen #UnderArmour",
+    "status": "queued",
+    "style": "minimal"
+  },
+  {
     "slug": "113-black-nike-t-shirt",
     "status": "queued",
     "product_url": "https://www.amazon.de/dp/B07W5Y15KW?tag=lilmedia-21",
@@ -1979,7 +2841,21 @@
     "title": "Black Nike T-Shirt | Men's Gym Outfit",
     "description": "Black Nike T-Shirt for men – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
     "layout": "product",
-    "style": "minimal"
+    "style": "cream"
+  },
+  {
+    "slug": "151-black-gym-shorts-men-v2",
+    "product_url": "https://www.amazon.de/dp/B0714D4Q4B?tag=lilmedia-21",
+    "source_image": "file:///home/user/fit-pins/src/151-black-gym-shorts-men.jpg",
+    "board_id": "1110207814332820701",
+    "tag": "OUTFIT IDEA",
+    "layout": "product",
+    "headline": "BLACK<br>GYM SHORTS<br>MEN",
+    "subline": "Under Armour Tech Graphic · side logo",
+    "title": "Black Gym Shorts Men | Under Armour Tech Graphic Training Shorts",
+    "description": "Black gym shorts for men – the Under Armour Tech Graphic shorts with the big side logo are a classic for leg day, running and everyday training. Pair them with a black compression shirt for an all-black gym outfit.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #GymShortsMen #MensGymWear #AllBlackOutfit #UnderArmour",
+    "status": "queued",
+    "style": "dark"
   },
   {
     "slug": "114-adidas-white-crew-socks",
@@ -1993,7 +2869,21 @@
     "title": "adidas White Crew Socks | Gym Bag Essentials",
     "description": "adidas White Crew Socks – a practical gym bag essential for everyday training.\n\nWerbung | Affiliate-Link\n\n#GymEssentials #GymBag #FitnessGear #WhatsInMyGymBag #GymAccessories",
     "layout": "product",
-    "style": "cream"
+    "style": "color"
+  },
+  {
+    "slug": "152-black-puma-sneakers-v2",
+    "product_url": "https://www.amazon.de/dp/B07S8PT36G?tag=lilmedia-21",
+    "source_image": "file:///home/user/fit-pins/src/152-black-puma-sneakers.jpg",
+    "board_id": "1110207814332971379",
+    "tag": "GYM ESSENTIALS",
+    "layout": "product",
+    "headline": "ALL BLACK<br>GYM<br>SNEAKERS",
+    "subline": "PUMA Anzarun Lite · light mesh · unisex",
+    "title": "All Black Gym Sneakers | PUMA Anzarun Lite Training Shoes Men & Women",
+    "description": "All black sneakers for the gym – the PUMA Anzarun Lite is a light mesh shoe for training, walking and everyday outfits. Easy to match with black joggers or gym shorts.\n\nWerbung | Affiliate-Link\n\n#GymShoes #BlackSneakers #MensGymWear #TrainingShoes #Puma",
+    "status": "queued",
+    "style": "minimal"
   },
   {
     "slug": "115-black-long-sleeve-crop-top",
@@ -2007,6 +2897,20 @@
     "title": "Black Long Sleeve Crop Top | Women's Gym Top Outfit",
     "description": "Black Long Sleeve Crop Top for women – pair it with high waisted leggings or shorts for a clean workout outfit that also works outside the gym.\n\nWerbung | Affiliate-Link\n\n#GymTop #SportsBra #WorkoutOutfit #GymOutfitWomen #Activewear",
     "layout": "product",
+    "style": "cream"
+  },
+  {
+    "slug": "153-white-puma-sneakers-v2",
+    "product_url": "https://www.amazon.de/dp/B077MQ6C7S?tag=lilmedia-21",
+    "source_image": "file:///home/user/fit-pins/src/153-white-puma-sneakers.jpg",
+    "board_id": "1110207814332971379",
+    "tag": "OUTFIT IDEA",
+    "layout": "product",
+    "headline": "WHITE<br>SNEAKERS<br>OUTFIT",
+    "subline": "PUMA ST Runner v3 · clean everyday look",
+    "title": "White Sneakers Outfit | PUMA ST Runner v3 Classic White Sneakers",
+    "description": "Classic white sneakers – the PUMA ST Runner v3 goes with joggers, gym shorts and jeans and gives every athleisure outfit a clean look. A simple pick for the way to the gym and everyday wear.\n\nWerbung | Affiliate-Link\n\n#WhiteSneakers #SneakerOutfit #Athleisure #MensStyle #Puma",
+    "status": "queued",
     "style": "dark"
   },
   {
@@ -2021,7 +2925,21 @@
     "title": "White LA Graphic T-Shirt | Men's Gym Outfit",
     "description": "White LA Graphic T-Shirt for men – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
     "position": "center 30%",
-    "style": "darkphoto"
+    "style": "card"
+  },
+  {
+    "slug": "154-black-baggy-gym-pants-men-v2",
+    "product_url": "https://www.amazon.de/dp/B075GQLGGG?tag=lilmedia-21",
+    "source_image": "file:///home/user/fit-pins/src/154-black-baggy-gym-pants-men.jpg",
+    "board_id": "1110207814332820701",
+    "tag": "OUTFIT IDEA",
+    "layout": "product",
+    "headline": "BAGGY<br>GYM PANTS<br>MEN",
+    "subline": "Old-school bodybuilding fit · black",
+    "title": "Black Baggy Gym Pants Men | Old School Bodybuilding Pants Outfit",
+    "description": "Black baggy gym pants for men – the old-school bodybuilding look with a wide fit and tapered leg. Wear them with a tank top or oversized tee and white sneakers for a classic gym outfit.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #BaggyPants #OldSchoolBodybuilding #MensGymWear #GymFit",
+    "status": "queued",
+    "style": "color"
   },
   {
     "slug": "117-super-sparrow-insulated-water-bottle",
@@ -2035,7 +2953,21 @@
     "title": "Super Sparrow Insulated Water Bottle | Gym Bag Essentials",
     "description": "Super Sparrow Insulated Water Bottle – a practical gym bag essential for everyday training.\n\nWerbung | Affiliate-Link\n\n#GymEssentials #GymBag #FitnessGear #WhatsInMyGymBag #GymAccessories",
     "layout": "product",
-    "style": "color"
+    "style": "minimal"
+  },
+  {
+    "slug": "155-black-ribbed-tank-top-men-v2",
+    "product_url": "https://www.amazon.de/dp/B0G3WM2CGJ?tag=lilmedia-21",
+    "source_image": "file:///home/user/fit-pins/src/155-black-ribbed-tank-top-men.jpg",
+    "board_id": "1110207814332820701",
+    "tag": "OUTFIT IDEA",
+    "layout": "product",
+    "headline": "RIBBED<br>TANK TOP<br>MEN",
+    "subline": "Slim fit muscle shirt · black",
+    "title": "Black Ribbed Tank Top Men | Slim Fit Muscle Shirt Gym Outfit",
+    "description": "Black ribbed tank top for men – a slim fit muscle shirt for training and summer outfits. Style it with black joggers or baggy gym pants for a clean all-black look.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #TankTopMen #MuscleShirt #AllBlackOutfit #MensGymWear",
+    "status": "queued",
+    "style": "cream"
   },
   {
     "slug": "118-brown-flared-leggings",
@@ -2049,6 +2981,20 @@
     "title": "Brown Flared Leggings | Women's Workout Leggings",
     "description": "Brown Flared Leggings – easy to style with a sports bra, crop top or oversized tee for the gym, yoga and everyday athleisure.\n\nWerbung | Affiliate-Link\n\n#LeggingsOutfit #GymLeggings #WorkoutOutfit #Athleisure #GymOutfitWomen",
     "position": "center 30%",
+    "style": "darkphoto"
+  },
+  {
+    "slug": "156-grey-wide-leg-sweatpants-men-v2",
+    "product_url": "https://www.amazon.de/dp/B0H36333FW?tag=lilmedia-21",
+    "source_image": "file:///home/user/fit-pins/src/156-grey-wide-leg-sweatpants-men.jpg",
+    "board_id": "1110207814332820701",
+    "tag": "OUTFIT IDEA",
+    "position": "center 50%",
+    "headline": "GREY<br>SWEATPANTS<br>OUTFIT",
+    "subline": "Wide leg · zip pockets · easy to style",
+    "title": "Grey Sweatpants Outfit Men | Wide Leg Sweatpants with Zip Pockets",
+    "description": "Grey wide leg sweatpants for men – a relaxed fit with drawstring and zip pockets for the gym, travel or a cozy streetwear look. Style them with a plain white tee and chunky white sneakers.\n\nWerbung | Affiliate-Link\n\n#GreySweatpants #SweatpantsOutfit #MensStreetwear #GymOutfitMen #Athleisure",
+    "status": "queued",
     "style": "cream"
   },
   {
@@ -2063,7 +3009,21 @@
     "title": "Under Armour Black Long-Sleeve Top | Men's Training Layer",
     "description": "Under Armour Black Long-Sleeve Top for men – a sporty layer for cold gym days, running or a clean casual outfit with joggers and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensStyle #Athleisure #MensActivewear #TrainingWear",
     "layout": "product",
-    "style": "minimal"
+    "style": "dark"
+  },
+  {
+    "slug": "157-portable-digital-cable-machine-v2",
+    "product_url": "https://www.amazon.de/dp/B0HBPGRX4G?tag=lilmedia-21",
+    "source_image": "file:///home/user/fit-pins/src/157-portable-digital-cable-machine.jpg",
+    "board_id": "1110207814332816389",
+    "tag": "HOME GYM",
+    "layout": "product",
+    "headline": "MINI CABLE<br>MACHINE<br>HOME GYM",
+    "subline": "Digital resistance · handles & straps included",
+    "title": "Portable Cable Machine | Digital Home Gym for Small Spaces",
+    "description": "Portable digital cable machine for your home gym – set the resistance on the display and train with handles and an ankle strap. A compact gift idea for anyone who trains at home or travels.\n\nWerbung | Affiliate-Link\n\n#HomeGym #HomeWorkout #GymEquipment #FitnessGifts #GymEssentials",
+    "status": "queued",
+    "style": "color"
   },
   {
     "slug": "120-pink-stanley-tumbler",
@@ -2077,7 +3037,7 @@
     "title": "Pink Stanley Tumbler | Gym Bag Essentials",
     "description": "Pink Stanley Tumbler – a practical gym bag essential for everyday training.\n\nWerbung | Affiliate-Link\n\n#GymEssentials #GymBag #FitnessGear #WhatsInMyGymBag #GymAccessories",
     "layout": "product",
-    "style": "cream"
+    "style": "minimal"
   },
   {
     "slug": "121-blue-flared-leggings-set",
@@ -2105,7 +3065,7 @@
     "title": "Men's Black Sweatpants | Gym Outfit",
     "description": "Men's Black Sweatpants – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #GymShorts #MensFashion",
     "layout": "product",
-    "style": "dark"
+    "style": "cream"
   },
   {
     "slug": "123-super-sparrow-tritan-water-bottle",
@@ -2119,7 +3079,7 @@
     "title": "Super Sparrow Tritan Water Bottle | Gym Bag Essentials",
     "description": "Super Sparrow Tritan Water Bottle – a practical gym bag essential for everyday training.\n\nWerbung | Affiliate-Link\n\n#GymEssentials #GymBag #FitnessGear #WhatsInMyGymBag #GymAccessories",
     "layout": "product",
-    "style": "color"
+    "style": "dark"
   },
   {
     "slug": "124-black-high-waist-gym-leggings",
@@ -2147,7 +3107,7 @@
     "title": "Under Armour Black Joggers | Men's Gym Outfit",
     "description": "Under Armour Black Joggers for men – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #Joggers #MensFashion",
     "layout": "product",
-    "style": "minimal"
+    "style": "color"
   },
   {
     "slug": "126-720-dgree-water-bottle",
@@ -2161,7 +3121,7 @@
     "title": "720°DGREE Water Bottle | Gym Bag Essentials",
     "description": "720°DGREE Water Bottle – a practical gym bag essential for everyday training.\n\nWerbung | Affiliate-Link\n\n#GymEssentials #GymBag #FitnessGear #WhatsInMyGymBag #GymAccessories",
     "layout": "product",
-    "style": "cream"
+    "style": "minimal"
   },
   {
     "slug": "127-black-flowy-summer-shorts",
@@ -2189,7 +3149,7 @@
     "title": "Under Armour White Quarter-Zip Top | Men's Training Layer",
     "description": "Under Armour White Quarter-Zip Top for men – a sporty layer for cold gym days, running or a clean casual outfit with joggers and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensStyle #Athleisure #MensActivewear #TrainingWear",
     "layout": "product",
-    "style": "dark"
+    "style": "cream"
   },
   {
     "slug": "129-stainless-steel-shaker-bottle",
@@ -2203,7 +3163,7 @@
     "title": "Stainless Steel Shaker Bottle | Gym Bag Essentials",
     "description": "Stainless Steel Shaker Bottle – a practical gym bag essential for everyday training.\n\nWerbung | Affiliate-Link\n\n#GymEssentials #GymBag #FitnessGear #WhatsInMyGymBag #GymAccessories",
     "layout": "product",
-    "style": "color"
+    "style": "dark"
   },
   {
     "slug": "130-black-flowy-running-shorts",
@@ -2231,7 +3191,7 @@
     "title": "Men's Two-Piece Summer Set | Matching Set",
     "description": "Men's Two-Piece Summer Set – a complete matching outfit for men. No styling needed: put it on and go.\n\nWerbung | Affiliate-Link\n\n#MensOutfit #MatchingSet #GymOutfitMen #Athleisure #MensFashion",
     "layout": "product",
-    "style": "minimal"
+    "style": "color"
   },
   {
     "slug": "132-black-crew-socks-5-pack",
@@ -2245,7 +3205,7 @@
     "title": "Black Crew Socks 5-Pack | Gym Bag Essentials",
     "description": "Black Crew Socks 5-Pack – a practical gym bag essential for everyday training.\n\nWerbung | Affiliate-Link\n\n#GymEssentials #GymBag #FitnessGear #WhatsInMyGymBag #GymAccessories",
     "layout": "product",
-    "style": "cream"
+    "style": "minimal"
   },
   {
     "slug": "133-grey-two-piece-flare-set",
@@ -2273,7 +3233,7 @@
     "title": "Under Armour Black Cap | Gym Bag Essentials",
     "description": "Under Armour Black Cap – a practical gym bag essential for everyday training.\n\nWerbung | Affiliate-Link\n\n#GymEssentials #GymBag #FitnessGear #WhatsInMyGymBag #GymAccessories",
     "layout": "product",
-    "style": "dark"
+    "style": "cream"
   },
   {
     "slug": "135-grey-two-piece-workout-set",
@@ -2301,7 +3261,7 @@
     "title": "Under Armour Grey Cap | Gym Bag Essentials",
     "description": "Under Armour Grey Cap – a practical gym bag essential for everyday training.\n\nWerbung | Affiliate-Link\n\n#GymEssentials #GymBag #FitnessGear #WhatsInMyGymBag #GymAccessories",
     "layout": "product",
-    "style": "color"
+    "style": "dark"
   },
   {
     "slug": "137-black-two-piece-lounge-set",
@@ -2329,7 +3289,7 @@
     "title": "Nike White Crew Socks | Gym Bag Essentials",
     "description": "Nike White Crew Socks – a practical gym bag essential for everyday training.\n\nWerbung | Affiliate-Link\n\n#GymEssentials #GymBag #FitnessGear #WhatsInMyGymBag #GymAccessories",
     "layout": "product",
-    "style": "minimal"
+    "style": "color"
   },
   {
     "slug": "139-black-running-shorts-for-women",
@@ -2343,7 +3303,7 @@
     "title": "Black Running Shorts for Women | Athleisure Outfit",
     "description": "Black Running Shorts for Women – comfortable for workouts, errands and lazy days. Combine with a fitted top and sneakers.\n\nWerbung | Affiliate-Link\n\n#AthleisureOutfit #WorkoutOutfit #ComfyOutfit #GymOutfitWomen #Activewear",
     "layout": "product",
-    "style": "cream"
+    "style": "minimal"
   },
   {
     "slug": "140-adjustable-weight-bench",
@@ -2357,7 +3317,7 @@
     "title": "Adjustable Weight Bench | Home Gym Equipment",
     "description": "Adjustable Weight Bench – useful equipment for home workouts and the gym.\n\nWerbung | Affiliate-Link\n\n#HomeGym #HomeWorkout #FitnessEquipment #WorkoutAtHome #GymEssentials",
     "layout": "product",
-    "style": "dark"
+    "style": "cream"
   },
   {
     "slug": "141-women-s-flared-leggings",
@@ -2371,7 +3331,7 @@
     "title": "Women's Flared Leggings | Workout Leggings",
     "description": "Women's Flared Leggings – easy to style with a sports bra, crop top or oversized tee for the gym, yoga and everyday athleisure.\n\nWerbung | Affiliate-Link\n\n#LeggingsOutfit #GymLeggings #WorkoutOutfit #Athleisure #GymOutfitWomen",
     "position": "center 30%",
-    "style": "cream"
+    "style": "color"
   },
   {
     "slug": "142-adjustable-dumbbell-barbell-set",
@@ -2385,7 +3345,7 @@
     "title": "Adjustable Dumbbell & Barbell Set | Home Gym Equipment",
     "description": "Adjustable Dumbbell & Barbell Set – useful equipment for home workouts and the gym.\n\nWerbung | Affiliate-Link\n\n#HomeGym #HomeWorkout #FitnessEquipment #WorkoutAtHome #GymEssentials",
     "layout": "product",
-    "style": "color"
+    "style": "dark"
   },
   {
     "slug": "143-compression-gym-set",
@@ -2413,7 +3373,7 @@
     "title": "Push-Up Bars | Home Gym Equipment",
     "description": "Push-Up Bars – useful equipment for home workouts and the gym.\n\nWerbung | Affiliate-Link\n\n#HomeGym #HomeWorkout #FitnessEquipment #WorkoutAtHome #GymEssentials",
     "layout": "product",
-    "style": "minimal"
+    "style": "color"
   },
   {
     "slug": "145-odizli-women-s-sport-set",
@@ -2427,7 +3387,7 @@
     "title": "Odizli Women's Sport Set | Matching Gym Set",
     "description": "Odizli Women's Sport Set – a matching workout set that looks put together in the gym and on the way there. Style it with white sneakers and a zip jacket.\n\nWerbung | Affiliate-Link\n\n#MatchingSet #GymOutfitWomen #WorkoutSet #Activewear #GymOutfit",
     "layout": "product",
-    "style": "cream"
+    "style": "minimal"
   },
   {
     "slug": "146-foam-roller-with-exercise-guide",
@@ -2441,7 +3401,7 @@
     "title": "Foam Roller with Exercise Guide | Recovery Tools",
     "description": "Foam Roller with Exercise Guide – a simple tool for your rest day and post-workout routine.\n\nWerbung | Affiliate-Link\n\n#RestDay #Recovery #SelfCare #GymEssentials #MobilityWork",
     "layout": "product",
-    "style": "dark"
+    "style": "cream"
   },
   {
     "slug": "147-women-s-long-sleeve-crop-top",
@@ -2456,901 +3416,5 @@
     "description": "Women's Long Sleeve Crop Top – pair it with high waisted leggings or shorts for a clean workout outfit that also works outside the gym.\n\nWerbung | Affiliate-Link\n\n#GymTop #SportsBra #WorkoutOutfit #GymOutfitWomen #Activewear",
     "position": "center 30%",
     "style": "darkphoto"
-  },
-  {
-    "slug": "01-grey-sweatpants-outfit-v2",
-    "product_url": "https://www.amazon.de/dp/B0HB8Y3GLY?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/ea/ba/a4/eabaa44e4a74804c009b51f7df3df698.jpg",
-    "board_id": "1110207814332820701",
-    "tag": "OUTFIT IDEA",
-    "headline": "GREY<br>SWEATPANTS<br>OUTFIT",
-    "subline": "Baggy streetwear look for men",
-    "position": "center 30%",
-    "title": "Grey Sweatpants Outfit Men | Baggy Streetwear Look",
-    "description": "Grey baggy sweatpants outfit idea for men. Wide leg joggers with drawstring waist – style them with a white tee, hoodie and clean sneakers for an easy streetwear and athleisure look.\n\nWerbung | Affiliate-Link\n\n#GreySweatpants #MensOutfit #Streetwear #Athleisure #MensFashion",
-    "status": "queued",
-    "style": "card"
-  },
-  {
-    "slug": "02-black-leggings-gym-outfit-v2",
-    "product_url": "https://www.amazon.de/dp/B0D9WJTBHR?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/ad/6f/ac/ad6faccf3bff33605ccf8b16cf3314b8.jpg",
-    "board_id": "1110207814332818580",
-    "tag": "OUTFIT IDEA",
-    "headline": "BLACK<br>LEGGINGS<br>GYM OUTFIT",
-    "subline": "High waist · seamless · easy to style",
-    "position": "center 40%",
-    "title": "Black Leggings Gym Outfit | High Waist Seamless Leggings",
-    "description": "Black high waist leggings gym outfit idea. Seamless workout leggings that you can style with a sports bra, crop top or oversized tee and white socks – for the gym and everyday athleisure.\n\nWerbung | Affiliate-Link\n\n#BlackLeggings #GymOutfit #LeggingsOutfit #WorkoutOutfit #Activewear",
-    "status": "queued",
-    "style": "cream"
-  },
-  {
-    "slug": "03-ribbed-long-sleeve-men-v2",
-    "product_url": "https://www.amazon.de/dp/B0B2DC5Y2Y?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/24/6d/f0/246df066239587b9598797006c5a5470.jpg",
-    "board_id": "1110207814332820701",
-    "tag": "OUTFIT IDEA",
-    "headline": "RIBBED<br>LONG SLEEVE<br>OUTFIT",
-    "subline": "Clean casual style for men",
-    "position": "center 30%",
-    "title": "Men's Ribbed Long Sleeve Shirt Outfit | Clean Casual Style",
-    "description": "Grey ribbed long sleeve henley for men – slim fit, clean and timeless. Wear it with black pants and a watch for an elevated casual outfit, date night or everyday look.\n\nWerbung | Affiliate-Link\n\n#MensStyle #RibbedShirt #HenleyShirt #CasualOutfit #MensFashion",
-    "status": "queued",
-    "style": "color"
-  },
-  {
-    "slug": "04-all-black-gym-outfit-men-v2",
-    "product_url": "https://www.amazon.de/dp/B0BCGR2CP1?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/54/2e/89/542e8939b0eb172586d35d567915b3ea.jpg",
-    "board_id": "1110207814332820701",
-    "tag": "OUTFIT IDEA",
-    "headline": "ALL BLACK<br>GYM OUTFIT",
-    "subline": "5-piece workout set for men",
-    "position": "left center",
-    "title": "All Black Gym Outfit Men | 5 Piece Workout Set",
-    "description": "All black gym outfit for men: 5 piece workout set with zip hoodie, compression t-shirt, long sleeve top, shorts and compression leggings. One set for lifting, running and training.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #AllBlackOutfit #GymWear #WorkoutClothes #MensActivewear",
-    "status": "queued",
-    "style": "card"
-  },
-  {
-    "slug": "05-high-waist-gym-shorts-v2",
-    "product_url": "https://www.amazon.de/dp/B0GKNDGC6G?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/e7/2b/89/e72b89875be4ad161d1b0ea95c36a52d.jpg",
-    "board_id": "1110207814332820674",
-    "tag": "OUTFIT IDEA",
-    "headline": "HIGH WAIST<br>GYM SHORTS",
-    "subline": "Women's workout outfit idea",
-    "position": "center 40%",
-    "title": "High Waist Gym Shorts | Black Workout Shorts Outfit",
-    "description": "Black high waist gym shorts for women – biker shorts style that is easy to combine with a sports bra or crop top. Workout outfit idea for the gym, running and summer training.\n\nWerbung | Affiliate-Link\n\n#GymShorts #WorkoutOutfit #BikerShorts #GymOutfitWomen #Activewear",
-    "status": "queued",
-    "style": "cream"
-  },
-  {
-    "slug": "06-grey-3-piece-gym-set-women-v2",
-    "product_url": "https://www.amazon.de/dp/B0FJ4NKKYM?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/e8/19/1c/e8191c8d3fcafd9cebc521597f304e6b.jpg",
-    "board_id": "1110207814332818565",
-    "tag": "OUTFIT IDEA",
-    "headline": "MATCHING<br>GYM SET<br>WOMEN",
-    "subline": "Dark grey 3-piece workout set",
-    "position": "center 30%",
-    "title": "Women's Matching Gym Set | Dark Grey 3 Piece Workout Outfit",
-    "description": "Dark grey 3 piece gym set for women with cropped zip jacket, sports bra and high waist leggings. A matching workout outfit that looks clean in the gym and on the way there.\n\nWerbung | Affiliate-Link\n\n#MatchingSet #GymOutfit #WorkoutSet #Activewear #GymOutfitWomen",
-    "status": "queued",
-    "style": "color"
-  },
-  {
-    "slug": "07-black-baggy-sweatpants-men-v2",
-    "product_url": "https://www.amazon.de/dp/B0H3KL31X9?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/d3/d1/0e/d3d10e557a9f981a1bdf7c1c4906f6c4.jpg",
-    "board_id": "1110207814332820701",
-    "tag": "OUTFIT IDEA",
-    "headline": "BLACK<br>SWEATPANTS<br>OUTFIT",
-    "subline": "Baggy fit · white tee · clean sneakers",
-    "position": "center 40%",
-    "title": "Black Sweatpants Outfit Men | Baggy Joggers Streetwear",
-    "description": "Black baggy sweatpants outfit for men. Pair the wide leg joggers with a plain white tee and white sneakers for an easy everyday streetwear and gym look.\n\nWerbung | Affiliate-Link\n\n#BlackSweatpants #MensOutfit #Streetwear #Athleisure #BaggyPants",
-    "status": "queued",
-    "style": "card"
-  },
-  {
-    "slug": "08-black-workout-set-women-v2",
-    "product_url": "https://www.amazon.de/dp/B0FJRKHXQP?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/c3/cf/76/c3cf7638b70c906cb77120d091f46c04.jpg",
-    "board_id": "1110207814332818565",
-    "tag": "OUTFIT IDEA",
-    "headline": "ALL BLACK<br>WORKOUT<br>SET",
-    "subline": "Gym to street outfit for women",
-    "position": "center 30%",
-    "title": "All Black Workout Set Women | Sleek Gym to Street Outfit",
-    "description": "Sleek all black workout set for women with racerback top and high waist leggings. Add white socks, sneakers and a tote bag for an easy gym to street outfit.\n\nWerbung | Affiliate-Link\n\n#WorkoutSet #AllBlackOutfit #GymOutfitWomen #Athleisure #Activewear",
-    "status": "queued",
-    "style": "cream"
-  },
-  {
-    "slug": "09-compression-shirts-men-v2",
-    "product_url": "https://www.amazon.de/dp/B0GHZ3CXNB?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/b7/88/98/b78898df0efd656c8b92823f6556059f.jpg",
-    "board_id": "1110207814332820701",
-    "tag": "OUTFIT IDEA",
-    "headline": "COMPRESSION<br>SHIRTS<br>3-PACK",
-    "subline": "Gym basics in black, white & grey",
-    "position": "center 25%",
-    "title": "Men's Compression Shirts 3 Pack | Gym T-Shirts Black White Grey",
-    "description": "Men's compression gym shirts in black, white and grey. Fitted short sleeve training tops for lifting, running and everyday gym outfits.\n\nWerbung | Affiliate-Link\n\n#CompressionShirt #GymOutfitMen #GymWear #MensActivewear #WorkoutClothes",
-    "status": "queued",
-    "style": "color"
-  },
-  {
-    "slug": "10-grey-running-shorts-women-v2",
-    "product_url": "https://www.amazon.de/dp/B0FFS826J6?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/d7/95/aa/d795aa03f957c91a08522d4f38b70e89.jpg",
-    "board_id": "1110207814332820674",
-    "tag": "OUTFIT IDEA",
-    "headline": "GREY<br>RUNNING<br>SHORTS",
-    "subline": "Comfy summer workout outfit",
-    "position": "center 45%",
-    "title": "Grey Running Shorts Women | Comfy Sport & Summer Outfit",
-    "description": "Soft grey running shorts for women with drawstring waist and white trim. Style them with a white crop top for a comfy workout, running or summer outfit.\n\nWerbung | Affiliate-Link\n\n#RunningShorts #WorkoutOutfit #GymShorts #SummerOutfit #Activewear",
-    "status": "queued",
-    "style": "card"
-  },
-  {
-    "slug": "11-black-training-tshirt-men-v2",
-    "product_url": "https://www.amazon.de/dp/B0785VXRX2?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/55/a5/eb/55a5ebdfd18a0f48dad757ca3fa795f7.jpg",
-    "board_id": "1110207814332820701",
-    "tag": "OUTFIT IDEA",
-    "headline": "BLACK<br>TRAINING<br>T-SHIRT",
-    "subline": "The gym basic every man needs",
-    "position": "center 25%",
-    "title": "Black Training T-Shirt Men | Gym Outfit Essential",
-    "description": "Lightweight black training t-shirt for men – the simple gym basic that goes with every pair of shorts or joggers. Clean, sporty and easy to style.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #BlackTshirt #TrainingShirt #MensActivewear #GymEssentials",
-    "status": "queued",
-    "style": "cream"
-  },
-  {
-    "slug": "12-black-leggings-with-pockets-v2",
-    "product_url": "https://www.amazon.de/dp/B07T66CJ6Z?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/25/a1/43/25a143cb8c32f0cd7018e8b0342e27da.jpg",
-    "board_id": "1110207814332818580",
-    "tag": "OUTFIT IDEA",
-    "headline": "HIGH WAIST<br>BLACK<br>LEGGINGS",
-    "subline": "With side pocket for your phone",
-    "position": "center 30%",
-    "title": "Black Leggings with Pockets | High Waist Workout Leggings",
-    "description": "High waist black leggings with side pockets for your phone. Perfect for gym, running, yoga and everyday athleisure outfits.\n\nWerbung | Affiliate-Link\n\n#LeggingsWithPockets #BlackLeggings #WorkoutLeggings #GymOutfit #Activewear",
-    "status": "queued",
-    "style": "color"
-  },
-  {
-    "slug": "13-black-gym-tshirt-men-v2",
-    "product_url": "https://www.amazon.de/dp/B00YMG2ZNI?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/db/0e/37/db0e372056ddd4b1d9211fea86d933ab.jpg",
-    "board_id": "1110207814332820701",
-    "tag": "OUTFIT IDEA",
-    "headline": "ALL BLACK<br>GYM FIT",
-    "subline": "Fitted training tee for men",
-    "position": "center 25%",
-    "title": "All Black Gym Fit Men | Fitted Training T-Shirt",
-    "description": "Fitted black training t-shirt for men – clean all black gym fit for lifting and everyday workouts. Combine with black shorts or joggers.\n\nWerbung | Affiliate-Link\n\n#GymFit #AllBlackOutfit #GymOutfitMen #TrainingShirt #MensFitness",
-    "status": "queued",
-    "style": "card"
-  },
-  {
-    "slug": "14-quarter-zip-top-men-v2",
-    "product_url": "https://www.amazon.de/dp/B078141ML8?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/02/14/63/021463c995afdb2e9698cac6261e6195.jpg",
-    "board_id": "1110207814332820701",
-    "tag": "OUTFIT IDEA",
-    "headline": "QUARTER<br>ZIP<br>OUTFIT",
-    "subline": "Sporty layer for men",
-    "position": "center 30%",
-    "title": "Men's Quarter Zip Top Outfit | Sporty Layering Style",
-    "description": "Black quarter zip training top for men – a sporty layer for cold gym days, running or a clean casual outfit with joggers and sneakers.\n\nWerbung | Affiliate-Link\n\n#QuarterZip #MensOutfit #GymOutfitMen #Athleisure #MensStyle",
-    "status": "queued",
-    "style": "cream"
-  },
-  {
-    "slug": "15-black-leggings-autumn-outfit-v2",
-    "product_url": "https://www.amazon.de/dp/B0CBBL7R8D?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/d8/24/e9/d824e959d3c47437f7b6461c6b8c75e3.jpg",
-    "board_id": "1110207814332818580",
-    "tag": "OUTFIT IDEA",
-    "headline": "BLACK<br>LEGGINGS<br>FALL OUTFIT",
-    "subline": "Cozy autumn & winter look",
-    "position": "center 40%",
-    "title": "Black Leggings Outfit for Fall | Cozy Autumn Athleisure",
-    "description": "High waisted black leggings outfit idea for autumn and winter. Style them with an oversized sweater, sneakers or boots for a cozy everyday athleisure look.\n\nWerbung | Affiliate-Link\n\n#LeggingsOutfit #FallOutfit #BlackLeggings #Athleisure #CozyOutfit",
-    "status": "queued",
-    "style": "color"
-  },
-  {
-    "slug": "016-front-zip-high-support-sports-bra-v2",
-    "product_url": "https://www.amazon.de/dp/B0BRSW9SG9?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/04/0f/9f/040f9f04599d542583e2a349ee50ba42.jpg",
-    "board_id": "1110207814332850044",
-    "tag": "OUTFIT IDEA",
-    "headline": "FRONT-ZIP<br>HIGH SUPPORT<br>SPORTS BRA",
-    "subline": "Gym top for women",
-    "title": "Front-Zip High Support Sports Bra | Women's Gym Top Outfit",
-    "description": "Front-Zip High Support Sports Bra for women – pair it with high waisted leggings or shorts for a clean workout outfit that also works outside the gym.\n\nWerbung | Affiliate-Link\n\n#GymTop #SportsBra #WorkoutOutfit #GymOutfitWomen #Activewear",
-    "position": "center 30%",
-    "status": "queued",
-    "style": "card"
-  },
-  {
-    "slug": "017-men-s-running-jacket-v2",
-    "product_url": "https://www.amazon.de/dp/B0BGPNQ842?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/c1/af/97/c1af9743657663d88c6132844dac1613.jpg",
-    "board_id": "1110207814332820701",
-    "tag": "OUTFIT IDEA",
-    "headline": "RUNNING<br>JACKET",
-    "subline": "Layer up for training",
-    "title": "Men's Running Jacket | Training Layer",
-    "description": "Men's Running Jacket – a sporty layer for cold gym days, running or a clean casual outfit with joggers and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensStyle #Athleisure #MensActivewear #TrainingWear",
-    "layout": "product",
-    "status": "queued",
-    "style": "cream"
-  },
-  {
-    "slug": "018-epsom-salt-magnesium-sulfate-v2",
-    "product_url": "https://www.amazon.de/dp/B0065T41T6?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/c8/fe/3c/c8fe3ccf85c6a7afdd5fab208b3822bd.jpg",
-    "board_id": "1110207814332816389",
-    "tag": "GYM ESSENTIALS",
-    "headline": "EPSOM SALT<br>(MAGNESIUM<br>SULFATE)",
-    "subline": "Rest day essential",
-    "title": "Epsom Salt (Magnesium Sulfate) | Recovery Tools",
-    "description": "Epsom Salt (Magnesium Sulfate) – a simple tool for your rest day and post-workout routine.\n\nWerbung | Affiliate-Link\n\n#RestDay #Recovery #SelfCare #GymEssentials #MobilityWork",
-    "layout": "product",
-    "status": "queued",
-    "style": "color"
-  },
-  {
-    "slug": "019-black-seamless-squat-proof-leggings-v2",
-    "product_url": "https://www.amazon.de/dp/B0BRMYP238?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/2a/93/0e/2a930e83b37e7285f2fa7afd0bc1b82d.jpg",
-    "board_id": "1110207814332818580",
-    "tag": "OUTFIT IDEA",
-    "headline": "LEGGINGS<br>OUTFIT IDEA",
-    "subline": "Leggings outfit idea",
-    "title": "Black Seamless Squat-Proof Leggings | Women's Workout Leggings",
-    "description": "Black Seamless Squat-Proof Leggings – easy to style with a sports bra, crop top or oversized tee for the gym, yoga and everyday athleisure.\n\nWerbung | Affiliate-Link\n\n#LeggingsOutfit #GymLeggings #WorkoutOutfit #Athleisure #GymOutfitWomen",
-    "layout": "product",
-    "status": "queued",
-    "style": "minimal"
-  },
-  {
-    "slug": "020-men-s-compression-shorts-3-pack-v2",
-    "product_url": "https://www.amazon.de/dp/B07RGP48Q3?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/07/d0/87/07d087691091c4dc407b4f3ba4759fff.jpg",
-    "board_id": "1110207814332820701",
-    "tag": "OUTFIT IDEA",
-    "headline": "COMPRESSION<br>SHORTS",
-    "subline": "Gym & streetwear for men",
-    "title": "Men's Compression Shorts 3-Pack | Gym Outfit",
-    "description": "Men's Compression Shorts 3-Pack – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #GymShorts #MensFashion",
-    "layout": "product",
-    "status": "queued",
-    "style": "cream"
-  },
-  {
-    "slug": "021-running-phone-armband-v2",
-    "product_url": "https://www.amazon.de/dp/B09QM1L2N3?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/0f/a1/79/0fa179269f5a8abb1b99253f879a0e3f.jpg",
-    "board_id": "1110207814332816389",
-    "tag": "GYM ESSENTIALS",
-    "headline": "RUNNING<br>PHONE<br>ARMBAND",
-    "subline": "Gym bag essential",
-    "title": "Running Phone Armband | Gym Bag Essentials",
-    "description": "Running Phone Armband – a practical gym bag essential for everyday training.\n\nWerbung | Affiliate-Link\n\n#GymEssentials #GymBag #FitnessGear #WhatsInMyGymBag #GymAccessories",
-    "layout": "product",
-    "status": "queued",
-    "style": "color"
-  },
-  {
-    "slug": "022-women-s-thermal-long-sleeve-tops-v2",
-    "product_url": "https://www.amazon.de/dp/B0H6VZZZV2?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/d8/64/1c/d8641c19e821691061201be30d4711c1.jpg",
-    "board_id": "1110207814332850044",
-    "tag": "OUTFIT IDEA",
-    "headline": "THERMAL LONG<br>SLEEVE TOPS",
-    "subline": "Gym top for women",
-    "title": "Women's Thermal Long Sleeve Tops | Gym Top Outfit",
-    "description": "Women's Thermal Long Sleeve Tops – pair it with high waisted leggings or shorts for a clean workout outfit that also works outside the gym.\n\nWerbung | Affiliate-Link\n\n#GymTop #SportsBra #WorkoutOutfit #GymOutfitWomen #Activewear",
-    "layout": "product",
-    "status": "queued",
-    "style": "minimal"
-  },
-  {
-    "slug": "023-men-s-swim-gym-shorts-v2",
-    "product_url": "https://www.amazon.de/dp/B0GJZJ8KD6?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/f6/12/a5/f612a5f2f8ae7bcb4cc5917859feea95.jpg",
-    "board_id": "1110207814332820701",
-    "tag": "OUTFIT IDEA",
-    "headline": "SWIM & GYM<br>SHORTS",
-    "subline": "Gym & streetwear for men",
-    "title": "Men's Swim & Gym Shorts | Gym Outfit",
-    "description": "Men's Swim & Gym Shorts – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #GymShorts #MensFashion",
-    "layout": "product",
-    "status": "queued",
-    "style": "cream"
-  },
-  {
-    "slug": "024-lacrosse-massage-ball-v2",
-    "product_url": "https://www.amazon.de/dp/B0127BIK1U?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/4c/8e/26/4c8e26df8fc0341ac913204a6c8a314e.jpg",
-    "board_id": "1110207814332816389",
-    "tag": "GYM ESSENTIALS",
-    "headline": "LACROSSE<br>MASSAGE BALL",
-    "subline": "Rest day essential",
-    "title": "Lacrosse Massage Ball | Recovery Tools",
-    "description": "Lacrosse Massage Ball – a simple tool for your rest day and post-workout routine.\n\nWerbung | Affiliate-Link\n\n#RestDay #Recovery #SelfCare #GymEssentials #MobilityWork",
-    "layout": "product",
-    "status": "queued",
-    "style": "color"
-  },
-  {
-    "slug": "025-black-wide-leg-yoga-pants-v2",
-    "product_url": "https://www.amazon.de/dp/B0G1Y9PVP9?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/1f/c8/ed/1fc8ed352ad7d341856eeeef6cc53e38.jpg",
-    "board_id": "1110207814332818580",
-    "tag": "OUTFIT IDEA",
-    "headline": "BLACK<br>WIDE-LEG<br>YOGA PANTS",
-    "subline": "Leggings outfit idea",
-    "title": "Black Wide-Leg Yoga Pants | Women's Workout Leggings",
-    "description": "Black Wide-Leg Yoga Pants – easy to style with a sports bra, crop top or oversized tee for the gym, yoga and everyday athleisure.\n\nWerbung | Affiliate-Link\n\n#LeggingsOutfit #GymLeggings #WorkoutOutfit #Athleisure #GymOutfitWomen",
-    "layout": "product",
-    "status": "queued",
-    "style": "minimal"
-  },
-  {
-    "slug": "026-under-armour-white-compression-shorts-v2",
-    "product_url": "https://www.amazon.de/dp/B0872LXK5L?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/b5/60/39/b5603986aa4b31d2c6d7520089535c5c.jpg",
-    "board_id": "1110207814332820701",
-    "tag": "OUTFIT IDEA",
-    "headline": "WHITE<br>COMPRESSION<br>SHORTS",
-    "subline": "Gym & streetwear for men",
-    "title": "Under Armour White Compression Shorts | Men's Gym Outfit",
-    "description": "Under Armour White Compression Shorts for men – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #GymShorts #MensFashion",
-    "layout": "product",
-    "status": "queued",
-    "style": "cream"
-  },
-  {
-    "slug": "027-weightlifting-shoes-v2",
-    "product_url": "https://www.amazon.de/dp/B08HVP9H1Y?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/f0/f1/1b/f0f11bf79914c264dcae6bf1bed5b9d3.jpg",
-    "board_id": "1110207814332971379",
-    "tag": "GYM ESSENTIALS",
-    "headline": "WEIGHTLIFTING<br>SHOES",
-    "subline": "Train · run · lift",
-    "title": "Weightlifting Shoes | Gym & Running Shoes",
-    "description": "Weightlifting Shoes – a solid pick for training and running. Check the size chart before ordering.\n\nWerbung | Affiliate-Link\n\n#GymShoes #RunningShoes #TrainingShoes #FitnessGear #GymEssentials",
-    "layout": "product",
-    "status": "queued",
-    "style": "color"
-  },
-  {
-    "slug": "028-women-s-fitted-zip-up-gym-jacket-v2",
-    "product_url": "https://www.amazon.de/dp/B0CL1YFTZB?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/5b/dc/36/5bdc366b65b9a73dd730067eaaf489f0.jpg",
-    "board_id": "1110207814332850044",
-    "tag": "OUTFIT IDEA",
-    "headline": "FITTED<br>ZIP-UP GYM<br>JACKET",
-    "subline": "Gym top for women",
-    "title": "Women's Fitted Zip-Up Gym Jacket | Gym Top Outfit",
-    "description": "Women's Fitted Zip-Up Gym Jacket – pair it with high waisted leggings or shorts for a clean workout outfit that also works outside the gym.\n\nWerbung | Affiliate-Link\n\n#GymTop #SportsBra #WorkoutOutfit #GymOutfitWomen #Activewear",
-    "layout": "product",
-    "status": "queued",
-    "style": "minimal"
-  },
-  {
-    "slug": "029-men-s-gym-shorts-5-pack-v2",
-    "product_url": "https://www.amazon.de/dp/B0CTK4W6ZY?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/8a/02/2f/8a022fcb649b16b3fe9102f61e496842.jpg",
-    "board_id": "1110207814332820701",
-    "tag": "OUTFIT IDEA",
-    "headline": "GYM SHORTS",
-    "subline": "Gym & streetwear for men",
-    "title": "Men's Gym Shorts 5-Pack | Gym Outfit",
-    "description": "Men's Gym Shorts 5-Pack – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #GymShorts #MensFashion",
-    "layout": "product",
-    "status": "queued",
-    "style": "cream"
-  },
-  {
-    "slug": "030-black-nike-cap-v2",
-    "product_url": "https://www.amazon.de/dp/B0C4YT3QTC?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/57/b3/86/57b3863b85ced9a393c5c56c0675a544.jpg",
-    "board_id": "1110207814332816389",
-    "tag": "GYM ESSENTIALS",
-    "headline": "BLACK NIKE<br>CAP",
-    "subline": "Gym bag essential",
-    "title": "Black Nike Cap | Gym Bag Essentials",
-    "description": "Black Nike Cap – a practical gym bag essential for everyday training.\n\nWerbung | Affiliate-Link\n\n#GymEssentials #GymBag #FitnessGear #WhatsInMyGymBag #GymAccessories",
-    "layout": "product",
-    "status": "queued",
-    "style": "color"
-  },
-  {
-    "slug": "031-women-s-grey-lounge-set-v2",
-    "product_url": "https://www.amazon.de/dp/B0DDQ11QGJ?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/cb/4c/99/cb4c99d0764dc2cf40b0fd709271fefe.jpg",
-    "board_id": "1110207814332818565",
-    "tag": "OUTFIT IDEA",
-    "headline": "GREY LOUNGE<br>SET",
-    "subline": "Matching set · gym to street",
-    "title": "Women's Grey Lounge Set | Matching Gym Set",
-    "description": "Women's Grey Lounge Set – a matching workout set that looks put together in the gym and on the way there. Style it with white sneakers and a zip jacket.\n\nWerbung | Affiliate-Link\n\n#MatchingSet #GymOutfitWomen #WorkoutSet #Activewear #GymOutfit",
-    "layout": "product",
-    "status": "queued",
-    "style": "minimal"
-  },
-  {
-    "slug": "032-balennz-5-men-s-gym-shorts-v2",
-    "product_url": "https://www.amazon.de/dp/B09R42MP54?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/2c/b8/d6/2cb8d6da3beb35219f61434bf634e22a.jpg",
-    "board_id": "1110207814332820701",
-    "tag": "OUTFIT IDEA",
-    "headline": "5\" GYM<br>SHORTS",
-    "subline": "Gym & streetwear for men",
-    "title": "BALENNZ 5\" Men's Gym Shorts | Gym Outfit",
-    "description": "BALENNZ 5\" Men's Gym Shorts – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #GymShorts #MensFashion",
-    "layout": "product",
-    "status": "queued",
-    "style": "cream"
-  },
-  {
-    "slug": "033-betteryou-magnesium-body-lotion-v2",
-    "product_url": "https://www.amazon.de/dp/B00U6CG5QU?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/78/30/e7/7830e76e1b1eb4a29514d75a1cb9bb4c.jpg",
-    "board_id": "1110207814332816389",
-    "tag": "GYM ESSENTIALS",
-    "headline": "MAGNESIUM<br>BODY LOTION",
-    "subline": "Rest day essential",
-    "title": "BetterYou Magnesium Body Lotion | Recovery Tools",
-    "description": "BetterYou Magnesium Body Lotion – a simple tool for your rest day and post-workout routine.\n\nWerbung | Affiliate-Link\n\n#RestDay #Recovery #SelfCare #GymEssentials #MobilityWork",
-    "layout": "product",
-    "status": "queued",
-    "style": "color"
-  },
-  {
-    "slug": "034-sports-bra-3-pack-v2",
-    "product_url": "https://www.amazon.de/dp/B07TVWK57Y?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/58/02/b0/5802b0d0b675209a5344cd5d4d0b51ba.jpg",
-    "board_id": "1110207814332850044",
-    "tag": "OUTFIT IDEA",
-    "headline": "SPORTS BRA",
-    "subline": "Gym top for women",
-    "title": "Sports Bra 3-Pack | Women's Gym Top Outfit",
-    "description": "Sports Bra 3-Pack for women – pair it with high waisted leggings or shorts for a clean workout outfit that also works outside the gym.\n\nWerbung | Affiliate-Link\n\n#GymTop #SportsBra #WorkoutOutfit #GymOutfitWomen #Activewear",
-    "layout": "product",
-    "status": "queued",
-    "style": "minimal"
-  },
-  {
-    "slug": "035-men-s-oversized-vintage-gym-tees-v2",
-    "product_url": "https://www.amazon.de/dp/B0F29KHMN8?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/71/f7/44/71f744e90439fc699f1d109bdc6e23aa.jpg",
-    "board_id": "1110207814332820701",
-    "tag": "OUTFIT IDEA",
-    "headline": "OVERSIZED<br>VINTAGE GYM<br>TEES",
-    "subline": "Clean gym basic for men",
-    "title": "Men's Oversized Vintage Gym Tees | Gym Outfit",
-    "description": "Men's Oversized Vintage Gym Tees – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
-    "layout": "product",
-    "status": "queued",
-    "style": "cream"
-  },
-  {
-    "slug": "036-salomon-men-s-trail-running-shoes-v2",
-    "product_url": "https://www.amazon.de/dp/B0C46MDL41?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/7b/fa/f6/7bfaf6a8375da659e76e7094ba15b7a0.jpg",
-    "board_id": "1110207814332971379",
-    "tag": "GYM ESSENTIALS",
-    "headline": "TRAIL<br>RUNNING<br>SHOES",
-    "subline": "Train · run · lift",
-    "title": "Salomon Men's Trail Running Shoes | Gym & Running Shoes",
-    "description": "Salomon Men's Trail Running Shoes – a solid pick for training and running. Check the size chart before ordering.\n\nWerbung | Affiliate-Link\n\n#GymShoes #RunningShoes #TrainingShoes #FitnessGear #GymEssentials",
-    "layout": "product",
-    "status": "queued",
-    "style": "color"
-  },
-  {
-    "slug": "037-black-leggings-3-pack-v2",
-    "product_url": "https://www.amazon.de/dp/B08R665YMH?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/ed/40/99/ed409961391b046acfacedbd7ed818ba.jpg",
-    "board_id": "1110207814332818580",
-    "tag": "OUTFIT IDEA",
-    "headline": "BLACK<br>LEGGINGS",
-    "subline": "Leggings outfit idea",
-    "title": "Black Leggings 3-Pack | Women's Workout Leggings",
-    "description": "Black Leggings 3-Pack – easy to style with a sports bra, crop top or oversized tee for the gym, yoga and everyday athleisure.\n\nWerbung | Affiliate-Link\n\n#LeggingsOutfit #GymLeggings #WorkoutOutfit #Athleisure #GymOutfitWomen",
-    "layout": "product",
-    "status": "queued",
-    "style": "minimal"
-  },
-  {
-    "slug": "038-men-s-quick-dry-workout-shirt-v2",
-    "product_url": "https://www.amazon.de/dp/B0CWR4QMKJ?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/bf/4b/96/bf4b96bc9d406851bf7de2db3a3cc635.jpg",
-    "board_id": "1110207814332820701",
-    "tag": "OUTFIT IDEA",
-    "headline": "QUICK-DRY<br>WORKOUT<br>SHIRT",
-    "subline": "Clean gym basic for men",
-    "title": "Men's Quick-Dry Workout Shirt | Gym Outfit",
-    "description": "Men's Quick-Dry Workout Shirt – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
-    "layout": "product",
-    "status": "queued",
-    "style": "cream"
-  },
-  {
-    "slug": "039-white-gym-backpack-with-shoe-compartment-v2",
-    "product_url": "https://www.amazon.de/dp/B0FD2J6MF7?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/fe/e2/6c/fee26c45e3d5af7b4d213c7876b27c4b.jpg",
-    "board_id": "1110207814332816389",
-    "tag": "GYM ESSENTIALS",
-    "headline": "GYM BAG<br>ESSENTIAL",
-    "subline": "Gym bag essential",
-    "title": "White Gym Backpack with Shoe Compartment | Gym Bag Essentials",
-    "description": "White Gym Backpack with Shoe Compartment – a practical gym bag essential for everyday training.\n\nWerbung | Affiliate-Link\n\n#GymEssentials #GymBag #FitnessGear #WhatsInMyGymBag #GymAccessories",
-    "layout": "product",
-    "status": "queued",
-    "style": "color"
-  },
-  {
-    "slug": "040-black-high-waisted-leggings-with-pockets-v2",
-    "product_url": "https://www.amazon.de/dp/B0D6B1PGNH?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/8a/2c/5e/8a2c5e3995f779092586d7c8cda00abe.jpg",
-    "board_id": "1110207814332818580",
-    "tag": "OUTFIT IDEA",
-    "headline": "LEGGINGS<br>OUTFIT IDEA",
-    "subline": "Leggings outfit idea",
-    "title": "Black High-Waisted Leggings with Pockets | Women's Workout Leggings",
-    "description": "Black High-Waisted Leggings with Pockets – easy to style with a sports bra, crop top or oversized tee for the gym, yoga and everyday athleisure.\n\nWerbung | Affiliate-Link\n\n#LeggingsOutfit #GymLeggings #WorkoutOutfit #Athleisure #GymOutfitWomen",
-    "layout": "product",
-    "status": "queued",
-    "style": "minimal"
-  },
-  {
-    "slug": "041-men-s-2-in-1-training-shorts-v2",
-    "product_url": "https://www.amazon.de/dp/B09573RCYV?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/70/eb/74/70eb74c97aade1bf9a7840dc4190e2c3.jpg",
-    "board_id": "1110207814332820701",
-    "tag": "OUTFIT IDEA",
-    "headline": "2-IN-1<br>TRAINING<br>SHORTS",
-    "subline": "Gym & streetwear for men",
-    "title": "Men's 2-in-1 Training Shorts | Gym Outfit",
-    "description": "Men's 2-in-1 Training Shorts – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #GymShorts #MensFashion",
-    "layout": "product",
-    "status": "queued",
-    "style": "cream"
-  },
-  {
-    "slug": "042-wooden-gymnastic-rings-v2",
-    "product_url": "https://www.amazon.de/dp/B06XCSJX7T?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/7e/ab/7a/7eab7a293db98b59f6c38adcc4281303.jpg",
-    "board_id": "1110207814332816389",
-    "tag": "GYM ESSENTIALS",
-    "headline": "WOODEN<br>GYMNASTIC<br>RINGS",
-    "subline": "Train anywhere",
-    "title": "Wooden Gymnastic Rings | Home Gym Equipment",
-    "description": "Wooden Gymnastic Rings – useful equipment for home workouts and the gym.\n\nWerbung | Affiliate-Link\n\n#HomeGym #HomeWorkout #FitnessEquipment #WorkoutAtHome #GymEssentials",
-    "layout": "product",
-    "status": "queued",
-    "style": "color"
-  },
-  {
-    "slug": "043-dark-red-wide-leg-sweatpants-v2",
-    "product_url": "https://www.amazon.de/dp/B0G1ZK4QH4?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/0e/a4/24/0ea424dd66b3c9bac9400c9198452005.jpg",
-    "board_id": "1110207814332818565",
-    "tag": "OUTFIT IDEA",
-    "headline": "DARK RED<br>WIDE-LEG<br>SWEATPANTS",
-    "subline": "Comfy · sporty · easy to style",
-    "title": "Dark Red Wide-Leg Sweatpants | Women's Athleisure Outfit",
-    "description": "Dark Red Wide-Leg Sweatpants for women – comfortable for workouts, errands and lazy days. Combine with a fitted top and sneakers.\n\nWerbung | Affiliate-Link\n\n#AthleisureOutfit #WorkoutOutfit #ComfyOutfit #GymOutfitWomen #Activewear",
-    "layout": "product",
-    "status": "queued",
-    "style": "minimal"
-  },
-  {
-    "slug": "044-black-oversized-gym-tee-v2",
-    "product_url": "https://www.amazon.de/dp/B0C81R5LPC?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/3d/ee/ee/3deeeeb71128373ae0005af2ffda224e.jpg",
-    "board_id": "1110207814332820701",
-    "tag": "OUTFIT IDEA",
-    "headline": "BLACK<br>OVERSIZED<br>GYM TEE",
-    "subline": "Clean gym basic for men",
-    "title": "Black Oversized Gym Tee | Men's Gym Outfit",
-    "description": "Black Oversized Gym Tee for men – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
-    "layout": "product",
-    "status": "queued",
-    "style": "cream"
-  },
-  {
-    "slug": "045-bone-conduction-headphones-v2",
-    "product_url": "https://www.amazon.de/dp/B0HN7WY9WS?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/dc/16/d8/dc16d8224fccef1e9024d0dd46c9411b.jpg",
-    "board_id": "1110207814332816389",
-    "tag": "GYM ESSENTIALS",
-    "headline": "BONE<br>CONDUCTION<br>HEADPHONES",
-    "subline": "Gym bag essential",
-    "title": "Bone Conduction Headphones | Gym Bag Essentials",
-    "description": "Bone Conduction Headphones – a practical gym bag essential for everyday training.\n\nWerbung | Affiliate-Link\n\n#GymEssentials #GymBag #FitnessGear #WhatsInMyGymBag #GymAccessories",
-    "layout": "product",
-    "status": "queued",
-    "style": "color"
-  },
-  {
-    "slug": "046-black-zip-up-workout-jacket-v2",
-    "product_url": "https://www.amazon.de/dp/B0D9S9B4L2?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/3b/04/0c/3b040c39d43842dbc51e68f281b4733e.jpg",
-    "board_id": "1110207814332850044",
-    "tag": "OUTFIT IDEA",
-    "headline": "BLACK ZIP-UP<br>WORKOUT<br>JACKET",
-    "subline": "Gym top for women",
-    "title": "Black Zip-Up Workout Jacket | Women's Gym Top Outfit",
-    "description": "Black Zip-Up Workout Jacket for women – pair it with high waisted leggings or shorts for a clean workout outfit that also works outside the gym.\n\nWerbung | Affiliate-Link\n\n#GymTop #SportsBra #WorkoutOutfit #GymOutfitWomen #Activewear",
-    "position": "center 30%",
-    "status": "queued",
-    "style": "cream"
-  },
-  {
-    "slug": "047-men-s-white-gym-tank-top-v2",
-    "product_url": "https://www.amazon.de/dp/B0G5PHV4XB?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/d3/a4/16/d3a41664fee49b6305ed0cc762db15e7.jpg",
-    "board_id": "1110207814332820701",
-    "tag": "OUTFIT IDEA",
-    "headline": "WHITE GYM<br>TANK TOP",
-    "subline": "Clean gym basic for men",
-    "title": "Men's White Gym Tank Top | Gym Outfit",
-    "description": "Men's White Gym Tank Top – a simple gym basic that goes with every pair of shorts or joggers. Keep it neutral: black, grey and white.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #GymWear #MensFashion #WorkoutClothes",
-    "layout": "product",
-    "status": "queued",
-    "style": "minimal"
-  },
-  {
-    "slug": "048-knee-sleeves-pair-v2",
-    "product_url": "https://www.amazon.de/dp/B0CKK4VG26?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/61/16/ec/6116ec8fa65d67d6f4b6201d706f7673.jpg",
-    "board_id": "1110207814332816389",
-    "tag": "GYM ESSENTIALS",
-    "headline": "KNEE SLEEVES<br>(PAIR)",
-    "subline": "Train anywhere",
-    "title": "Knee Sleeves (Pair) | Home Gym Equipment",
-    "description": "Knee Sleeves (Pair) – useful equipment for home workouts and the gym.\n\nWerbung | Affiliate-Link\n\n#HomeGym #HomeWorkout #FitnessEquipment #WorkoutAtHome #GymEssentials",
-    "layout": "product",
-    "status": "queued",
-    "style": "cream"
-  },
-  {
-    "slug": "049-black-sports-bra-v2",
-    "product_url": "https://www.amazon.de/dp/B0GF8CKZ5N?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/a1/ba/3f/a1ba3f9e2918bed796323041d2379e6a.jpg",
-    "board_id": "1110207814332850044",
-    "tag": "OUTFIT IDEA",
-    "headline": "BLACK SPORTS<br>BRA",
-    "subline": "Gym top for women",
-    "title": "Black Sports Bra | Women's Gym Top Outfit",
-    "description": "Black Sports Bra for women – pair it with high waisted leggings or shorts for a clean workout outfit that also works outside the gym.\n\nWerbung | Affiliate-Link\n\n#GymTop #SportsBra #WorkoutOutfit #GymOutfitWomen #Activewear",
-    "layout": "product",
-    "status": "queued",
-    "style": "color"
-  },
-  {
-    "slug": "050-under-armour-black-compression-shorts-v2",
-    "product_url": "https://www.amazon.de/dp/B089T92G55?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/1a/85/a8/1a85a8d7dde42ab79b6984856996dddc.jpg",
-    "board_id": "1110207814332820701",
-    "tag": "OUTFIT IDEA",
-    "headline": "BLACK<br>COMPRESSION<br>SHORTS",
-    "subline": "Gym & streetwear for men",
-    "title": "Under Armour Black Compression Shorts | Men's Gym Outfit",
-    "description": "Under Armour Black Compression Shorts for men – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #GymShorts #MensFashion",
-    "layout": "product",
-    "status": "queued",
-    "style": "minimal"
-  },
-  {
-    "slug": "051-ankle-straps-for-cable-machine-v2",
-    "product_url": "https://www.amazon.de/dp/B0CHFYJGC5?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/a3/a5/08/a3a508ca19463709c78d1679dd94f70e.jpg",
-    "board_id": "1110207814332816389",
-    "tag": "GYM ESSENTIALS",
-    "headline": "ANKLE STRAPS<br>FOR CABLE<br>MACHINE",
-    "subline": "Train anywhere",
-    "title": "Ankle Straps for Cable Machine | Home Gym Equipment",
-    "description": "Ankle Straps for Cable Machine – useful equipment for home workouts and the gym.\n\nWerbung | Affiliate-Link\n\n#HomeGym #HomeWorkout #FitnessEquipment #WorkoutAtHome #GymEssentials",
-    "layout": "product",
-    "status": "queued",
-    "style": "cream"
-  },
-  {
-    "slug": "052-lavender-flared-leggings-crop-top-set-v2",
-    "product_url": "https://www.amazon.de/dp/B0H8XJ8P48?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/79/33/bb/7933bb72eeda30e97ae45fa640668b4d.jpg",
-    "board_id": "1110207814332818565",
-    "tag": "OUTFIT IDEA",
-    "headline": "MATCHING<br>GYM SET",
-    "subline": "Matching set · gym to street",
-    "title": "Lavender Flared Leggings & Crop Top Set | Women's Matching Gym Set",
-    "description": "Lavender Flared Leggings & Crop Top Set for women – a matching workout set that looks put together in the gym and on the way there. Style it with white sneakers and a zip jacket.\n\nWerbung | Affiliate-Link\n\n#MatchingSet #GymOutfitWomen #WorkoutSet #Activewear #GymOutfit",
-    "layout": "product",
-    "status": "queued",
-    "style": "color"
-  },
-  {
-    "slug": "053-black-joggers-v2",
-    "product_url": "https://www.amazon.de/dp/B0D2R8CGJ5?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/cd/cb/82/cdcb82f08381bda4164d5ded52642d92.jpg",
-    "board_id": "1110207814332820701",
-    "tag": "OUTFIT IDEA",
-    "headline": "BLACK<br>JOGGERS",
-    "subline": "Gym & streetwear for men",
-    "title": "Black Joggers | Men's Gym Outfit",
-    "description": "Black Joggers for men – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #Joggers #MensFashion",
-    "layout": "product",
-    "status": "queued",
-    "style": "minimal"
-  },
-  {
-    "slug": "054-above-stainless-steel-shaker-750-ml-v2",
-    "product_url": "https://www.amazon.de/dp/B0DS94YFTC?tag=lilmedia-21",
-    "source_image": "https://i.pinimg.com/1200x/f2/ef/77/f2ef771781c13534c7cb620513c9d1fa.jpg",
-    "board_id": "1110207814332816389",
-    "tag": "GYM ESSENTIALS",
-    "headline": "STAINLESS<br>STEEL SHAKER<br>750 ML",
-    "subline": "Gym bag essential",
-    "title": "ABOVE Stainless Steel Shaker 750 ml | Gym Bag Essentials",
-    "description": "ABOVE Stainless Steel Shaker 750 ml – a practical gym bag essential for everyday training.\n\nWerbung | Affiliate-Link\n\n#GymEssentials #GymBag #FitnessGear #WhatsInMyGymBag #GymAccessories",
-    "layout": "product",
-    "status": "queued",
-    "style": "cream"
-  },
-  {
-    "slug": "148-black-compression-shirt-men-v2",
-    "product_url": "https://www.amazon.de/dp/B0874X72WP?tag=lilmedia-21",
-    "source_image": "file:///home/user/fit-pins/src/148-black-compression-shirt-men.jpg",
-    "board_id": "1110207814332820701",
-    "tag": "GYM ESSENTIALS",
-    "layout": "product",
-    "headline": "COMPRESSION<br>SHIRT<br>MEN",
-    "subline": "Under Armour HeatGear · tight fit",
-    "title": "Black Compression Shirt Men | Under Armour HeatGear Gym Shirt",
-    "description": "Black compression shirt for men – the Under Armour HeatGear tee fits close to the body, ideal for lifting, running or as a base layer. Style it with black joggers or gym shorts for a clean all-black gym outfit.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #CompressionShirt #MensGymWear #UnderArmour #AllBlackOutfit",
-    "status": "queued",
-    "style": "color"
-  },
-  {
-    "slug": "149-black-compression-tank-top-men-v2",
-    "product_url": "https://www.amazon.de/dp/B0874WCKQJ?tag=lilmedia-21",
-    "source_image": "file:///home/user/fit-pins/src/149-black-compression-tank-top-men.jpg",
-    "board_id": "1110207814332820701",
-    "tag": "OUTFIT IDEA",
-    "layout": "product",
-    "headline": "SLEEVELESS<br>GYM SHIRT<br>MEN",
-    "subline": "Under Armour HeatGear · compression fit",
-    "title": "Black Sleeveless Compression Shirt Men | Under Armour Gym Tank Top",
-    "description": "Black sleeveless compression shirt for men – the Under Armour HeatGear tank top sits close to the body and is made for lifting and hot gym days. Pair it with grey training shorts for a simple men's gym outfit.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #TankTopMen #CompressionShirt #MensGymWear #UnderArmour",
-    "status": "queued",
-    "style": "minimal"
-  },
-  {
-    "slug": "150-olive-green-t-shirt-men-v2",
-    "product_url": "https://www.amazon.de/dp/B09WD78L62?tag=lilmedia-21",
-    "source_image": "file:///home/user/fit-pins/src/150-olive-green-t-shirt-men.jpg",
-    "board_id": "1110207814332820701",
-    "tag": "OUTFIT IDEA",
-    "layout": "product",
-    "headline": "OLIVE<br>GYM TEE<br>MEN",
-    "subline": "Under Armour · left chest logo",
-    "title": "Olive Green T-Shirt Men | Under Armour Gym Tee for Training & Everyday",
-    "description": "Olive green t-shirt for men – the Under Armour left chest logo tee works for the gym and as a casual everyday shirt. Wear it with black joggers and white sneakers for an easy athleisure outfit.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensTshirt #Athleisure #OliveGreen #UnderArmour",
-    "status": "queued",
-    "style": "cream"
-  },
-  {
-    "slug": "151-black-gym-shorts-men-v2",
-    "product_url": "https://www.amazon.de/dp/B0714D4Q4B?tag=lilmedia-21",
-    "source_image": "file:///home/user/fit-pins/src/151-black-gym-shorts-men.jpg",
-    "board_id": "1110207814332820701",
-    "tag": "OUTFIT IDEA",
-    "layout": "product",
-    "headline": "BLACK<br>GYM SHORTS<br>MEN",
-    "subline": "Under Armour Tech Graphic · side logo",
-    "title": "Black Gym Shorts Men | Under Armour Tech Graphic Training Shorts",
-    "description": "Black gym shorts for men – the Under Armour Tech Graphic shorts with the big side logo are a classic for leg day, running and everyday training. Pair them with a black compression shirt for an all-black gym outfit.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #GymShortsMen #MensGymWear #AllBlackOutfit #UnderArmour",
-    "status": "queued",
-    "style": "color"
-  },
-  {
-    "slug": "152-black-puma-sneakers-v2",
-    "product_url": "https://www.amazon.de/dp/B07S8PT36G?tag=lilmedia-21",
-    "source_image": "file:///home/user/fit-pins/src/152-black-puma-sneakers.jpg",
-    "board_id": "1110207814332971379",
-    "tag": "GYM ESSENTIALS",
-    "layout": "product",
-    "headline": "ALL BLACK<br>GYM<br>SNEAKERS",
-    "subline": "PUMA Anzarun Lite · light mesh · unisex",
-    "title": "All Black Gym Sneakers | PUMA Anzarun Lite Training Shoes Men & Women",
-    "description": "All black sneakers for the gym – the PUMA Anzarun Lite is a light mesh shoe for training, walking and everyday outfits. Easy to match with black joggers or gym shorts.\n\nWerbung | Affiliate-Link\n\n#GymShoes #BlackSneakers #MensGymWear #TrainingShoes #Puma",
-    "status": "queued",
-    "style": "minimal"
-  },
-  {
-    "slug": "153-white-puma-sneakers-v2",
-    "product_url": "https://www.amazon.de/dp/B077MQ6C7S?tag=lilmedia-21",
-    "source_image": "file:///home/user/fit-pins/src/153-white-puma-sneakers.jpg",
-    "board_id": "1110207814332971379",
-    "tag": "OUTFIT IDEA",
-    "layout": "product",
-    "headline": "WHITE<br>SNEAKERS<br>OUTFIT",
-    "subline": "PUMA ST Runner v3 · clean everyday look",
-    "title": "White Sneakers Outfit | PUMA ST Runner v3 Classic White Sneakers",
-    "description": "Classic white sneakers – the PUMA ST Runner v3 goes with joggers, gym shorts and jeans and gives every athleisure outfit a clean look. A simple pick for the way to the gym and everyday wear.\n\nWerbung | Affiliate-Link\n\n#WhiteSneakers #SneakerOutfit #Athleisure #MensStyle #Puma",
-    "status": "queued",
-    "style": "cream"
-  },
-  {
-    "slug": "154-black-baggy-gym-pants-men-v2",
-    "product_url": "https://www.amazon.de/dp/B075GQLGGG?tag=lilmedia-21",
-    "source_image": "file:///home/user/fit-pins/src/154-black-baggy-gym-pants-men.jpg",
-    "board_id": "1110207814332820701",
-    "tag": "OUTFIT IDEA",
-    "layout": "product",
-    "headline": "BAGGY<br>GYM PANTS<br>MEN",
-    "subline": "Old-school bodybuilding fit · black",
-    "title": "Black Baggy Gym Pants Men | Old School Bodybuilding Pants Outfit",
-    "description": "Black baggy gym pants for men – the old-school bodybuilding look with a wide fit and tapered leg. Wear them with a tank top or oversized tee and white sneakers for a classic gym outfit.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #BaggyPants #OldSchoolBodybuilding #MensGymWear #GymFit",
-    "status": "queued",
-    "style": "color"
-  },
-  {
-    "slug": "155-black-ribbed-tank-top-men-v2",
-    "product_url": "https://www.amazon.de/dp/B0G3WM2CGJ?tag=lilmedia-21",
-    "source_image": "file:///home/user/fit-pins/src/155-black-ribbed-tank-top-men.jpg",
-    "board_id": "1110207814332820701",
-    "tag": "OUTFIT IDEA",
-    "layout": "product",
-    "headline": "RIBBED<br>TANK TOP<br>MEN",
-    "subline": "Slim fit muscle shirt · black",
-    "title": "Black Ribbed Tank Top Men | Slim Fit Muscle Shirt Gym Outfit",
-    "description": "Black ribbed tank top for men – a slim fit muscle shirt for training and summer outfits. Style it with black joggers or baggy gym pants for a clean all-black look.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #TankTopMen #MuscleShirt #AllBlackOutfit #MensGymWear",
-    "status": "queued",
-    "style": "minimal"
-  },
-  {
-    "slug": "156-grey-wide-leg-sweatpants-men-v2",
-    "product_url": "https://www.amazon.de/dp/B0H36333FW?tag=lilmedia-21",
-    "source_image": "file:///home/user/fit-pins/src/156-grey-wide-leg-sweatpants-men.jpg",
-    "board_id": "1110207814332820701",
-    "tag": "OUTFIT IDEA",
-    "position": "center 50%",
-    "headline": "GREY<br>SWEATPANTS<br>OUTFIT",
-    "subline": "Wide leg · zip pockets · easy to style",
-    "title": "Grey Sweatpants Outfit Men | Wide Leg Sweatpants with Zip Pockets",
-    "description": "Grey wide leg sweatpants for men – a relaxed fit with drawstring and zip pockets for the gym, travel or a cozy streetwear look. Style them with a plain white tee and chunky white sneakers.\n\nWerbung | Affiliate-Link\n\n#GreySweatpants #SweatpantsOutfit #MensStreetwear #GymOutfitMen #Athleisure",
-    "status": "queued",
-    "style": "color"
-  },
-  {
-    "slug": "157-portable-digital-cable-machine-v2",
-    "product_url": "https://www.amazon.de/dp/B0HBPGRX4G?tag=lilmedia-21",
-    "source_image": "file:///home/user/fit-pins/src/157-portable-digital-cable-machine.jpg",
-    "board_id": "1110207814332816389",
-    "tag": "HOME GYM",
-    "layout": "product",
-    "headline": "MINI CABLE<br>MACHINE<br>HOME GYM",
-    "subline": "Digital resistance · handles & straps included",
-    "title": "Portable Cable Machine | Digital Home Gym for Small Spaces",
-    "description": "Portable digital cable machine for your home gym – set the resistance on the display and train with handles and an ankle strap. A compact gift idea for anyone who trains at home or travels.\n\nWerbung | Affiliate-Link\n\n#HomeGym #HomeWorkout #GymEquipment #FitnessGifts #GymEssentials",
-    "status": "queued",
-    "style": "cream"
   }
 ]
