@@ -796,7 +796,7 @@
   },
   {
     "slug": "054-above-stainless-steel-shaker-750-ml",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B0DS94YFTC?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/f2/ef/77/f2ef771781c13534c7cb620513c9d1fa.jpg",
     "board_id": "1110207814332816389",
@@ -805,7 +805,9 @@
     "subline": "Gym bag essential",
     "title": "ABOVE Stainless Steel Shaker 750 ml | Gym Bag Essentials",
     "description": "ABOVE Stainless Steel Shaker 750 ml – a practical gym bag essential for everyday training.\n\nWerbung | Affiliate-Link\n\n#GymEssentials #GymBag #FitnessGear #WhatsInMyGymBag #GymAccessories",
-    "layout": "product"
+    "layout": "product",
+    "posted_at": "2026-11-26",
+    "pin_id": "1110207745681283105"
   },
   {
     "slug": "055-blush-pink-wide-leg-yoga-pants",
