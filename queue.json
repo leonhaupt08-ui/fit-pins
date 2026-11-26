@@ -781,7 +781,7 @@
   },
   {
     "slug": "053-black-joggers",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B0D2R8CGJ5?tag=lilmedia-21",
     "source_image": "https://i.pinimg.com/1200x/cd/cb/82/cdcb82f08381bda4164d5ded52642d92.jpg",
     "board_id": "1110207814332820701",
@@ -789,8 +789,10 @@
     "headline": "BLACK<br>JOGGERS",
     "subline": "Gym & streetwear for men",
     "title": "Black Joggers | Men's Gym Outfit",
-    "description": "Black Joggers for men – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #GymShorts #MensFashion",
-    "layout": "product"
+    "description": "Black Joggers for men – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #Joggers #MensFashion",
+    "layout": "product",
+    "posted_at": "2026-11-26",
+    "pin_id": "1110207745681276347"
   },
   {
     "slug": "054-above-stainless-steel-shaker-750-ml",
@@ -1725,7 +1727,7 @@
     "headline": "BLACK<br>JOGGERS",
     "subline": "Gym & streetwear for men",
     "title": "Under Armour Black Joggers | Men's Gym Outfit",
-    "description": "Under Armour Black Joggers for men – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #GymShorts #MensFashion",
+    "description": "Under Armour Black Joggers for men – comfortable for training and easy to wear after the gym with a plain tee and sneakers.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #MensActivewear #Streetwear #Joggers #MensFashion",
     "layout": "product"
   },
   {
