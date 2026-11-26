@@ -70,6 +70,12 @@ Reference (old method):
      `Werbung | Affiliate-Link`, blank line, 4–5 hashtags
    - `status`: `queued`
 
+## Designs
+
+Pins must not all look the same. Before rendering new entries run `python3 tools/assign_styles.py`
+(gives each queued entry a rotating `style`: dark, darkphoto, cream, color, card, minimal), then
+`node tools/render.js`.
+
 ## Rules (must follow)
 
 - Every description contains `Werbung | Affiliate-Link` (German law).
