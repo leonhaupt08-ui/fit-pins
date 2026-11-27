@@ -1088,7 +1088,7 @@
   },
   {
     "slug": "159-washed-black-sweatpants-men",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B0GPVM1CVP?tag=lilmedia-21",
     "source_image": "file:///home/user/fit-pins/src/159-washed-black-sweatpants-men.jpg",
     "board_id": "1110207814332820701",
@@ -1099,7 +1099,9 @@
     "title": "Washed Black Sweatpants Men | Vintage Straight Leg Sweatpants Outfit",
     "description": "Washed black sweatpants for men – a vintage acid wash look with a straight leg and drawstring waist. Style them with a white tee and white sneakers for an easy streetwear or gym outfit.\n\nWerbung | Affiliate-Link\n\n#SweatpantsOutfit #MensStreetwear #GymOutfitMen #Athleisure #VintageStyle",
     "style": "card",
-    "variant": 3
+    "variant": 3,
+    "posted_at": "2026-11-27",
+    "pin_id": "1110207745681381898"
   },
   {
     "slug": "162-all-black-gym-outfit-men",
