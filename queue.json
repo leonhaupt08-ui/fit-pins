@@ -1048,7 +1048,7 @@
   },
   {
     "slug": "158-cast-iron-dumbbell-set-curl-bar",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B06X95DP1K?tag=lilmedia-21",
     "source_image": "file:///home/user/fit-pins/src/158-cast-iron-dumbbell-set-curl-bar.jpg",
     "board_id": "1110207814332816389",
@@ -1059,7 +1059,9 @@
     "title": "Dumbbell Set with Curl Bar | Cast Iron Weight Plates for Home Gym",
     "description": "Cast iron weight set with two dumbbell bars and an EZ curl bar – a simple way to start a home gym for curls, presses and rows. A classic gift idea for anyone who wants to train at home.\n\nWerbung | Affiliate-Link\n\n#HomeGym #DumbbellSet #HomeWorkout #GymEquipment #FitnessGifts",
     "style": "cream",
-    "variant": 3
+    "variant": 3,
+    "posted_at": "2026-11-27",
+    "pin_id": "1110207745681359728"
   },
   {
     "slug": "164-gym-gift-ideas-for-her",
