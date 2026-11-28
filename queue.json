@@ -1145,7 +1145,7 @@
   },
   {
     "slug": "165-home-gym-essentials",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://leonhaupt08-ui.github.io/fit-pins/blog/home-gym-essentials/",
     "layout": "collage",
     "images": [
@@ -1162,7 +1162,9 @@
     "title": "Home Gym Essentials | Small Home Gym Ideas for Beginners",
     "description": "Home gym essentials for small spaces – dumbbells, a compact cable machine, resistance bands and a mat cover strength, cardio and mobility. A simple setup to start training at home.\n\nWerbung | Affiliate-Link\n\n#HomeGym #HomeGymIdeas #HomeWorkout #GymEquipment #WorkoutAtHome",
     "style": "cream",
-    "variant": 6
+    "variant": 6,
+    "posted_at": "2026-11-28",
+    "pin_id": "1110207745681441449"
   },
   {
     "slug": "161-white-long-sleeve-training-shirt-men",
