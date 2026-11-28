@@ -1128,7 +1128,7 @@
   },
   {
     "slug": "160-black-t-shirt-multipack-men",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B0C5D5N75W?tag=lilmedia-21",
     "source_image": "file:///home/user/fit-pins/src/160-black-t-shirt-multipack-men.jpg",
     "board_id": "1110207814332820701",
@@ -1139,7 +1139,9 @@
     "title": "Black T-Shirt Multipack Men | Plain Basic Tees for Gym & Everyday",
     "description": "Black t-shirt multipack for men – plain basic tees you can wear to the gym, under a hoodie or with joggers every day. An easy capsule wardrobe staple for an all-black look.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #BasicTees #AllBlackOutfit #MensBasics #CapsuleWardrobe",
     "style": "dark",
-    "variant": 6
+    "variant": 6,
+    "posted_at": "2026-11-28",
+    "pin_id": "1110207745681432760"
   },
   {
     "slug": "165-home-gym-essentials",
