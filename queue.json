@@ -1208,7 +1208,7 @@
   },
   {
     "slug": "166-sweatpants-outfits-men",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://leonhaupt08-ui.github.io/fit-pins/blog/gym-outfit-for-men/",
     "layout": "collage",
     "images": [
@@ -1225,7 +1225,9 @@
     "title": "Sweatpants Outfit Men | Baggy Sweatpants Gym & Streetwear Looks",
     "description": "Sweatpants outfits for men – wide leg grey, washed black or classic baggy sweatpants styled with white sneakers and a plain tee. The easy streetwear look for before and after the gym.\n\nWerbung | Affiliate-Link\n\n#SweatpantsOutfit #GreySweatpants #MensStreetwear #GymOutfitMen #Athleisure",
     "style": "color",
-    "variant": 4
+    "variant": 4,
+    "posted_at": "2026-11-28",
+    "pin_id": "1110207745681479558"
   },
   {
     "slug": "168-gym-bag-essentials",
