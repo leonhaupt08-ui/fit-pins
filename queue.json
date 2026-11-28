@@ -1168,7 +1168,7 @@
   },
   {
     "slug": "161-white-long-sleeve-training-shirt-men",
-    "status": "queued",
+    "status": "posted",
     "product_url": "https://www.amazon.de/dp/B07SS9MV6T?tag=lilmedia-21",
     "source_image": "file:///home/user/fit-pins/src/161-white-long-sleeve-training-shirt-men.jpg",
     "board_id": "1110207814332820701",
@@ -1179,7 +1179,9 @@
     "title": "White Long Sleeve Gym Shirt Men | Quick Dry Training Shirt",
     "description": "White long sleeve gym shirt for men – a quick-dry training top for running, lifting and cold gym days. Pair it with black shorts or joggers for a clean black and white outfit.\n\nWerbung | Affiliate-Link\n\n#GymOutfitMen #LongSleeveShirt #RunningOutfit #MensActivewear #TrainingWear",
     "style": "color",
-    "variant": 1
+    "variant": 1,
+    "posted_at": "2026-11-28",
+    "pin_id": "1110207745681451472"
   },
   {
     "slug": "167-gym-outfit-ideas-women",
